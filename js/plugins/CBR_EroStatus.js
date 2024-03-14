@@ -427,7 +427,7 @@ Window_EroStatus.prototype.refresh = function () {
 
     this.contents.context.font = this.contents._makeFontNameText();
     this.contents.fontSize =
-      Number(obj["サイズ"]) || $gameSystem.mainFontSize();
+      Number(obj["サイズ"]) - 8 || $gameSystem.mainFontSize();
     this.resetTextColor();
 
     const reg = RegExp(/\\([CI])\[(\d+)\]|\\\{|\\\}/, "g");

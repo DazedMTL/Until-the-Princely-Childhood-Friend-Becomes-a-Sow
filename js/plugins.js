@@ -46,7 +46,7 @@ var $plugins = [
     name: "MAT_LoadComSim",
     status: true,
     description: "ver1.00 メニューコマンドに「ロード」を追加します。",
-    parameters: { loadtext: "ロード", testenable: "false" },
+    parameters: { loadtext: "Load", testenable: "false" },
   },
   {
     name: "MessageSkip",
@@ -109,7 +109,7 @@ var $plugins = [
     parameters: {
       base: "",
       baseItems:
-        '["{\\"name\\":\\"スマホ\\",\\"commonEvent\\":\\"1\\",\\"switchId\\":\\"0\\",\\"visibility\\":\\"true\\",\\"note\\":\\"\\"}"]',
+        '["{\\"name\\":\\"Smartphone\\",\\"commonEvent\\":\\"1\\",\\"switchId\\":\\"0\\",\\"visibility\\":\\"true\\",\\"note\\":\\"\\"}"]',
     },
   },
 ];
