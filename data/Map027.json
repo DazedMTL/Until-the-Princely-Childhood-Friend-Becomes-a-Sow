@@ -3943,14 +3943,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃいませ～。何名様ですか～？」"
+                                "\"Welcome! How many in your party?\""
                             ]
                         },
                         {
@@ -3961,14 +3961,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません…………1人なんですけど大丈夫ですか？」"
+                                "\"Excuse me... is it okay if it's just one person?\""
                             ]
                         },
                         {
@@ -3979,21 +3979,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい！お一人様も大歓迎です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それではこちらの紙にコース等をご記入下さ～い！」"
+                                "\"Yes, of course! We welcome solo guests as well! Please fill\nout your course and other details on this paper!\""
                             ]
                         },
                         {
@@ -4004,14 +3997,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい。え～っと………………………………」"
+                                "\"Okay, let's see...\""
                             ]
                         },
                         {
@@ -4046,14 +4039,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、できました」"
+                                "\"Alright, done.\""
                             ]
                         },
                         {
@@ -4064,14 +4057,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それでは確認させていただきますね～！」"
+                                "\"Now, let me just check that for you!\""
                             ]
                         },
                         {
@@ -4100,21 +4093,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい！大丈夫ですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お部屋は2階となります！奥の階段からお上がりください！」"
+                                "\"Yes, everything looks good! Your room will be on the second\nfloor! Please go up the stairs in the back!\""
                             ]
                         },
                         {
@@ -4125,14 +4111,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい。ありがとうございます」"
+                                "\"Okay, thank you very much.\""
                             ]
                         },
                         {
@@ -4216,21 +4202,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（一人カラオケなんて初めてだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちゃんと楽しめるかなあ…………）"
+                                "\"(This is my first time doing karaoke alone. I wonder if I\ncan really enjoy it...)\""
                             ]
                         },
                         {
@@ -4594,14 +4573,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こっちはトイレだ。二回の部屋に行こう）"
+                                "(This is the bathroom. Let's go to the room on the second\nfloor.)"
                             ]
                         },
                         {
@@ -4703,14 +4682,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こっちは女子トイレだ。間違っても入るわけにはいかないよ）"
+                                "(This is the women's restroom. I can't possibly enter by\nmistake.)"
                             ]
                         },
                         {
@@ -4812,14 +4791,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まだ1曲も歌ってないし、お金も払わず帰るわけにはいかないよ）"
+                                "(I haven't sung a single song yet, and I can't just leave\nwithout paying.)"
                             ]
                         },
                         {
@@ -4921,14 +4900,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まだ1曲も歌ってないし、お金も払わず帰るわけにはいかないよ）"
+                                "(I haven't sung a single song yet, and I can't just leave\nwithout paying.)"
                             ]
                         },
                         {
@@ -5030,14 +5009,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まだ1曲も歌ってないし、お金も払わず帰るわけにはいかないよ）"
+                                "(I haven't sung a single song yet, and I can't just leave\nwithout paying.)"
                             ]
                         },
                         {
@@ -5139,14 +5118,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まだ1曲も歌ってないし、お金も払わず帰るわけにはいかないよ）"
+                                "(I haven't sung a single song yet, and I can't just leave\nwithout paying.)"
                             ]
                         },
                         {
@@ -5248,14 +5227,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まだ1曲も歌ってないし、お金も払わず帰るわけにはいかないよ）"
+                                "(I haven't sung a single song yet, and I can't just leave\nwithout paying.)"
                             ]
                         },
                         {
@@ -5357,14 +5336,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まだ1曲も歌ってないし、お金も払わず帰るわけにはいかないよ）"
+                                "(I haven't sung a single song yet, and I can't just leave\nwithout paying.)"
                             ]
                         },
                         {
@@ -5466,14 +5445,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まだ1曲も歌ってないし、お金も払わず帰るわけにはいかないよ）"
+                                "(I haven't sung a single song yet, and I can't just leave\nwithout paying.)"
                             ]
                         },
                         {
@@ -5544,21 +5523,14 @@
                                 0,
                                 0,
                                 2,
-                                "サラリーマン"
+                                "Salaryman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アハハハハ！大当たりだ！大当たり！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　コインが沢山出てくるぞ！アハハハハ！」"
+                                "\"Ahahaha! Jackpot! Jackpot! So many coins are coming out!\nAhahaha!\""
                             ]
                         },
                         {
@@ -5569,21 +5541,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（カラオケって何故かスロットマシンを置いてるよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この人、カラオケに来て歌わないのかな）"
+                                "(Why do karaoke places always have slot machines? Is this\nperson here for karaoke without singing, I wonder.)"
                             ]
                         },
                         {
@@ -5654,21 +5619,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒C"
+                                "Male Student C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「月曜の放課後から繁華街で遊ぶなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺達、かなりの不良だよな！」"
+                                "\"Playing around in the downtown area right after school on a\nMonday... we're pretty bad, aren't we?\""
                             ]
                         },
                         {
@@ -5679,14 +5637,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒D"
+                                "Male Student D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに！次は隣町に冷やかしにでも行ってみるか！アハハ！」"
+                                "\"Definitely! Maybe next time we should go check out the next\ntown over for fun! Ahaha!\""
                             ]
                         },
                         {
@@ -5697,21 +5655,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（げっ、同じ学校の生徒だ。一人で来たって知られたくないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早いところ自分の部屋に行こう）"
+                                "(Crap, they're students from my school. I don't want them to\nknow I came here alone, I better get to my room quickly.)"
                             ]
                         },
                         {
@@ -5782,21 +5733,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒C"
+                                "Male Student C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「月曜の放課後から繁華街で遊ぶなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺達、かなりの不良だよな！」"
+                                "\"Playing around in the downtown area right after school on\nMonday... we're pretty bad, aren't we?\""
                             ]
                         },
                         {
@@ -5807,14 +5751,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒D"
+                                "Male Student D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに！次は隣町に冷やかしにでも行ってみるか！アハハ！」"
+                                "\"Definitely! Maybe next time we should go check out the next\ntown over for fun! Ahaha!\""
                             ]
                         },
                         {
@@ -5825,21 +5769,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（げっ、同じ学校の生徒だ。一人で来たって知られたくないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早いところ自分の部屋に行こう）"
+                                "(Shoot, they're students from my school. I don't want them\nto know I came here alone; I better get to my room quickly.)"
                             ]
                         },
                         {

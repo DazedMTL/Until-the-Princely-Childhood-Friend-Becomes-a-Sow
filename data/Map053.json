@@ -1790,7 +1790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイトを閉じますか？"
+                                "Would you like to close the site?"
                             ]
                         },
                         {
@@ -1798,8 +1798,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2066,7 +2066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パソコンの電源を落としますか？"
+                                "Do you want to turn off the computer?"
                             ]
                         },
                         {
@@ -2074,8 +2074,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2235,7 +2235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトルに戻りますか？"
+                                "Would you like to return to the title?"
                             ]
                         },
                         {
@@ -2243,8 +2243,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2363,14 +2363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～金曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（理不尽なレイプ）\\c[0]を再生しますか？"
+                                "~Friday~\\c[10](Unreasonable Rape)\\c[0] Would you like to\nplay?"
                             ]
                         },
                         {
@@ -2378,9 +2371,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "冒頭から再生する",
-                                    "Hシーンから再生する",
-                                    "再生しない"
+                                    "Play from the beginning",
+                                    "Play from the H-scene",
+                                    "Do not play"
                                 ],
                                 2,
                                 0,
@@ -2590,14 +2583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 　\\{\\{～チュートリアル（回想編）～"
+                                "~Tutorial (Recollection Edition)~"
                             ]
                         },
                         {
@@ -2615,28 +2601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらは回想部屋となっております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中央のカレンダー風パネルを調べることで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒロイン視点でのNTRイベントを見ることができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏で何が起こっていたのか、是非その目でお確かめくださいませ。"
+                                "This is the recollection room. By examining the calendar-\nstyle panel in the center, you can view NTR events from the\nheroine's perspective. Please see for yourself what was\nhappening behind the scenes."
                             ]
                         },
                         {
@@ -2791,21 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームクリアおめでとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリア特典として、\\c[10]回想の全開放スイッチ\\c[0]が解禁されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スイッチは、ステージの右下からご利用いただけます。"
+                                "Congratulations on clearing the game. As a clear bonus, the\n\\c[10]Recollection Full Unlock Switch\\c[0] has been\nunlocked. You can access the switch from the bottom right of\nthe stage."
                             ]
                         },
                         {
@@ -2823,21 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディングを迎えたデータは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回想用としてセーブすることをオススメいたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは、引き続きゲームをお楽しみくださいませ。"
+                                "We recommend saving the data that has reached the ending for\nrecollection purposes. Please continue to enjoy the game."
                             ]
                         },
                         {
@@ -2941,21 +2878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームクリアおめでとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリア特典として、\\c[10]回想の全開放スイッチ\\c[0]が解禁されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スイッチは、ステージの右下からご利用いただけます。"
+                                "Congratulations on clearing the game. As a clear bonus, the\n\\c[10]Recollection Full Unlock Switch\\c[0] has been\nunlocked. You can access the switch from the bottom right of\nthe stage."
                             ]
                         },
                         {
@@ -2973,21 +2896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディングを迎えたデータは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回想用としてセーブすることをオススメいたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは、引き続きゲームをお楽しみくださいませ。"
+                                "We recommend saving the data that has reached the ending for\nrecollection purposes. Please continue to enjoy the game."
                             ]
                         },
                         {
@@ -3125,14 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～あとがき～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（製作者コメント）\\c[0]を再生しますか？"
+                                "～Afterword～\\c[10](Producer's Comment)\\c[0] Would you like to\nplay it?"
                             ]
                         },
                         {
@@ -3140,8 +3042,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -3165,21 +3067,14 @@
                                 0,
                                 0,
                                 2,
-                                "テディベア"
+                                "Teddy Bear"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「皆さんこんにちわ、テディベアです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　本ゲームをプレイしていただき、誠にありがとうございます」"
+                                "\"Hello everyone, I'm Teddy Bear. Thank you very much for\nplaying this game.\""
                             ]
                         },
                         {
@@ -3190,21 +3085,14 @@
                                 0,
                                 0,
                                 2,
-                                "テディベア"
+                                "Teddy Bear"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「今回は初のNTRものに挑戦してみました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　私の作品で、脳を破壊される疑似体験ができたのなら幸いです」"
+                                "\"This time, I tried my hand at my first NTR (cuckoldry)\ntheme. I hope you had the brain-breaking experience that my\nworks are known for.\""
                             ]
                         },
                         {
@@ -3215,21 +3103,14 @@
                                 0,
                                 0,
                                 2,
-                                "テディベア"
+                                "Teddy Bear"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本作は勇者シリーズではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　新たに始動したNTRシリーズの作品となっています」"
+                                "\"This work is not part of the Hero series, but rather the\nfirst in a newly launched NTR series.\""
                             ]
                         },
                         {
@@ -3240,21 +3121,14 @@
                                 0,
                                 0,
                                 2,
-                                "テディベア"
+                                "Teddy Bear"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「次回作はどちらのシリーズになるか未定ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　更なる品質向上を目指し、製作したいと思っております」"
+                                "\"It's undecided which series the next work will belong to,\nbut I aim to improve the quality even further and look\nforward to producing it.\""
                             ]
                         },
                         {
@@ -3265,21 +3139,14 @@
                                 0,
                                 0,
                                 2,
-                                "テディベア"
+                                "Teddy Bear"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「以上をもちまして、コメントを終了させていただきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　引き続きNTR体験をお楽しみくださいませ」"
+                                "\"With that, I will conclude my comments. Please continue to\nenjoy the NTR experience.\""
                             ]
                         },
                         {
@@ -3380,14 +3247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～土曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（一夜明けて）\\c[0]を再生しますか？"
+                                "～Saturday～\\c[10](After one night has passed)\\c[0] Would you\nlike to play?"
                             ]
                         },
                         {
@@ -3395,8 +3255,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -3527,21 +3387,14 @@
                                 0,
                                 0,
                                 2,
-                                "全開放スイッチ"
+                                "Full Release Switch"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こちらは全開放スイッチとなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　スイッチを押すことで、全ての回想が見れるようになります」"
+                                "\"This is the full release switch. By pressing it, you will\nbe able to view all the recollections.\""
                             ]
                         },
                         {
@@ -3552,14 +3405,14 @@
                                 0,
                                 0,
                                 2,
-                                "全開放スイッチ"
+                                "Full Release Switch"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スイッチを押しますか？」"
+                                "\"Will you press the switch?\""
                             ]
                         },
                         {
@@ -3567,8 +3420,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3803,21 +3656,14 @@
                                 0,
                                 0,
                                 2,
-                                "全開放スイッチ"
+                                "Full Release Switch"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「全ての回想が解放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ヒロインの壊れる姿をお楽しみください。」"
+                                "\"All recollections have been unlocked. Please enjoy the\nsight of the heroine breaking.\""
                             ]
                         },
                         {
@@ -3902,14 +3748,14 @@
                                 0,
                                 0,
                                 2,
-                                "全開放スイッチ"
+                                "Full Release Switch"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「全てのシーンが解放されています」"
+                                "\"All scenes have been unlocked.\""
                             ]
                         },
                         {
@@ -4006,14 +3852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※こちらは最初の選択肢で見られるハッピーエンドです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全開放スイッチを使用した時のみ回想が可能になります。"
+                                "*This is the happy ending that can be seen from the first\nchoice. Recollection is only possible when the full unlock\nswitch is used."
                             ]
                         },
                         {
@@ -4082,21 +3921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～ハッピーエンド1～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（幸せな毎日END）\\c[0]を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※こちらはHCG無しの長尺シーンとなります。"
+                                "~Happy End 1~\\c[10](Blissful Daily Life END)\\c[0] Would you\nlike to play? *Note that this is a long scene without HCG."
                             ]
                         },
                         {
@@ -4104,8 +3929,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4275,14 +4100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～日曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（鈴木の提案）\\c[0]を再生しますか？"
+                                "~Sunday~\\c[10](Suzuki's Proposal)\\c[0] Would you like to\nplay it?"
                             ]
                         },
                         {
@@ -4290,8 +4108,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -4438,14 +4256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～月曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（性奴隷デビュー）\\c[0]を再生しますか？"
+                                "～Monday～\\c[10](Sex Slave Debut)\\c[0] Would you like to play?"
                             ]
                         },
                         {
@@ -4453,8 +4264,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -4592,14 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～火曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（睨みつけフェラ）\\c[0]を再生しますか？"
+                                "～Tuesday～\\c[10](Glaring Fellatio)\\c[0] Do you want to play?"
                             ]
                         },
                         {
@@ -4607,8 +4411,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -4746,14 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～水曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（デパートのトイレで）\\c[0]を再生しますか？"
+                                "~Wednesday~\\c[10](In the department store's restroom)\\c[0]\nWould you like to play?"
                             ]
                         },
                         {
@@ -4761,8 +4558,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -4900,14 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～木曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（連続絶頂）\\c[0]を再生しますか？"
+                                "～Thursday～\\c[10](Continuous Climax)\\c[0] Would you like to\nplay?"
                             ]
                         },
                         {
@@ -4915,8 +4705,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -5054,14 +4844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～金曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（地獄のお泊り会①）\\c[0]を再生しますか？"
+                                "～Friday～\\c[10](Hell's Sleepover Part 1)\\c[0] Would you like\nto play?"
                             ]
                         },
                         {
@@ -5069,8 +4852,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -5217,14 +5000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～土曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（地獄のお泊り会②）\\c[0]を再生しますか？"
+                                "~Saturday~\\c[10](Hellish Sleepover Part 2)\\c[0] Would you\nlike to play?"
                             ]
                         },
                         {
@@ -5232,8 +5008,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -5380,14 +5156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～日曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（地獄のお泊り会③）\\c[0]を再生しますか？"
+                                "~Sunday~\\c[10](Hellish Sleepover Part 3)\\c[0] Would you like\nto play?"
                             ]
                         },
                         {
@@ -5395,8 +5164,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -5543,14 +5312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～月曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（売春開始）\\c[0]を再生しますか？"
+                                "～Monday～\\c[10](Start Prostitution)\\c[0] Would you like to\nplay?"
                             ]
                         },
                         {
@@ -5558,8 +5320,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -5697,14 +5459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～火曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（ピンサロアルバイト）\\c[0]を再生しますか？"
+                                "～Tuesday～\\c[10](Pin-Salo Part-time Job)\\c[0] Would you like\nto replay?"
                             ]
                         },
                         {
@@ -5712,8 +5467,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -5851,14 +5606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～水曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（アナル専門店）\\c[0]を再生しますか？"
+                                "~Wednesday~\\c[10](Anal Specialty Store)\\c[0] Would you like\nto play?"
                             ]
                         },
                         {
@@ -5866,8 +5614,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -6014,14 +5762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～木曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（悪臭便所に放置されて）\\c[0]を再生しますか？"
+                                "～Thursday～\\c[10](Left in a foul-smelling bathroom)\\c[0]\nWould you like to play?"
                             ]
                         },
                         {
@@ -6029,8 +5770,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -6177,14 +5918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～金曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（中毒者達の宴①）\\c[0]を再生しますか？"
+                                "～Friday～\\c[10](Feast of the Addicts ①)\\c[0] Would you like\nto play?"
                             ]
                         },
                         {
@@ -6192,8 +5926,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -6340,14 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～土曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（中毒者達の宴②）\\c[0]を再生しますか？"
+                                "～Saturday～\\c[10](The Addicts' Banquet Part 2)\\c[0] Would you\nlike to play?"
                             ]
                         },
                         {
@@ -6355,8 +6082,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -6503,14 +6230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～日曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（中毒者達の宴③）\\c[0]を再生しますか？"
+                                "～Sunday～\\c[10](The Addicts' Banquet Part 3)\\c[0] Would you\nlike to play?"
                             ]
                         },
                         {
@@ -6518,8 +6238,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -6666,14 +6386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～月曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（自慢の便器）\\c[0]を再生しますか？"
+                                "～Monday～\\c[10](Proud Toilet)\\c[0] Would you like to play\nback?"
                             ]
                         },
                         {
@@ -6681,8 +6394,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -6820,14 +6533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～火曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（壁穴奉仕）\\c[0]を再生しますか？"
+                                "～Tuesday～\\c[10](Glory Hole Service)\\c[0] Would you like to\nplay?"
                             ]
                         },
                         {
@@ -6835,8 +6541,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -6974,14 +6680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～水曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（意外な遭遇）\\c[0]を再生しますか？"
+                                "~Wednesday~\\c[10](An Unexpected Encounter)\\c[0] Would you\nlike to play?"
                             ]
                         },
                         {
@@ -6989,8 +6688,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -7128,14 +6827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～木曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（野外露出に魅入られて）\\c[0]を再生しますか？"
+                                "～Thursday～\\c[10](Enthralled by Outdoor Exposure)\\c[0] Would\nyou like to play?"
                             ]
                         },
                         {
@@ -7143,8 +6835,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -7291,14 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～金曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（自らの意志で①）\\c[0]を再生しますか？"
+                                "~Friday~\\c[10](Play by your own will①)\\c[0]?"
                             ]
                         },
                         {
@@ -7306,8 +6991,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -7454,14 +7139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～土曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（自らの意志で②）\\c[0]を再生しますか？"
+                                "~Saturday~\\c[10](Do you wish to replay \\c[0]by your own\nwill?"
                             ]
                         },
                         {
@@ -7469,8 +7147,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -7617,14 +7295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～日曜日～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（復讐完了）\\c[0]を再生しますか？"
+                                "～Sunday～\\c[10](Revenge Complete)\\c[0] Would you like to\nplay?"
                             ]
                         },
                         {
@@ -7632,8 +7303,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -7780,14 +7451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～バッドエンド1～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（消えた幼馴染END）\\c[0]を再生しますか？"
+                                "~Bad End 1~\\c[10](The Vanished Childhood Friend END)\\c[0]\nWould you like to replay?"
                             ]
                         },
                         {
@@ -7795,8 +7459,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -7943,14 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～バッドエンド2～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（恋人はお薬END）\\c[0]を再生しますか？"
+                                "~Bad End 2~\\c[10](Lover's Medicine END)\\c[0] Would you like\nto play?"
                             ]
                         },
                         {
@@ -7958,8 +7615,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -8106,14 +7763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～バッドエンド3～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（幼馴染は雌豚END）\\c[0]を再生しますか？"
+                                "~Bad End 3~\\c[10](Childhood Friend is a Sow END)\\c[0] Would\nyou like to play it?"
                             ]
                         },
                         {
@@ -8121,8 +7771,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -8269,21 +7919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～ハッピーエンド2～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（私の王子様END）\\c[0]を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※こちらはHCG無しの長尺シーンとなります。"
+                                "～Happy End 2～\\c[10](My Prince END)\\c[0] Would you like to\nplay? *This is a long scene without HCG."
                             ]
                         },
                         {
@@ -8291,8 +7927,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,
@@ -8518,21 +8154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～ハッピーエンド2～\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]（私の王子様END）\\c[0]を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※こちらはHCG無しの長尺シーンとなります。"
+                                "～Happy End 2～\\c[10](My Prince END)\\c[0] Would you like to\nplay this scene? *Please note that this is a long scene\nwithout HCG."
                             ]
                         },
                         {
@@ -8540,8 +8162,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 1,
                                 0,

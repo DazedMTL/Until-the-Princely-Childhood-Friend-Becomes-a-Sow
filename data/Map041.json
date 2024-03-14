@@ -5032,21 +5032,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「噂通り、この町はかなりヤバいところだぞ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く帰らないと事件に巻き込まれそうだ…………」"
+                                "\"Just as the rumors said, this town is a pretty dangerous\nplace... We need to get back soon or we might get caught up\nin an incident...\""
                             ]
                         },
                         {
@@ -5054,8 +5047,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "それでも誠を探す",
-                                    "もう無理だ！帰ろう！"
+                                    "Still, I'll search for Makoto.",
+                                    "It's no use! Let's go back!"
                                 ],
                                 1,
                                 0,
@@ -5142,21 +5135,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠のことが心配で後を追ってはみたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この隣町の治安は想像以上に最悪で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕みたいな普通の学生は、とても長居なんてできなかった。"
+                                "I was worried about Makoto and followed her, but the public\norder in this neighboring town was worse than I imagined,\nand an ordinary student like me couldn't possibly stay long."
                             ]
                         },
                         {
@@ -5174,21 +5153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "僕自身が事件に巻き込まれては本末転倒だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにより、あの優等生の誠がこんな町に自分から行くなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とてもじゃないけど考えられない。"
+                                "It would be counterproductive if I got involved in an\nincident myself, and more importantly, I can't imagine that\nhonor student Makoto would go to such a town of her own\naccord."
                             ]
                         },
                         {
@@ -5206,21 +5171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "僕は隣町とは別の場所に行ったのだろうと無理に納得し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逃げるようにして隣町から自分の家に帰っていった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それから僕は誠の安否を確認するために、誠のスマホに電話した。"
+                                "I convinced myself that she must have gone somewhere else\nand fled the neighboring town to return home. Then, to check\non Makoto's safety, I called her smartphone."
                             ]
                         },
                         {
@@ -5238,21 +5189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意外なことに、電話はすぐに誠と繋がった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やけに騒がしいところにいるみたいで雑音がうるさかったけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "声を聞く限り、誠はとても元気そうだった。"
+                                "To my surprise, the call connected to Makoto right away. She\nseemed to be in a noisy place with a lot of background\nnoise, but from the sound of her voice, Makoto seemed very\nenergetic."
                             ]
                         },
                         {
@@ -5270,21 +5207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠は忙しかったようで、電話は数秒で終わってしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでも久々に話せたことで僕はすっかり安心してしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "細かな違和感に気づきつつも、それ以上考えようとしなかった。"
+                                "Makoto seemed busy, and the call ended in just a few\nseconds. Still, having talked to her after so long, I was\ncompletely reassured, and despite noticing some minor\ninconsistencies, I chose not to think any further about\nthem."
                             ]
                         },
                         {
@@ -5574,21 +5497,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「噂通り、この町はかなりヤバいところだぞ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く帰らないと事件に巻き込まれそうだ…………」"
+                                "\"Just as the rumors said, this town is a pretty dangerous\nplace... We need to get back soon or we might get caught up\nin an incident...\""
                             ]
                         },
                         {
@@ -5596,8 +5512,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "それでも誠を探す",
-                                    "もう無理だ！帰ろう！"
+                                    "Still, I'll search for Makoto.",
+                                    "It's no use! Let's go back!"
                                 ],
                                 1,
                                 0,
@@ -5684,21 +5600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠のことが心配で後を追ってはみたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "想像していた以上にこの町の治安は最悪で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕のような普通の学生は、とても長居なんてできなかった。"
+                                "I was worried about Makoto and followed her, but the public\norder in this town was worse than I imagined, and an\nordinary student like me couldn't stay long."
                             ]
                         },
                         {
@@ -5716,21 +5618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そもそも誠のような女の子にこの町は不釣り合いだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "多分、こことは別の町に行ったに違いない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕はそんな風に無理やり納得し、逃げるように自分の家に帰った。"
+                                "After all, a girl like Makoto doesn't belong in a town like\nthis. She must have gone to a different town. That's what I\nforced myself to believe as I fled back to my own home."
                             ]
                         },
                         {
@@ -5748,21 +5636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それから僕は、何度か誠のスマホに電話をかけた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心配だったからというのもあるけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにより誠を見捨てたような後ろめたさを感じていたからだ。"
+                                "After that, I called Makoto's smartphone several times. Part\nof it was because I was worried, but more than anything, I\nfelt guilty as if I had abandoned her."
                             ]
                         },
                         {
@@ -5780,21 +5654,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だけど、その日は誠が電話に出ることはなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "翌朝になってようやく謝罪のメッセージが入った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕は昨日のことを聞きたかったけれど、結局何も聞けなかった。"
+                                "But that day, Makoto didn't answer the phone, and it wasn't\nuntil the next morning that I finally received an apology\nmessage. I wanted to ask about what happened yesterday, but\nin the end, I couldn't ask anything."
                             ]
                         },
                         {
@@ -6065,21 +5925,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「噂通り、この町はかなりヤバいところだぞ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く帰らないと事件に巻き込まれそうだ…………」"
+                                "\"Just as the rumors said, this town is a pretty dangerous\nplace... We need to get back soon or we might get caught up\nin an incident...\""
                             ]
                         },
                         {
@@ -6087,8 +5940,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "それでも誠を探す",
-                                    "もう無理だ！帰ろう！"
+                                    "Still, I'll search for Makoto.",
+                                    "I can't do this anymore! Let's go back!"
                                 ],
                                 1,
                                 0,
@@ -6175,21 +6028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠のことが心配で後を追ってはみたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "想像していた以上にこの町の治安は最悪で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕のような普通の学生は、とても長居なんてできなかった。"
+                                "I was worried about Makoto and followed her, but the public\norder in this town was worse than I imagined, and as an\nordinary student like me, I couldn't stay long."
                             ]
                         },
                         {
@@ -6207,21 +6046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そもそも誠のような女の子にこの町は不釣り合いだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "多分、こことは別の町に行ったに違いない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕はそんな風に無理やり納得し、逃げるように自分の家に帰った。"
+                                "After all, a girl like Makoto doesn't fit in a place like\nthis. She must have gone to a different town. That's what I\nforced myself to believe as I fled back to my own home."
                             ]
                         },
                         {
@@ -6239,21 +6064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それから僕は、何度か誠のスマホに電話をかけた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心配だったからというのもあるけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにより誠を見捨てたような後ろめたさを感じていたからだ。"
+                                "After that, I called Makoto's smartphone several times. Part\nof it was because I was worried, but more than anything, I\nfelt guilty as if I had abandoned her."
                             ]
                         },
                         {
@@ -6271,21 +6082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だけど、その日は誠が電話に出ることはなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "翌朝になってようやく謝罪のメッセージが入った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕は昨日のことを聞きたかったけれど、結局何も聞けなかった。"
+                                "But that day, Makoto didn't answer the phone, and it wasn't\nuntil the next morning that I finally received an apology\nmessage. I wanted to ask about what happened yesterday, but\nin the end, I couldn't ask anything."
                             ]
                         },
                         {
@@ -6481,21 +6278,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラA"
+                                "Thug A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんでよ！！その女に借金押し付けてよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのまま風俗に落としたってわけ！！」"
+                                "\"And then, man!! I pushed the debt onto that chick!! And\njust like that, dropped her into the sex industry!!\""
                             ]
                         },
                         {
@@ -6506,21 +6296,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラB"
+                                "Thug B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ギャハハハハ！！その女マジで馬鹿だな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騙されてるってわかんねぇのかよ！！ギャハハハハ！！」"
+                                "\"Gyahahaha!! That girl's seriously stupid!! Doesn't she\nrealize she's being scammed!! Gyahahaha!!\""
                             ]
                         },
                         {
@@ -6531,21 +6314,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけたりしたら駄目だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いでこの人たちから離れよう…………）"
+                                "(I must not talk to them! I need to get away from these guys\nquickly...)"
                             ]
                         },
                         {
@@ -6647,21 +6423,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラA"
+                                "Thug A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんでよ！！その女に借金押し付けてよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのまま風俗に落としたってわけ！！」"
+                                "\"And then, man!! I pushed the debt onto that chick!! And\njust like that, dropped her into the sex industry!!\""
                             ]
                         },
                         {
@@ -6672,21 +6441,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラB"
+                                "Thug B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ギャハハハハ！！その女マジで馬鹿だな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騙されてるってわかんねぇのかよ！！ギャハハハハ！！」"
+                                "\"Gyahahaha!! That girl's seriously stupid!! Doesn't she\nrealize she's being scammed!! Gyahahaha!!\""
                             ]
                         },
                         {
@@ -6697,21 +6459,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけたりしたら駄目だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いでこの人たちから離れよう…………）"
+                                "(I must not talk to them! I need to get away from these guys\nquickly...)"
                             ]
                         },
                         {
@@ -6813,21 +6568,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤク中"
+                                "Junkie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ヒヒッ…………ヒヒヒヒヒッ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　世界って回ってんだぜ…………ぐるぐるぐるぐる…………」"
+                                "\"Heheh... Heheheheheh... The world's spinning around...\nround and round and round...\""
                             ]
                         },
                         {
@@ -6838,21 +6586,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけたりしたら駄目だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いでこの人から離れよう…………）"
+                                "(I must absolutely not talk to him! I need to get away from\nthis person quickly...)"
                             ]
                         },
                         {
@@ -6954,21 +6695,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の人"
+                                "Zombie-Faced Person"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Won't you buy me? I'll take you to heaven for\njust 10,000 yen~\""
                             ]
                         },
                         {
@@ -6979,21 +6713,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前みたいなブスを買うわけねぇだろ！！ふざけんな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大体お前、人間かどうかも怪しいじゃねぇか！！」"
+                                "\"Like hell I'd buy someone as ugly as you!! Don't mess with\nme!! Besides, it's even questionable if you're human!!\""
                             ]
                         },
                         {
@@ -7004,21 +6731,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんて醜い顔なんだ…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　というか、そもそも女の人なのか…………？）"
+                                "(What an ugly face...! But first of all, is that even a\nwoman...?)"
                             ]
                         },
                         {
@@ -7148,21 +6868,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の女"
+                                "Zombie-Faced Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ～あ。今日も客が捕まらないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　というか、そもそも男が全然いないわ」"
+                                "\"Ah, no luck catching clients again today. Actually, there\naren't any men around at all.\""
                             ]
                         },
                         {
@@ -7204,21 +6917,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の女"
+                                "Zombie-Faced Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの小屋でやってる女のせいで、商売あがったりよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なによ！アナルしか使えないくせに男を独占しちゃって！」"
+                                "\"It's all because of that woman in the shack, business is\ndown! What's with her? Hogging all the men even though she\ncan only use her ass!\""
                             ]
                         },
                         {
@@ -7260,21 +6966,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の女"
+                                "Zombie-Faced Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ～あ。これじゃ今日も売り上げゼロだわ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帰ってラーメンでも食べましょ…………」"
+                                "\"Ah, looks like it's going to be zero sales today too. I\nguess I'll go home and have some ramen...\""
                             ]
                         },
                         {
@@ -7411,28 +7110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は隣町のボロ小屋の中で、数人の男達に囲まれていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら今日は正規の店ではなく、この場所で売りをするらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし犯される部位はアナルのみに限定されており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鈴木いわく、今日は徹底的にアナルを調教するとのことだった。"
+                                "I was surrounded by several men inside a shabby hut in the\nnext town. It seems that today, instead of a regular store,\nI would be selling myself here. However, the only part of me\nto be used was limited to anal, and according to Suzuki,\ntoday was all about thoroughly training my ass."
                             ]
                         },
                         {
@@ -7450,28 +7128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既にアナルの中は洗浄済みだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鈴木の命令で、ここに来る前に自分で浣腸をしてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうして自分でさせるのも、恐らくは調教の一環なのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はちゃんと綺麗になっているか、鈴木に確認してもらった。"
+                                "My ass was already cleansed. Per Suzuki's orders, I had\ngiven myself an enema before coming here. Making me do it\nmyself was probably part of the training. I had Suzuki check\nto make sure I was properly clean."
                             ]
                         },
                         {
@@ -7482,21 +7139,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よ～し、しっかり綺麗になってんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それじゃあ始める前に、さっき教えた挨拶をしろ」"
+                                "\"Alright, you're nice and clean. Now, before we start, do\nthe greeting I taught you earlier.\""
                             ]
                         },
                         {
@@ -7507,21 +7157,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「み、皆さん。本日はこのような所にお集まりいただき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠にありがとうございます♡」"
+                                "\"E-everyone, thank you so much for gathering in such a place\ntoday♡\""
                             ]
                         },
                         {
@@ -7532,21 +7175,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私のふわトロアナルで、沢山ご奉仕させていただきます♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日は思う存分、楽しんでいってください♡」"
+                                "\"I will serve you all with my soft and melty ass♡ Please\nenjoy yourselves to your heart's content today♡\""
                             ]
                         },
                         {
@@ -7564,28 +7200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "素面であれば絶対に言わなかったであろう台詞だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬でハイになっている間は、どんな命令にも喜んで従った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで二重人格者のように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一人の自分と心が入れ替わっているみたいだった。"
+                                "If I were sober, I would never say such lines, but while\nhigh on drugs, I happily obeyed any command. It was as if\nanother personality had taken over, switching places with my\nown consciousness."
                             ]
                         },
                         {
@@ -7596,21 +7211,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんな美人とやれるんだから、それで充分だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　むしろアナルだけの方が興奮しちゃうよ！ヒヒヒ！」"
+                                "\"Being able to do it with such a beauty is more than enough!\nIn fact, just the ass alone gets me even more excited!\nHehehe!\""
                             ]
                         },
                         {
@@ -7621,21 +7229,14 @@
                                 0,
                                 0,
                                 2,
-                                "客B"
+                                "Customer B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「見ろよあのでっけぇアナル。ありゃあ相当絡みつくぞぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつは犯し甲斐がありそうだぜ」"
+                                "\"Look at that huge ass. That's gonna cling on tight. This\none looks like she'll be worth the fuck.\""
                             ]
                         },
                         {
@@ -7646,21 +7247,14 @@
                                 0,
                                 0,
                                 2,
-                                "客C"
+                                "Customer C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「初めてのアナルセックスをこんな美人とできるなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺はついてるぜ。ヘヘヘヘヘヘヘヘ」"
+                                "\"To think my first anal sex would be with such a beauty, I'm\nso lucky. Hehehehehehehe.\""
                             ]
                         },
                         {
@@ -7671,21 +7265,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃあ、そろそろ始めるとするか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一日限定、アナル専門店iseの開店だ！」"
+                                "\"Well then, let's get started! For one day only, the anal\nspecialty store 'ise' is open for business!\""
                             ]
                         },
                         {
@@ -7745,28 +7332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鈴木の宣言と共に、男達は私のお尻に群がった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初の客が早速アナルに挿入しようと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大量のローションを私の中に注入したのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その感覚だけで私は、既に絶頂しかけていた。"
+                                "With Suzuki's declaration, the men swarmed my butt. The\nfirst customer immediately tried to insert into my anus,\ninjecting a large amount of lotion inside me, and just that\nsensation alone almost brought me to climax."
                             ]
                         },
                         {
@@ -7777,21 +7343,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よ～し、まずは俺からだぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この美尻をとことん掘り尽くしてやる！ヒヒヒ！」"
+                                "\"Alright, I'll go first! I'm gonna dig into this beautiful\nass to my heart's content! Hehehe!\""
                             ]
                         },
                         {
@@ -7916,21 +7475,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぅぅ～…………！♡♡♡チンポが入ってきた♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私のアナルにオチンポが入ってきたぁ…………！♡♡♡」"
+                                "\"Ahnnn~...!♡♡♡ A dick is entering♡♡♡ A cock is entering my\nass...!♡♡♡\""
                             ]
                         },
                         {
@@ -7964,21 +7516,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだゆっくり腸壁を擦られてるだけなのに♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それだけで、もうイッちゃいそうだ♡♡♡」"
+                                "\"It's just rubbing against the walls slowly♡♡♡ But that\nalone is making me about to cum♡♡♡\""
                             ]
                         },
                         {
@@ -7989,21 +7534,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うおぉぉぉ！なんだよこのアナル！本当にふわトロだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ふわふわの感触が、俺のチンコに絡みついてるよ！」"
+                                "\"Whoa! What's with this ass! It's really soft and melty! The\nfluffy sensation is wrapping around my cock!\""
                             ]
                         },
                         {
@@ -8014,21 +7552,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「き、気持ちいい！こんなのチンタラ犯してられねぇよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いきなりだけど激しくいかせてもらうぜ！ヒヒヒヒヒヒヒヒ！」"
+                                "\"It feels so good! I can't just fuck this leisurely! I'm\ngonna go hard from the start! Hehehehehehehe!\""
                             ]
                         },
                         {
@@ -8574,21 +8105,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あうっ！♡♡♡おうぅっ！♡♡♡激しくなった！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お腹の中が揺れてる！♡♡♡」"
+                                "\"Ah!♡♡♡ Oh!♡♡♡ It's getting intense!♡♡♡ My insides are\nshaking!♡♡♡\""
                             ]
                         },
                         {
@@ -8622,21 +8146,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そこまで強く犯されてないのに♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでこんなに感じるんだ！？♡♡♡」"
+                                "\"I'm not even being fucked that hard yet♡♡♡ Why does it feel\nso good!?♡♡♡\""
                             ]
                         },
                         {
@@ -8670,21 +8187,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「駄目だ！♡♡♡僅かな振動で子宮が感じてる！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの時みたいにポルチオイキしてしまう！♡♡♡」"
+                                "\"No good!♡♡♡ Just a slight vibration and my womb is feeling\nit!♡♡♡ I'm going to cum like that time, a cervical\norgasm!♡♡♡\""
                             ]
                         },
                         {
@@ -8695,21 +8205,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！♡♡♡あっ！♡♡♡くるっ！♡♡♡振動キク！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お腹の中を揺さぶられて、私もうイッちゃう！♡♡♡」"
+                                "\"Ah!♡♡♡ Ah!♡♡♡ It's coming!♡♡♡ The vibration works!♡♡♡ My\ninsides are being shaken, I'm going to cum!♡♡♡\""
                             ]
                         },
                         {
@@ -8857,21 +8360,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うおぉぉぉぉ！！アナルが俺のチンコを食い千切りそうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だ、駄目だ！俺ももうイッちまよ！イクっ！」"
+                                "\"Whoa! The ass is about to bite off my cock! No, I can't\nhold it anymore! I'm cumming!\""
                             ]
                         },
                         {
@@ -9002,21 +8498,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉん！♡♡♡精液あったかいぃぃぃぃぃ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お腹の中で感じるぅぅぅぅぅ！♡♡♡」"
+                                "\"Ohnn!♡♡♡ The semen is so warm!♡♡♡ I can feel it inside\nme!♡♡♡\""
                             ]
                         },
                         {
@@ -9027,21 +8516,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごぉぉ！？す、すげぇ！アナルが精液を吸いだしやがる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さ、最後の一滴まで出ちまう！おぉぉおお！」"
+                                "\"Gah! Amazing! The ass is sucking out the semen! It's\ndrawing out every last drop! Ohhh!\""
                             ]
                         },
                         {
@@ -9198,21 +8680,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ～！チンコ持っていかれるかと思ったわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このアナル、相当調教されてるな！」"
+                                "\"Phew! I thought my cock was going to be taken away! This\nass has been trained well!\""
                             ]
                         },
                         {
@@ -9246,21 +8721,14 @@
                                 0,
                                 0,
                                 2,
-                                "客B"
+                                "Customer B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ま、マジか。そんなにいいのか、このアナル。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ゴクッ。次は俺の番だ！よろしくなお嬢ちゃん！」"
+                                "\"Seriously? Is this ass that good? Gulp. It's my turn next!\nTreat me well, miss!\""
                             ]
                         },
                         {
@@ -9294,21 +8762,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、はい♡♡♡私のアナルにどんどん入れてください♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　精液でお腹が膨れちゃうくらい犯してください♡♡♡」"
+                                "\"Yes♡♡♡ Please keep entering my ass♡♡♡ Fuck me until my\nbelly swells with semen♡♡♡\""
                             ]
                         },
                         {
@@ -9904,21 +9365,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くぅぅぅ！♡♡♡アナル！♡♡♡アナル、キクゥ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナルを犯されると子宮がブルブル震えるのぉ！♡♡♡」"
+                                "\"Kuuu!♡♡♡ My ass!♡♡♡ My ass feels it!♡♡♡ When my ass is\nfucked, my womb trembles!♡♡♡\""
                             ]
                         },
                         {
@@ -9929,21 +9383,14 @@
                                 0,
                                 0,
                                 2,
-                                "客B"
+                                "Customer B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉぉぉぉぉぉぉ！マジですげぇぜこのアナル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなのすぐにイッちまうよ！うぅぅぅぅ！」"
+                                "\"Ohhhhhhh! This ass is seriously amazing! I'm gonna cum so\nfast! Ughhh!\""
                             ]
                         },
                         {
@@ -9954,21 +9401,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あうぅ♡♡♡嬉しいです♡♡♡もっと締めますぅ♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私のアナルで気持ち良くなってぇぇぇぇ！♡♡♡」"
+                                "\"Ahh♡♡♡ I'm so happy♡♡♡ I'll squeeze tighter♡♡♡ Let my ass\nmake you feel good!♡♡♡\""
                             ]
                         },
                         {
@@ -9979,21 +9419,14 @@
                                 0,
                                 0,
                                 2,
-                                "客B"
+                                "Customer B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ま、まだ入れて1分くらいしか経ってないのに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう出ちまう！出ちまう！あぁぁ！」"
+                                "\"I've barely been inside for a minute and I'm already going\nto cum! I'm cumming! Ahhh!\""
                             ]
                         },
                         {
@@ -10645,21 +10078,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「入口擦られるのも、気持ちいい！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あうっ！♡♡♡あうっ！♡♡♡またイク！♡♡♡」"
+                                "\"The entrance rubbing feels good!♡♡♡ Ah!♡♡♡ Ah!♡♡♡ I'm\ncumming again!♡♡♡\""
                             ]
                         },
                         {
@@ -10670,21 +10096,14 @@
                                 0,
                                 0,
                                 2,
-                                "客C"
+                                "Customer C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アナルセックスってこんなに気持ちいいのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これは凄い！もう出そうだ！」"
+                                "\"Anal sex feels this good!? This is incredible! I'm about to\ncum!\""
                             ]
                         },
                         {
@@ -10695,21 +10114,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁぁぁ！♡♡♡出して！♡♡♡出してください！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私のアナルに出してぇぇぇぇぇぇ！♡♡♡」"
+                                "\"Ahhh!♡♡♡ Cum!♡♡♡ Please cum!♡♡♡ Cum inside my ass!♡♡♡\""
                             ]
                         },
                         {
@@ -10720,21 +10132,14 @@
                                 0,
                                 0,
                                 2,
-                                "客C"
+                                "Customer C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くおぉぉぉ！？し、締まる！搾り取られる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　で、出るぞ！出るっ！うっ！」"
+                                "\"Kuooh! It's squeezing! It's milking me! I'm cumming! Ugh!\""
                             ]
                         },
                         {
@@ -11386,21 +10791,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぐぅぅぅぅぅ！♡♡♡激しい！♡♡♡子宮揺れる！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ピストン激しくて気持ちいいぃぃぃぃぃぃィ！♡♡♡」"
+                                "\"Aguuu!♡♡♡ It's intense!♡♡♡ My womb is shaking!♡♡♡ The\npistoning is so intense it feels good!♡♡♡\""
                             ]
                         },
                         {
@@ -11434,21 +10832,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「凄い！♡♡♡この人凄いぃぃぃぃ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どんどんアナルが気持ち良くなるぅぅぅぅぅぅぅぅぅ！♡♡♡」"
+                                "\"Amazing!♡♡♡ This person is amazing!♡♡♡ My ass is getting\nmore and more pleasurable!♡♡♡\""
                             ]
                         },
                         {
@@ -11459,21 +10850,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「クククク。そいつは女泣かせで有名なやつだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おい、俺の便器の使い心地はどうだ？」"
+                                "\"Hehehe. That guy is famous for making women cry. Hey, how's\nthe feel of using my toilet?\""
                             ]
                         },
                         {
@@ -11484,21 +10868,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤクザ風の男"
+                                "Yakuza-Looking Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉぉ！こいつはすげぇですね、坊ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よく調教されたアナルだ！ぐおぉぉ！」"
+                                "\"Ohhhh! This is amazing, young master! Such a well-trained\nass! Guoooh!\""
                             ]
                         },
                         {
@@ -11509,21 +10886,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤクザ風の男"
+                                "Yakuza-Looking Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この俺が…………もうもたねぇとは…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だ、駄目だ！出すぜ嬢ちゃん！ぐおぉっ！」"
+                                "\"I can't believe I... can't hold on any longer...! No, I\ncan't! I'm gonna cum, miss! Guooh!\""
                             ]
                         },
                         {
@@ -11654,21 +11024,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃぃぃぃ！♡♡♡熱い！♡♡♡私もイキます！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　精液出されてイクぅぅぅぅぅぅぅぅぅ！！♡♡♡」"
+                                "\"Hiiii!♡♡♡ It's so hot!♡♡♡ I'm cumming too!♡♡♡ I'm cumming\nfrom the semen being released inside meeeeeee!!♡♡♡\""
                             ]
                         },
                         {
@@ -11785,28 +11148,14 @@
                                 0,
                                 0,
                                 2,
-                                "子分らしき男達"
+                                "Men Who Seem To Be Underlings"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すげぇ、親分があっさりイカされた！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やべぇな、どれだけ気持ちいいんだよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、俺もやってみてぇ…………」"
+                                "\"Amazing, the boss got made to cum so easily!\" \"Damn, how\ngood does it feel!\" \"I, I wanna try it too...\""
                             ]
                         },
                         {
@@ -11859,21 +11208,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おごぉぉぉ…………アナル…………閉じないぃ…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナル壊れちゃったぁぁ…………♡♡♡」"
+                                "\"Ogoooh... My ass... won't close...♡♡♡ My ass is\nbroken...♡♡♡\""
                             ]
                         },
                         {
@@ -11884,21 +11226,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤクザ風の男"
+                                "Yakuza-Looking Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや～こいつは本当にいいアナルだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　折角だし、手下にもさせていいですかい？坊ちゃん？」"
+                                "\"Man, this really is a great ass! Since it's such a special\noccasion, may I let my underlings have a go too, young\nmaster?\""
                             ]
                         },
                         {
@@ -11909,21 +11244,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ～悪いな…………また今度にしてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前が激しく犯すもんだから、俺もムラムラ来ちまった」"
+                                "\"Ah, sorry... Let's do that another time. You were so rough\nwith her, it's got me all worked up.\""
                             ]
                         },
                         {
@@ -11934,21 +11262,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おい朝火、ケツだせよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こっからは俺が徹底的にお前のアナルを犯してやるよ」"
+                                "\"Hey Asahi, present your ass. From here on out, I'm going to\nthoroughly fuck your ass.\""
                             ]
                         },
                         {
@@ -11982,21 +11303,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しょ、しょんな♡♡♡もうかなり限界なのに…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今お前に犯されたら♡♡♡アナルが完全に壊れちゃう♡♡♡」"
+                                "\"No, no way♡♡♡ I'm already at my limit...♡♡♡ If you fuck me\nnow♡♡♡ My ass will be completely destroyed♡♡♡\""
                             ]
                         },
                         {
@@ -12007,21 +11321,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「クククク！そいつは結構なことじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　余計に犯したくなったぜ！オラァ！」"
+                                "\"Kukukuku! That's quite alright! It makes me want to fuck\nyou even more! Here I come!\""
                             ]
                         },
                         {
@@ -12066,21 +11373,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃぃぃ！！♡♡♡アナルにきたぁ！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イッグゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥ！！♡♡♡」"
+                                "\"Hiiii!!♡♡♡ It's hitting my ass!!♡♡♡ I'm\ncuuummmiiinnngggggggggggggggggggggggg!!♡♡♡\""
                             ]
                         },
                         {
@@ -12207,28 +11507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこからは鈴木の手によって、徹底的にアナルを掘り尽くされた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既に何十回とアナル絶頂を迎え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬の効果も殆ど切れかかっていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも鈴木に犯されてからは、更に連続でイかされた。"
+                                "From there, Suzuki thoroughly plundered her ass. Having\nalready reached anal climax dozens of times, and with the\neffects of the drug almost worn off, she was still made to\ncum continuously after being fucked by Suzuki."
                             ]
                         },
                         {
@@ -12246,28 +11525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最後にはアナルから大量の精液を流しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自ら鈴木のチンポをしゃぶっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで感謝していると言わんばかりに、体が勝手にそうしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや私の体は、完全に鈴木に屈服していた。"
+                                "In the end, while a large amount of semen flowed from her\nass, she found herself sucking on Suzuki's dick. As if to\nshow gratitude, her body did it on its own. By now, my body\nhad completely submitted to Suzuki."
                             ]
                         },
                         {
@@ -12407,21 +11665,14 @@
                                 0,
                                 0,
                                 2,
-                                "異常者"
+                                "Deviant"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アハハハハ！！アハハハハハハハ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　楽しいねぇ！！楽しいねぇ！！アハハハハハハハハ！！」"
+                                "\"Ahahahaha!! Ahahahahahaha!! Isn't this fun?! Isn't it fun?!\nAhahahahahahaha!!\""
                             ]
                         },
                         {
@@ -12432,21 +11683,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけたりしたら駄目だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いでこの人から離れよう…………）"
+                                "(I must absolutely not talk to them! I need to get away from\nthis person quickly...)"
                             ]
                         },
                         {
@@ -12548,21 +11792,14 @@
                                 0,
                                 0,
                                 2,
-                                "売人"
+                                "Dealer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………おい、あんちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良い薬があるんだけど買っていかねぇか」"
+                                "\"...Hey, kid. I've got some good stuff here, wanna buy\nsome?\""
                             ]
                         },
                         {
@@ -12573,14 +11810,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、いえ！！遠慮しておきます！！さようなら！！」"
+                                "\"N-No!! I'll pass!! Goodbye!!\""
                             ]
                         },
                         {
@@ -12682,21 +11919,14 @@
                                 0,
                                 0,
                                 2,
-                                "ホームレス"
+                                "Homeless"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この町は屑ばかりだ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どいつもこいつも屑野郎だ…………ヒック」"
+                                "\"This town is full of trash... Every single one of them, a\nbunch of scumbags... *hic*\""
                             ]
                         },
                         {
@@ -12838,21 +12068,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ンップ♡♡♡ジュップ♡♡♡ジュルルルル♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ジュププッ♡♡♡ジュプッ♡♡♡んっ…………ジュルッ♡♡♡」"
+                                "\"Nnpp♡♡♡Jupp♡♡♡Jurlurlurlu♡♡♡Jupupu♡♡♡Jupu♡♡♡nn...Juru♡♡♡\""
                             ]
                         },
                         {
@@ -12863,21 +12086,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くぅぅ…………臭い…………♡♡♡酷い臭い…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまりの臭さに…………吐きそうだ…………ジュルッ♡♡♡」"
+                                "\"Kuuu...it smells...♡♡♡Such a terrible smell...♡♡♡It's so\nbad I feel like I'm going to vomit...Juru♡♡♡\""
                             ]
                         },
                         {
@@ -12888,21 +12104,14 @@
                                 0,
                                 0,
                                 2,
-                                "男の声"
+                                "Man'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ゲヘヘ！そういうわりには熱心にしゃぶるな嬢ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鼻の下伸ばしてよ、最高にエロいぜ！」"
+                                "\"Gehehe! Despite that, you're eagerly sucking away, missy!\nYour drooling face is the ultimate turn-on!\""
                             ]
                         },
                         {
@@ -12913,21 +12122,14 @@
                                 0,
                                 0,
                                 2,
-                                "男の声"
+                                "Man'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「最近はろくに風呂にも入れなかったからよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お嬢ちゃんが綺麗にしてくれ本当に助かるわ！」"
+                                "\"I haven't had a proper bath in ages! You're really helping\nme out by cleaning me up, miss!\""
                             ]
                         },
                         {
@@ -12938,21 +12140,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「道理でこんなに臭いわけだ…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これは念入りに掃除しないと…………レロレロレロ♡♡♡」"
+                                "\"No wonder it smells so bad...♡♡♡I need to clean\nthoroughly...Lerolero♡♡♡\""
                             ]
                         },
                         {
@@ -12963,21 +12158,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オェェ…………♡♡♡不味い…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　裏筋まっず…………♡♡♡」"
+                                "\"Oee...♡♡♡It tastes awful...♡♡♡The underside is so\nbitter...♡♡♡\""
                             ]
                         },
                         {
@@ -12988,21 +12176,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「チンカスまみれで不衛生だ…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここの竿のとこなんて…………特にカスが溜まってる♡♡♡」"
+                                "\"It's covered in smegma and unsanitary...♡♡♡Especially\naround this rod...there's a particular buildup of gunk♡♡♡\""
                             ]
                         },
                         {
@@ -13013,21 +12194,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アムッ♡♡♡ジュポポ♡♡♡ジュッポジュポ♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　汚れ…………念入りに…………落とさないと♡♡♡」"
+                                "\"Amu♡♡♡Jupopo♡♡♡Juppojupo♡♡♡I must...thoroughly...remove the\nfilth♡♡♡\""
                             ]
                         },
                         {
@@ -13038,21 +12212,14 @@
                                 0,
                                 0,
                                 2,
-                                "男の声"
+                                "Man'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うおぉぉ…………すげぇ！こりゃたまらん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　嬢ちゃん、すまん！もう出るぜ！」"
+                                "\"Uoooh...amazing! This is unbearable! Sorry, missy, I'm\ngonna cum!\""
                             ]
                         },
                         {
@@ -13106,21 +12273,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んむぅ！？♡♡♡もう…………口の中に…………♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう一度掃除し直さないと…………♡♡♡」"
+                                "\"Nmuu!?♡♡♡Already...in my mouth...♡♡♡I'll have to clean it\nall over again...♡♡♡\""
                             ]
                         },
                         {
@@ -13172,21 +12332,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もしかして、この中で女の人がフェラしてるのか………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　す、凄いな…………見てみたいな…………）"
+                                "\"(Could it be, there's a woman giving a blowjob inside...?\nWow, that's intense...I want to see...)\""
                             ]
                         },
                         {
@@ -13197,21 +12350,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（も、もう少し…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少し背筋を伸ばせば中が見えそうだけど…………）"
+                                "\"(Just a little more...if I stretch a bit taller, I might be\nable to see inside...)\""
                             ]
                         },
                         {
@@ -13229,14 +12375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいテメェ！！何してやがんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこは俺の覗き見スポットだぞ！！」"
+                                "\"Oi, you!! What the hell are you doing!! That's my peeping\nspot!!\""
                             ]
                         },
                         {
@@ -13309,21 +12448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然の怒鳴り声にびっくりして、僕は反射的に逃げ出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくチンピラに追われたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとか振り切り、無事に家までたどり着けた。"
+                                "Startled by the sudden shout, I reflexively ran away. I was\nchased by the thug for a while, but I managed to shake him\noff and safely made it home."
                             ]
                         },
                         {
@@ -13341,21 +12466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱり隣町は危険なところだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し立ち聞きしただけで、追われる羽目になってしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はなんとか逃げられたけど、次は掴まるかもしれない。"
+                                "As expected, the neighboring town is a dangerous place. Just\nby eavesdropping for a bit, I ended up being chased. I\nmanaged to escape today, but next time I might get caught."
                             ]
                         },
                         {
@@ -13373,21 +12484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "危ない目は懲り懲りだ。僕はそう思ったけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれからあの女の人のことが無性に気になるようになり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先程逃げ帰ったばかりなのに、もう隣町に行きたくなっていた。"
+                                "I've had enough of dangerous situations. That's what I\nthought, but since then, I've become incredibly curious\nabout that woman, and despite just having fled, I already\nwanted to go back to the neighboring town."
                             ]
                         },
                         {
@@ -13577,21 +12674,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっきのおじさん、この建物の中に入っていったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僅かにだけど、女の人の声が聞こえてくるぞ」"
+                                "\"That old man from earlier went into this building. I can\nbarely hear a woman's voice coming from inside.\""
                             ]
                         },
                         {
@@ -13602,21 +12692,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「流石に入るのは危ないよな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここで立ち聞きするだけにしておこう…………」"
+                                "\"It would definitely be dangerous to go in... I should just\neavesdrop from here...\""
                             ]
                         },
                         {
@@ -13699,21 +12782,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぐぅぅぅぅぅぅぅぅぅ！♡♡♡アナルぅぅぅぅぅぅ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナル犯されるの気持ちいぃぃぃぃぃぃィ！♡♡♡」"
+                                "\"Ahhhhhh!♡♡♡ My ass!♡♡♡ It feels so good to have my ass\nviolated!♡♡♡\""
                             ]
                         },
                         {
@@ -13724,21 +12800,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなに激しくされたら、閉じなくなっちゃう！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一生アナル開きっぱなしになるぅぅぅぅぅぅぅぅぅぅ！♡♡♡」"
+                                "\"If you do it that intensely, it won't close up anymore!♡♡♡\nI'll be left with my ass gaping open forever!♡♡♡\""
                             ]
                         },
                         {
@@ -13749,21 +12818,14 @@
                                 0,
                                 0,
                                 2,
-                                "男の声"
+                                "Man'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ヒャハハハ！もっとガバガバにしてやるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのうち糞を垂れ流すくらい拡張してやる！」"
+                                "\"HYAHAHAHA! I'll make it even more gaping! I'll stretch it\nout until you're leaking shit!\""
                             ]
                         },
                         {
@@ -13774,21 +12836,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「嫌！♡♡♡やだぁ！♡♡♡そんなのやだぁ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この歳でオムツなんてしたくないぃぃぃぃ！♡♡♡」"
+                                "\"No!♡♡♡ I don't want that!♡♡♡ I don't want to wear diapers\nat my age!♡♡♡\""
                             ]
                         },
                         {
@@ -13799,21 +12854,14 @@
                                 0,
                                 0,
                                 2,
-                                "男の声"
+                                "Man'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「嘘つけ！びしょびしょに濡れてるじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ケツ壊されるの想像して、興奮したんだろ！この変態！」"
+                                "\"Liar! You're soaking wet! You're excited at the thought of\ngetting your ass destroyed, you pervert!\""
                             ]
                         },
                         {
@@ -13824,21 +12872,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんなことないですぅぅぅぅ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当に嫌なんですぅぅぅぅぅぅ！♡♡♡」"
+                                "\"That's not true at all!♡♡♡ I really hate it!♡♡♡\""
                             ]
                         },
                         {
@@ -13849,21 +12890,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の声"
+                                "Woman'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アナル壊さないでくださいぃぃぃぃぃぃ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これ以上アナルを気持ち良くしないでぇぇぇぇぇぇぇ！♡♡♡」"
+                                "\"Please don't break my ass!♡♡♡ Don't make my ass feel any\nbetter!♡♡♡\""
                             ]
                         },
                         {
@@ -13874,21 +12908,14 @@
                                 0,
                                 0,
                                 2,
-                                "男の声"
+                                "Man'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこまで言われちゃ、逆に壊したくなっちゃうな～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日は徹底的に掘ってやるからな！ヒャハハ！」"
+                                "\"When you say it like that, it makes me want to break it\neven more! I'm going to drill you thoroughly today!\nHYAHAHA!\""
                             ]
                         },
                         {
@@ -13971,21 +12998,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうやら本当にお尻だけを犯されてるみたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お尻にいれるのってどんな感じなんだろう…………」"
+                                "\"It seems she's really only being violated in the ass. I\nwonder what it feels like to put it in there...\""
                             ]
                         },
                         {
@@ -13996,21 +13016,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにしても、嫌そうにしてるわりに、明らかに感じてるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　きっとマゾってやつなんだろうな」"
+                                "\"Even though she seems to hate it, she's clearly feeling it.\nShe must be a masochist.\""
                             ]
                         },
                         {
@@ -14021,21 +13034,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女の人のお尻、どんな風になってるんだろう…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しくらいなら中に入っても…………」"
+                                "\"I wonder what that woman's ass looks like... Maybe it\nwouldn't hurt to go inside just a little bit...\""
                             ]
                         },
                         {
@@ -14046,21 +13052,14 @@
                                 0,
                                 0,
                                 2,
-                                "男の声"
+                                "Man'S Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ～スッキリ！！大満足だわ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっくら外で一服してくるか！！ついてこいお前ら！！」"
+                                "\"Phew~ That was refreshing!! Totally satisfied!! I think\nI'll go out for a smoke!! Follow me, guys!!\""
                             ]
                         },
                         {
@@ -14170,21 +13169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の声に驚いた僕は、急いで扉の前から離れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物陰から様子を窺っていると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中から部下を引きつれたヤクザ風の男が現れた。"
+                                "Startled by the man's voice, I quickly moved away from the\ndoor. Peeking from a hiding spot, I saw a yakuza-looking man\nemerge, leading his subordinates out."
                             ]
                         },
                         {
@@ -14202,21 +13187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しでも建物の中に入っていたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いなくあの人達と鉢合わせになっていただろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう考えると、ゾッとして身体に鳥肌が立った。"
+                                "If I had entered the building even for a moment, I would\nhave definitely run into those people. The thought made me\nshiver and goosebumps spread across my skin."
                             ]
                         },
                         {
@@ -14234,21 +13205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石にあの男達を見た後で中に入ろうとは思えず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は少し肩を落として自分の家に帰った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてあの女の人をオカズに、オナニーをして眠った。"
+                                "After seeing those men, I couldn't bring myself to enter. I\nwent home with a bit of a heavy heart. Then, using the image\nof that woman, I masturbated before falling asleep."
                             ]
                         },
                         {
@@ -14892,21 +13849,14 @@
                                 0,
                                 0,
                                 2,
-                                "酔っ払い"
+                                "Drunkard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「チクショー！！俺にも金さえあれば！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　色んな女をとっかえひっかえ出来んのによぉぉ！！」"
+                                "\"Damn it!! If only I had money!! I could be swapping out\ndifferent women all the time!!\""
                             ]
                         },
                         {
@@ -14917,21 +13867,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけたりしたら駄目だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いでこの人から離れよう…………）"
+                                "(I must absolutely not start a conversation with him! I need\nto get away from this person quickly...)"
                             ]
                         },
                         {
@@ -15024,21 +13967,14 @@
                                 0,
                                 0,
                                 2,
-                                "酔っ払い"
+                                "Drunkard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ヒヒヒヒ！すげぇな、あの女！真昼間から盛ってやがる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　く～！金があればなぁ！俺も中に入れたのに！」"
+                                "\"Hehehe! That woman is amazing! She's getting it on in broad\ndaylight! Ahh, if only I had the money, I would have joined\nin too!\""
                             ]
                         },
                         {
@@ -15049,21 +13985,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もしかして、ここってハプニングバーってやつなのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかこんな場所にあるなんてなぁ）"
+                                "(Could this place be one of those happening bars? I can't\nbelieve there's one in a place like this...)"
                             ]
                         },
                         {
@@ -15074,21 +14003,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………小さいけど女の人の声が聞こえてくるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このおじさんみたいに、ちょっとだけ中を除いてみようかな）"
+                                "(...I can hear a woman's voice, even though it's faint.\nMaybe I should take a quick peek inside like this old man.)"
                             ]
                         },
                         {
@@ -15096,8 +14018,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ちょっとだけなら…………",
-                                    "興味ない"
+                                    "Just for a little bit...",
+                                    "I'm not interested"
                                 ],
                                 1,
                                 0,

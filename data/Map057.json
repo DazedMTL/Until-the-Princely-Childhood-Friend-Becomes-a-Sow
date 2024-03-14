@@ -2281,21 +2281,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（よし、誰もいないみたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まずはここから店の様子を窺って……………………）"
+                                "(Alright, it seems like no one's around. First, I'll check\nout the situation inside the store from here...)"
                             ]
                         },
                         {
@@ -2487,21 +2480,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「イテテテ…………くそ、倉庫の荷物が倒れちまいやがった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　掃除をサボってたツケだな、こりゃあ」"
+                                "\"Ouch, ouch, ouch... damn, the stuff in the warehouse has\ntoppled over. That's what I get for skimping on cleaning, I\nguess.\""
                             ]
                         },
                         {
@@ -2512,21 +2498,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「幸いブツは無事だったし、倉庫の片づけは後回しにするか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっさとこいつをあのガキ共に売らねぇとな。ケケケケケケケ」"
+                                "\"Luckily, the goods are safe, so I'll put off cleaning the\nwarehouse for later. Gotta sell this stuff to those brats\nquickly. Kekekekekekeke\""
                             ]
                         },
                         {
@@ -2713,21 +2692,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ…………行ったみたいだな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　バレなくて本当に良かった…………」"
+                                "\"Phew... looks like he's gone... I'm really glad I wasn't\ncaught...\""
                             ]
                         },
                         {
@@ -2738,21 +2710,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あの店主、\\c[10]倉庫\\c[0]がどうとか言ってたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か役に立つ物が見つかるかもしれないし、後で入ってみるか）"
+                                "(That shopkeeper mentioned something about the\n\\c[10]warehouse\\c[0]. There might be something useful there,\nI should check it out later)"
                             ]
                         },
                         {
@@ -2834,14 +2799,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先に調理場から調べてみよう」"
+                                "\"Let's start by checking out the kitchen first.\""
                             ]
                         },
                         {
@@ -3045,14 +3010,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「鉄鍋が置いてあるな。この店は料理も出しているみたいだ」"
+                                "\"There's an iron pot placed here. It seems like this shop\nalso serves food.\""
                             ]
                         },
                         {
@@ -3114,21 +3079,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ボヤ騒ぎを起こす時は、この鉄鍋の上でやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当に火事になったら大変だからね」"
+                                "\"Let's make a fuss over this iron pot when we do. It would\nbe a real problem if it actually caught fire.\""
                             ]
                         },
                         {
@@ -3190,21 +3148,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（よし、火種も燃料も確保できたぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早速火を起こしてみよう！）"
+                                "(Alright, I've secured both the kindling and fuel! Let's try\nto start a fire right away!)"
                             ]
                         },
                         {
@@ -3284,21 +3235,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（や、やった！火が付いたぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これでスプリンクラーが作動するはずだ！）"
+                                "(Yes, I did it! The fire's lit! This should activate the\nsprinklers!)"
                             ]
                         },
                         {
@@ -3309,14 +3253,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（服が濡れていたら怪しまれるし、早くここから脱出しないと！）"
+                                "(If my clothes are wet, it'll look suspicious, so I need to\nescape from here quickly!)"
                             ]
                         },
                         {
@@ -3503,21 +3447,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こっちは多分フロアのほうだよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　中の様子が気になるし、少しだけ覗いてみようかな…………？）"
+                                "(This must be the way to the floor, right? I'm curious about\nwhat's inside, maybe I'll take a little peek...?)"
                             ]
                         },
                         {
@@ -3563,14 +3500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　\\c[10]赤文字\\c[0]を選択した場合、\\c[10]攻略失敗\\c[0]となります。"
+                                "*Note: If you select the text in \\c[10]red\\c[0], it will\nresult in a \\c[10]game over\\c[0]."
                             ]
                         },
                         {
@@ -3588,8 +3518,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[10]覗いてみる\\c[0]",
-                                    "やめておく"
+                                    "\\c[10]Take a peek\\c[0]",
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -3620,7 +3550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この選択肢で間違いありませんか？"
+                                "Are you sure about this choice?"
                             ]
                         },
                         {
@@ -3628,8 +3558,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3669,21 +3599,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（よし。なるべく音を立てないように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ゆっくりとドアを開けて……………………）"
+                                "(Alright. I'll open the door slowly, trying not to make any\nnoise...)"
                             ]
                         },
                         {
@@ -3776,14 +3699,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なんだお前！？そんなところで何してやがんだ！」"
+                                "\"Who the hell are you!? What are you doing there!\""
                             ]
                         },
                         {
@@ -3794,14 +3717,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「や、やばい見つかった！早く逃げないと！」"
+                                "\"Crap, I've been spotted! I need to escape quickly!\""
                             ]
                         },
                         {
@@ -3836,21 +3759,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「あ、おい！…………逃げやがった。薬を盗みに入ったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　早く金庫を確認しねぇと。後は仲間も呼んでおくか」"
+                                "\"Hey, wait! ...He got away. Did he come to steal medicine? I\nneed to check the safe quickly. And I should call some\nbackup too.\""
                             ]
                         },
                         {
@@ -3875,21 +3791,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店主と出くわしてしまった僕は、慌てて酒場から逃げ出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "数分後、もう一度酒場に忍び込もうとしたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見張りらしき強面の男達が店の周りを固めてしまっていた。"
+                                "I had run into the shopkeeper and, in a panic, fled from the\ntavern. A few minutes later, I tried to sneak back into the\ntavern, but there were tough-looking men standing guard\naround the shop."
                             ]
                         },
                         {
@@ -3907,21 +3809,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうやらかなり警戒されてしまったようで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "入り込む僅かな隙間すら見つからなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "酒場に近づけなくなった僕は、仕方なく自分の家に帰っていった。"
+                                "It seemed I had become quite suspicious to them, and I\ncouldn't find even a small gap to slip through. Unable to\nget close to the tavern, I had no choice but to return home."
                             ]
                         },
                         {
@@ -3939,21 +3827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "結局あの酒場に誠がいたかすら、分からず仕舞いのままだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "家に帰り着いた僕は誠の安否を確認するために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "彼女のスマホに電話をかけることにした。"
+                                "In the end, I never found out if Makoto was even in that\ntavern. When I got home, I decided to call her smartphone to\ncheck on her safety."
                             ]
                         },
                         {
@@ -3971,21 +3845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "意外なことに、電話はすぐに繋がった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "誠は騒がしい所にいるようで、やけに雑音がうるさかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "声を聞く限りでは、とても元気そうだった。"
+                                "To my surprise, the call connected immediately. Makoto\nseemed to be in a noisy place, and there was a lot of\nbackground noise, but from the sound of her voice, she\nseemed to be doing very well."
                             ]
                         },
                         {
@@ -4003,21 +3863,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "念のためにどこにいるのか聞いてみると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "誠は隣町の先にある、別の町にいるとのことだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なんでも昔の友人達と、久しぶりに食事をしているらしい。"
+                                "Just to be sure, I asked where she was, and she said she was\nin a different town beyond the neighboring one. Apparently,\nshe was having dinner with some old friends after a long\ntime."
                             ]
                         },
                         {
@@ -4035,21 +3881,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "隣町にいないとわかったことで、僕はすっかり安心してしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それ以上言及することなく、誠との通話を切り上げてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "小さな違和感は幾つもあったのに、僕は最後まで気づけなかった。"
+                                "Knowing she wasn't in the neighboring town, I felt\ncompletely relieved and ended the call with Makoto without\nfurther discussion. Despite several small inconsistencies, I\nfailed to notice them until the end."
                             ]
                         },
                         {
@@ -4175,21 +4007,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（いや、やっぱりやめておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　いつ店員がここに来るか分からないもんな）"
+                                "(No, I better not. You never know when an employee might\ncome here.)"
                             ]
                         },
                         {
@@ -4263,21 +4088,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（いや、やっぱりやめておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつ店員がここに来るか分からないもんな）"
+                                "(No, I better not. You never know when an employee might\ncome here.)"
                             ]
                         },
                         {
@@ -4500,21 +4318,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「このコンロ、全然手入れがされていないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここの店主は掃除が苦手なのかな」"
+                                "\"This stove hasn't been taken care of at all. I wonder if\nthe owner of this place is bad at cleaning.\""
                             ]
                         },
                         {
@@ -4604,21 +4415,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………あれ？このコンロ、火がつかないぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさか故障してるのか？」"
+                                "\"...Huh? This stove isn't lighting up. Could it be broken?\""
                             ]
                         },
                         {
@@ -4629,21 +4433,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（参ったな…………これじゃあ火を起こせないぞ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　他に火種になるものを見つけないと…………）"
+                                "(This is a problem... I can't start a fire like this... I\nneed to find something else that can act as a source of\nignition...)\""
                             ]
                         },
                         {
@@ -4705,21 +4502,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「火種はこのライターがあるから大丈夫だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く燃すものを探さないと」"
+                                "\"We should be fine with this lighter as a fire source. We\nneed to find something to burn quickly.\""
                             ]
                         },
                         {
@@ -4781,14 +4571,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隣の鍋でこのオイルを燃やしてみよう！」"
+                                "\"Let's try burning this oil in the pot next door!\""
                             ]
                         },
                         {
@@ -4859,21 +4649,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これは…………火災報知機みたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よく見たら、天井にもスプリンクラーが取り付けられているな」"
+                                "\"This looks like... a fire alarm. If you look closely, there\nare sprinklers installed on the ceiling too.\""
                             ]
                         },
                         {
@@ -4893,21 +4676,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（スプリンクラー…………スプリンクラーか…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうだ！いいことを思いついたぞ！）"
+                                "(Sprinklers... Sprinklers, huh... That's it! I've got a\ngreat idea!)"
                             ]
                         },
                         {
@@ -4918,21 +4694,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここでボヤ騒ぎを起こせば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　スプリンクラーが作動して店を水浸しにできるはずだ！）"
+                                "(If I start a small fire here, the sprinklers should\nactivate and flood the place!)"
                             ]
                         },
                         {
@@ -4943,21 +4712,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうすれば営業どころじゃないだろうし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上手くいけば、誠を逃がせるかもしれないぞ！）"
+                                "(That way, they won't be able to continue business, and if\nthings go well, I might be able to help Makoto escape!)"
                             ]
                         },
                         {
@@ -4968,21 +4730,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうと決まれば、何か燃やすものを探さないとな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なるべく良く燃えるものを用意しよう」"
+                                "\"Now that I've decided, I need to find something to burn. I\nshould prepare something that burns well.\""
                             ]
                         },
                         {
@@ -5053,14 +4808,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（早く火を起こして、誠を助け出そう！）"
+                                "(I need to start a fire quickly and rescue Makoto!)"
                             ]
                         },
                         {
@@ -5122,14 +4877,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（火種も燃料もそろったぞ！後は火を起こすだけだ！）"
+                                "(I've got both the kindling and the fuel ready! All that's\nleft is to start the fire!)"
                             ]
                         },
                         {
@@ -5200,14 +4955,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「空き瓶が置いてあるな。元々はお酒でも入っていたのかな」"
+                                "\"There's an empty bottle here. I wonder if it originally had\nliquor in it.\""
                             ]
                         },
                         {
@@ -5269,21 +5024,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「空き瓶が置いてあるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かに使えるかもしれないし、1本だけ持っていくか」"
+                                "\"There's an empty bottle here. It might be useful for\nsomething, so I'll take just one.\""
                             ]
                         },
                         {
@@ -5313,7 +5061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の瓶を手に入れた！"
+                                "Obtained an empty bottle!"
                             ]
                         },
                         {
@@ -5385,14 +5133,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これ以上、空き瓶は必要ないかな」"
+                                "\"I guess I don't need any more empty bottles.\""
                             ]
                         },
                         {
@@ -5454,14 +5202,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「このオイルで早く火をつけよう」"
+                                "\"Let's use this oil to start the fire quickly.\""
                             ]
                         },
                         {
@@ -5532,14 +5280,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まずはこの調理場から調べてみよう」"
+                                "\"Let's start by investigating this kitchen.\""
                             ]
                         },
                         {
@@ -5601,21 +5349,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかしたら外にも役に立つものがあるかもしれないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったん外に出てみるか」"
+                                "\"There might be something useful outside. Should I go out\nand check?\""
                             ]
                         },
                         {
@@ -5854,21 +5595,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うわ、水垢汚れが酷いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このシンクで食器洗いはしたくないな」"
+                                "\"Ugh, the water stains are terrible. I don't want to wash\ndishes in this sink.\""
                             ]
                         },
                         {
@@ -5939,21 +5673,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「見るからに安物の電子レンジが置いてあるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　電源が入ってないみたいだけど、これ本当に使えるのかな」"
+                                "\"There's a cheap-looking microwave here. It doesn't seem to\nbe plugged in, but I wonder if it actually works.\""
                             ]
                         },
                         {
@@ -6024,14 +5751,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごく普通の冷蔵庫だ。怪しいものは入ってないな」"
+                                "\"It's a perfectly ordinary refrigerator. There's nothing\nsuspicious inside.\""
                             ]
                         },
                         {
@@ -6102,14 +5829,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごく普通の冷蔵庫だ。怪しいものは入ってないな」"
+                                "\"It's a perfectly ordinary refrigerator. There's nothing\nsuspicious inside.\""
                             ]
                         },
                         {
@@ -6180,21 +5907,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「このロッカー、掃除道具を入れてるみたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんだか悪臭がするな…………あまり近づかないでおこう」"
+                                "\"This locker seems to be used for storing cleaning supplies.\nThere's a foul smell coming from it... I better not get too\nclose.\""
                             ]
                         },
                         {

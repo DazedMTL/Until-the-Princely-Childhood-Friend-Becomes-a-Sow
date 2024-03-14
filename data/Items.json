@@ -11,12 +11,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "キッチンで汲んできた大量の水。\nこれだけあれば、ブレーカーを故障させられるはずだ。",
+        "description": "A large amount of water drawn from the kitchen. With this much, I should be\nable to break the circuit breaker.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 2,
-        "name": "大量の水",
+        "name": "Abundance of Water",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -37,12 +37,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "何も入っていないただの空き瓶。\n",
+        "description": "Just an empty bottle with nothing inside.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 227,
         "itypeId": 2,
-        "name": "空き瓶",
+        "name": "Empty Bottle",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -63,12 +63,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "外で見つけたオイルを入れた瓶。\nこのオイルがあれば、大きな火を起こせるはずだ。",
+        "description": "A bottle filled with oil found outside. With this oil, I should be able to\nstart a large fire.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 228,
         "itypeId": 2,
-        "name": "オイル入りの瓶",
+        "name": "Bottle Filled with Oil",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -89,12 +89,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "100均に置いてあるような安物のライター。\nこれがあればどこでも火を起こすことができるぞ。",
+        "description": "A cheap lighter that looks like something you'd find at a dollar store.\nWith this, I can start a fire anywhere.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 64,
         "itypeId": 2,
-        "name": "ライター",
+        "name": "Lighter",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -115,12 +115,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "金庫の中に保管されていたカードキー。\nこれがあれば、鍵がかかった扉を開けられそうだ。",
+        "description": "A card key that was stored in a safe. With this, I should be able to open\nlocked doors.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 188,
         "itypeId": 2,
-        "name": "マスターキー",
+        "name": "Master Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -141,12 +141,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "血だまりの上に置かれていた鉄製のハンマー。\nよく見ると本物の血ではなく血糊のようだ。",
+        "description": "An iron hammer placed on top of a pool of blood. Upon closer inspection, it\nseems to be fake blood, not real.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 223,
         "itypeId": 2,
-        "name": "血まみれのハンマー",
+        "name": "Bloodstained Hammer",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -167,7 +167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "埃まみれで放置されていた、ごく普通の脚立。\nこれがあれば、高いところにも手が届きそうだ。",
+        "description": "An ordinary stepladder, covered in dust and neglected. With this, I should\nbe able to reach high places.",
         "effects": [
             {
                 "code": 11,
@@ -179,7 +179,7 @@
         "hitType": 0,
         "iconIndex": 73,
         "itypeId": 2,
-        "name": "脚立",
+        "name": "Step Ladder",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -200,7 +200,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ドライバーやペンチなど、色んな道具が入っている。",
+        "description": "It contains various tools like screwdrivers and pliers.",
         "effects": [
             {
                 "code": 11,
@@ -212,7 +212,7 @@
         "hitType": 0,
         "iconIndex": 210,
         "itypeId": 2,
-        "name": "工具箱",
+        "name": "Toolbox",
         "note": "",
         "occasion": 3,
         "price": 250,
@@ -245,7 +245,7 @@
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 2,
-        "name": "NTRカウンター",
+        "name": "NTR Counter",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -453,7 +453,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----特殊系",
+        "name": "-----Special Series",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -474,7 +474,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、敵との遭遇率を半減させる。",
+        "description": "Temporarily reduces the encounter rate with enemies by half.",
         "effects": [
             {
                 "code": 21,
@@ -486,7 +486,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エンカウントダウナー",
+        "name": "Encounter Downer",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -507,7 +507,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間\n戦闘で得られるアイテムや賞金の獲得率を上げる。",
+        "description": "Temporarily increases the rate of obtaining items and rewards from battles.",
         "effects": [
             {
                 "code": 21,
@@ -519,7 +519,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ドロップアッパー",
+        "name": "Drop Upper",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -597,7 +597,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----強化系",
+        "name": "-----Enhancement Series",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -618,7 +618,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを５０ポイント上げる。",
+        "description": "Increases Max HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -630,7 +630,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 1,
-        "name": "ライフアップ",
+        "name": "Life Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -651,7 +651,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＭＰを１０ポイント上げる。",
+        "description": "Increases Max MP by 10 points.",
         "effects": [
             {
                 "code": 42,
@@ -663,7 +663,7 @@
         "hitType": 0,
         "iconIndex": 33,
         "itypeId": 1,
-        "name": "マナアップ",
+        "name": "Mana Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -684,7 +684,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃力を３ポイント上げる。",
+        "description": "Increases Attack by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -696,7 +696,7 @@
         "hitType": 0,
         "iconIndex": 34,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -717,7 +717,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "防御力を３ポイント上げる。",
+        "description": "Increases Defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -729,7 +729,7 @@
         "hitType": 0,
         "iconIndex": 35,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -750,7 +750,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法力を３ポイント上げる。",
+        "description": "Increases Magic Power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -762,7 +762,7 @@
         "hitType": 0,
         "iconIndex": 36,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -783,7 +783,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法防御力を３ポイント上げる。",
+        "description": "Increases Magic Defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -795,7 +795,7 @@
         "hitType": 0,
         "iconIndex": 37,
         "itypeId": 1,
-        "name": "レジストアップ",
+        "name": "Resist Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -816,7 +816,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敏捷性を３ポイント上げる。",
+        "description": "Increases Agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -828,7 +828,7 @@
         "hitType": 0,
         "iconIndex": 38,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -849,7 +849,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "運を３ポイント上げる。",
+        "description": "Increases Luck by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -861,7 +861,7 @@
         "hitType": 0,
         "iconIndex": 39,
         "itypeId": 1,
-        "name": "ラックアップ",
+        "name": "Luck Up",
         "note": "",
         "occasion": 2,
         "price": 3000,

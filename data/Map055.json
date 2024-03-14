@@ -5157,21 +5157,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻き達"
+                                "Followers"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{「「誠様、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　おはようございまーす♡♡♡」」"
+                                "\"Good morning, Lady Makoto♡♡♡\""
                             ]
                         },
                         {
@@ -5582,14 +5575,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やぁ皆、おはよう。今日も元気そうで何よりだよ」"
+                                "\"Hey everyone, good morning. It's great to see you all so\nenergetic today.\""
                             ]
                         },
                         {
@@ -5607,21 +5600,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きA"
+                                "Lackey A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「毎日誠様と会っているんですもの、元気なのは当然ですわ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　佐藤君もおはよう。今日は寝坊しなかったようね！」"
+                                "\"Of course we're energetic, we get to see Lady Makoto every\nday♡ Good morning to you too, Mamoru-kun. Looks like you\ndidn't oversleep today!\""
                             ]
                         },
                         {
@@ -5632,21 +5618,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きB"
+                                "Lackey B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「昨日は誠様と一緒に遅刻ギリギリに来ていらしたものね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全く、早寝早起きを心掛けてほしいものですわ！」"
+                                "\"Yesterday, you barely made it on time with Lady Makoto!\nReally, you should practice going to bed and waking up\nearly!\""
                             ]
                         },
                         {
@@ -5657,21 +5636,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きC"
+                                "Lackey C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「佐藤君が寝坊したら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　毎朝貴方を待っている誠様まで遅刻しかねないんですからね！」"
+                                "\"If Mamoru-kun oversleeps, then Lady Makoto, who waits for\nyou every morning, might be late too!\""
                             ]
                         },
                         {
@@ -5682,14 +5654,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きD"
+                                "Lackey D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠様の婚約者としての自覚をもって行動してほしいですわね！」"
+                                "\"You should act with the awareness of being Lady Makoto's\nfiancé!\""
                             ]
                         },
                         {
@@ -5700,21 +5672,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こ、婚約者！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕達は付き合ってるけど、まだそこまでの関係じゃ…………」"
+                                "\"F-fiancé!? We're dating, but we're not at that stage\nyet...\""
                             ]
                         },
                         {
@@ -5779,21 +5744,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな！私とは遊びだったのかい！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私はてっきり結婚を前提としたお付き合いだとばかり！」"
+                                "\"What! Was it all just a game to you!? I thought our\nrelationship was with the intention of marriage!\""
                             ]
                         },
                         {
@@ -5842,21 +5800,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「も、ももも！勿論遊びなんかじゃないさ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だけど僕達、まだ学生なんだよ？結婚は早すぎるよ！」"
+                                "\"N-no, of course it's not a game! But we're still students,\nyou know? Marriage is too soon!\""
                             ]
                         },
                         {
@@ -5883,21 +5834,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………フフフ、冗談だよ！衛は弄り甲斐があって面白いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だけど将来的にはお嫁さんに貰ってほしいな♡」"
+                                "\"...Hehehe, I'm just kidding! Mamoru, you're so fun to\ntease. But I do hope to be your bride in the future♡\""
                             ]
                         },
                         {
@@ -5915,21 +5859,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「当たり前じゃないか！絶対に君と結婚するよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　必ず君を幸せにする！約束するよ！絶対だ！」"
+                                "\"Of course! I'll definitely marry you! I promise to make you\nhappy! Absolutely!\""
                             ]
                         },
                         {
@@ -5956,14 +5893,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「衛…………♡」"
+                                "\"Mamoru...♡\""
                             ]
                         },
                         {
@@ -5981,14 +5918,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠…………」"
+                                "\"Makoto...\""
                             ]
                         },
                         {
@@ -5999,21 +5936,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きA"
+                                "Lackey A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ムキーッ！！目の前で誠様とイチャイチャと～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　嫉妬で狂いそうですわ！どうにかなっちゃいそうですわ！」"
+                                "\"Grrr!! Flirting with Lady Makoto right in front of us～! I'm\ngoing crazy with jealousy! I feel like I'm going to lose\nit!\""
                             ]
                         },
                         {
@@ -6024,21 +5954,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きB"
+                                "Lackey B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「羨ましいですわ！羨ましいですわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私もこんな風に朝からイチャイチャしたいですわ！」"
+                                "\"I'm so envious! So envious! I want to flirt like this from\nthe morning too!\""
                             ]
                         },
                         {
@@ -6049,21 +5972,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きC"
+                                "Lackey C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私も恋がしたいですわ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠心誠意、私と付き合ってくれる殿方が欲しいですわ～！」"
+                                "\"I want to be in love too～! I wish for a gentleman who will\nbe devoted to me wholeheartedly～!\""
                             ]
                         },
                         {
@@ -6074,21 +5990,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きD"
+                                "Lackey D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お二人みたいな素敵なカップルに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私もなってみたいですわ～！」"
+                                "\"I want to be in a wonderful couple like you two～!\""
                             ]
                         },
                         {
@@ -6111,21 +6020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの日、工場で起きた出来事は、直ぐに誠のファンに知れ渡り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に僕が誠を庇って殴られようとしたことが話題になり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ファンは僕に一目置くようになった。"
+                                "That day, the incident at the factory quickly became known\namong Makoto's fans, especially the part where I stood up to\nprotect Makoto and almost got hit. The fans started to\nrespect me because of it."
                             ]
                         },
                         {
@@ -6143,21 +6038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかげで僕達の交際もスムーズに受け入れられたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ではこうして、取り巻き達とも仲良く話すようになった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誠は僕との時間を優先してくれるし、本当に幸せだ。"
+                                "Thanks to that, our relationship was smoothly accepted, and\nnow, as you can see, I've become friendly with the\nfollowers. Makoto prioritizes our time together, and I'm\ntruly happy."
                             ]
                         },
                         {

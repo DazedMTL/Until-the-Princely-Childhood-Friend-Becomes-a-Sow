@@ -5309,21 +5309,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's find another place to break in.\""
                             ]
                         },
                         {
@@ -5416,14 +5409,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………ここに用はない」"
+                                "\"...I have no business here.\""
                             ]
                         },
                         {
@@ -5503,14 +5496,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（やった、裏口だ！ここから中に入れそうだぞ！）"
+                                "(Yes, a back door! It looks like I can get inside from\nhere!)"
                             ]
                         },
                         {
@@ -5518,8 +5511,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "中に入ってみよう！",
-                                    "不法侵入はちょっと……。"
+                                    "Let's go inside!",
+                                    "Trespassing is a bit... you know."
                                 ],
                                 1,
                                 0,
@@ -5607,21 +5600,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「どうやらここは物置みたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　よく分からない物が色々と置かれている」"
+                                "\"It seems like this place is a storeroom. There are all\nsorts of things I don't recognize.\""
                             ]
                         },
                         {
@@ -5632,21 +5618,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「誠は今、何階にいるんだろう…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　とりあえず、上の階に行ってみるか」"
+                                "\"I wonder what floor Makoto is on right now... For now, I\nguess I'll head upstairs.\""
                             ]
                         },
                         {
@@ -5690,14 +5669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                " 　\\{\\{～チュートリアル（妨害編）～"
+                                " ~Tutorial (Interference Edition)~"
                             ]
                         },
                         {
@@ -5715,28 +5687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妨害イベントの目標は、ヒロインの救出です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成功すれば、その週に発生するNTRイベントを回避できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逆に1度でも失敗すれば、悲惨な結末が訪れるでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全ては貴方次第です。貴方の手で物語の末路をお決めください。"
+                                "The goal of the interference event is to rescue the heroine.\nIf you succeed, you can avoid the NTR event that would occur\nthat week. On the other hand, if you fail even once, a\ntragic ending will ensue. Everything depends on you. Please\ndecide the story's ending with your own hands."
                             ]
                         },
                         {
@@ -6035,21 +5986,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠はこの建物の中にに入っていったのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…………とりあえず、僕も中に入ってみよう」"
+                                "\"I wonder if Makoto entered this building?... For now, I'll\ntry going inside as well.\""
                             ]
                         },
                         {
@@ -6105,14 +6049,14 @@
                                 0,
                                 0,
                                 2,
-                                "手下"
+                                "Henchman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おい」"
+                                "\"Hey.\""
                             ]
                         },
                         {
@@ -6233,21 +6177,14 @@
                                 0,
                                 0,
                                 2,
-                                "手下"
+                                "Henchman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここは私有地だぞ。それ以上、中に入ると…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ん？お前は……………………」"
+                                "\"This is private property. If you go any further inside...\nHuh? You are...\""
                             ]
                         },
                         {
@@ -6258,21 +6195,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの、ここって何の建物なんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てっきりホテルか何かだと思ったんですけど…………」"
+                                "\"Um, what is this building? I thought it was a hotel or\nsomething...\""
                             ]
                         },
                         {
@@ -6283,21 +6213,14 @@
                                 0,
                                 0,
                                 2,
-                                "手下"
+                                "Henchman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん？…………確かにそう見えるかもな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だけどここは\\c[10]鈴木\\c[0]って人が建てた、歴とした家だぜ」"
+                                "\"Huh?... I guess it could look like that. But this is a\nlegitimate house built by someone named \\c[10]Suzuki\\c[0].\""
                             ]
                         },
                         {
@@ -6308,21 +6231,14 @@
                                 0,
                                 0,
                                 2,
-                                "手下"
+                                "Henchman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「家主の許可があるんだったら話は別なんだけどよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　用のない部外者は入らないでくれよな」"
+                                "\"If you have the owner's permission, that's a different\nstory. But if you don't have any business here, please don't\nenter.\""
                             ]
                         },
                         {
@@ -6333,21 +6249,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、そうだったんですね。すみません…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てっきり何かの商業施設だとばかり…………」"
+                                "\"Ah, I see. I'm sorry... I just assumed it was some kind of\ncommercial facility...\""
                             ]
                         },
                         {
@@ -6358,21 +6267,14 @@
                                 0,
                                 0,
                                 2,
-                                "手下"
+                                "Henchman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、分かってくれればいいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とにかくここには入らないでくれよ。じゃあな」"
+                                "\"No, it's fine as long as you understand. Just don't come in\nhere, alright? See ya.\""
                             ]
                         },
                         {
@@ -6625,21 +6527,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あのサングラスの男…………。今、鈴木って言ったよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかしてこの建物、あの鈴木の家なのか？）"
+                                "(That guy with the sunglasses... He just mentioned Suzuki,\nright? Could this building be that Suzuki's house?)"
                             ]
                         },
                         {
@@ -6650,21 +6545,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でも誠が鈴木の家に行くとは思えないし…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　名前が一緒ってだけなのかな…………？）"
+                                "(But I can't imagine Makoto going to Suzuki's house... Maybe\nit's just someone with the same name...?)"
                             ]
                         },
                         {
@@ -6684,21 +6572,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………駄目だ、考えても埒が明かないや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの建物の中に入って、直接確認できればなぁ）"
+                                "(...No good, thinking about it won't get me anywhere. If\nonly I could get inside that building and check for myself.)"
                             ]
                         },
                         {
@@ -6829,21 +6710,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「中々出てこないな…………誠…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　実はここにいなかった、なんてことないよな…………？」"
+                                "\"She's not coming out... Makoto... She couldn't possibly not\nbe here, right...?\""
                             ]
                         },
                         {
@@ -7174,21 +7048,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「や、やった！誠が出てきたぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり誠はこの家に来ていたんだ！」"
+                                "\"Yes, I did it! Makoto came out! Just as I thought, she was\nat this house!\""
                             ]
                         },
                         {
@@ -7199,21 +7066,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぱっと見だったけど何かされた様子はないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうやら無事に解放されたみたいだぞ！」"
+                                "\"It was just a glance, but she doesn't seem to have been\nharmed, and it looks like she's been safely released!\""
                             ]
                         },
                         {
@@ -7224,21 +7084,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でも一応、誠が真っ直ぐ家に帰るか最後まで見届よう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう何も起こらないと思うけど、念には念を入れないとね）"
+                                "(But just to be sure, I should watch Makoto until she gets\nhome straight. I don't think anything else will happen, but\nbetter safe than sorry.)"
                             ]
                         },
                         {
@@ -7268,21 +7121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、誠は終始、不思議そうな顔をしていたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に寄り道をすることもなく、ちゃんと家に帰っていった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで少なくとも今日は、鈴木は誠に手を出せないはずだ。"
+                                "Afterward, Makoto had a puzzled look on her face the whole\ntime, but she didn't make any detours and went straight\nhome. At least for today, Suzuki shouldn't be able to lay a\nhand on her."
                             ]
                         },
                         {
@@ -7300,21 +7139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誠が鈴木の家に何をしに行ったのかとか、疑問は色々と残ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど誠を助け出したことですっかり気が抜けてしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その日はそれ以上考えられず、倒れるように眠りについた。"
+                                "There are still many questions left, like why Makoto went to\nSuzuki's house in the first place. But having rescued her, I\nwas completely drained and fell asleep without being able to\nthink any further that day."
                             ]
                         },
                         {
@@ -7454,14 +7279,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅぅ…………」"
+                                "\"Ugh...\""
                             ]
                         },
                         {
@@ -7472,21 +7297,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「全く…………ここ私有地だって言ったはずだぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前のやったことは、立派な不法侵入だ」"
+                                "\"Really... I'm sure I told you this is private property.\nWhat you've done is a clear case of trespassing.\""
                             ]
                         },
                         {
@@ -7497,21 +7315,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「特に何かを盗んだってわけでもないし…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今回だけは多めに見てやるよ。さっさと家に帰りな」"
+                                "\"You didn't seem to steal anything in particular... I'll let\nit slide just this once. Go on, hurry back home.\""
                             ]
                         },
                         {
@@ -7522,21 +7333,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「不法侵入なんて…………知るもんか…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠を…………誠を解放しろ…………」"
+                                "\"Trespassing... as if I knew... Release Makoto... let Makoto\ngo...\""
                             ]
                         },
                         {
@@ -7556,21 +7360,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠？お前、何を言ってるんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠なんてやつは、この建物の中にはいねぇぞ？」"
+                                "\"Makoto? What are you talking about? There's no one named\nMakoto inside this building.\""
                             ]
                         },
                         {
@@ -7618,21 +7415,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんなわけないだろ…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠はこの道を通っていったんだ。間違いなく中にいるはずだ！」"
+                                "\"That can't be...! Makoto went down this road. She must be\ninside, I'm sure of it!\""
                             ]
                         },
                         {
@@ -7643,21 +7433,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いいや、本当に知らないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここにいるのは家主と…………さっき呼んだデリヘルだけだ」"
+                                "\"Nope, I really don't know. The only ones here are the\nhomeowner and... the call girl we ordered a while ago.\""
                             ]
                         },
                         {
@@ -7668,21 +7451,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前の話を聞く限りだと、その誠ってやつが入ったかどうか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その目で見たわけじゃなさそうだな」"
+                                "\"From what you're saying, it doesn't seem like you actually\nsaw this Makoto person enter, did you?\""
                             ]
                         },
                         {
@@ -7693,21 +7469,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前の勘違いなんじゃねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠なんてやつは、ここには来てないぜ」"
+                                "\"Could it be a misunderstanding on your part? This Makoto\nhasn't come here.\""
                             ]
                         },
                         {
@@ -7727,21 +7496,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに見たわけじゃないけど…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だけど、それじゃあ誠はどこに…………」"
+                                "\"I didn't actually see her, but... then where could Makoto\nbe...\""
                             ]
                         },
                         {
@@ -7752,21 +7514,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺が知るわけないだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら、勘違いだってわかったんだ。早くどっかに行っちまいな」"
+                                "\"How would I know? Look, you've realized it's a\nmisunderstanding. Now get lost.\""
                             ]
                         },
                         {
@@ -7777,21 +7532,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（本当に僕の勘違いなのか…………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それともこいつが嘘をついているのか…………？）"
+                                "(Is it really just my misunderstanding...? Or is this guy\nlying...?)"
                             ]
                         },
                         {
@@ -7802,21 +7550,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どっちにしても、見つかった以上ここにはもう忍び込めない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕にできることは…………もう何もない…………）"
+                                "(Either way, now that I've been found out, I can't sneak in\nhere anymore. There's nothing left for me to do...)"
                             ]
                         },
                         {
@@ -7827,21 +7568,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………わかりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…………家に帰ります…………失礼しました」"
+                                "\"...Understood.... I'll go home... My apologies.\""
                             ]
                         },
                         {
@@ -8102,21 +7836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何もできなくなった僕は、大人しく建物から離れ、家に帰った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰宅途中、警察に頼るかどうか、凄く迷ったけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通報すれば逆に不法侵入を問われると思い、やめることにした。"
+                                "Unable to do anything further, I obediently left the\nbuilding and headed home. On the way back, I agonized over\nwhether to call the police, but decided against it, thinking\nthat it might backfire and I'd be charged with trespassing."
                             ]
                         },
                         {
@@ -8134,21 +7854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて誠が建物に入るところを見ていたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ言いようはあったのに。そんなことを考えていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも誠は本当にあの建物にいたか、疑問に思い始めた。"
+                                "If only I had seen Makoto enter the building, I might have\nhad something to say. With that thought, I began to doubt\nwhether Makoto was really in that building at all."
                             ]
                         },
                         {
@@ -8166,21 +7872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先程のサングラスの男にも言われたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は誠が建物に入る瞬間を、この目で直接見たわけじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの道に入っていくところを目撃しただけだ。"
+                                "As the man with sunglasses had said, I hadn't actually seen\nMakoto enter the building with my own eyes. I had only\nwitnessed her going down that road."
                             ]
                         },
                         {
@@ -8198,21 +7890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "別に鈴木宅の前で道が途切れているわけでもなかったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしたら道の先に新しい道場ができていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誠はそちらに行ったのかもしれない。"
+                                "It's not like the road ended in front of Suzuki's house, and\nmaybe a new dojo had been built further down the road, and\nMakoto had gone there instead."
                             ]
                         },
                         {
@@ -8230,21 +7908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誠は鈴木の家には行っていない。全ては僕の勘違いだったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな風に無理やりポジティブなことを考え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "沈んだ気持ちをなんとか持ち直そうとした。"
+                                "Makoto didn't go to Suzuki's house. It was all a\nmisunderstanding on my part. I forced myself to think\npositively like that, trying to lift my sunken spirits."
                             ]
                         },
                         {
@@ -8262,21 +7926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕は自分の辛さを紛らわすため、楽観的な考えに逃げてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけどその日はよく眠れず、翌朝は最悪の気分だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛む頭を抱えてなんとか家を出たけれど、外に誠の姿はなかった。"
+                                "I escaped into optimistic thoughts to distract myself from\nmy own pain. But that night, I couldn't sleep well, and I\nwoke up feeling terrible. I managed to leave the house with\na throbbing headache, but Makoto was nowhere to be seen\noutside."
                             ]
                         },
                         {
@@ -8528,14 +8178,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだか怖いし、やっぱり家に帰ろうかな…………」"
+                                "\"It's kind of scary, maybe I should just go home...\""
                             ]
                         },
                         {
@@ -8581,14 +8231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　\\c[10]赤文字\\c[0]を選択した場合、\\c[10]攻略失敗\\c[0]となります。"
+                                "※Note: If you select the text in \\c[10]red\\c[0], it will\nresult in a \\c[10]failed conquest\\c[0]."
                             ]
                         },
                         {
@@ -8606,8 +8249,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[10]怖いから帰ろう！\\c[0]",
-                                    "誠が心配で帰れない！"
+                                    "\\c[10]Let's go back because I'm scared!\\c[0]",
+                                    "I can't go back because I'm worried about Makoto!"
                                 ],
                                 1,
                                 0,
@@ -8659,21 +8302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠がこの建物の中に入ったように見えたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サングラスの男に気圧されてしまった僕は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何もせずに逃げ帰ってしまった。"
+                                "It seemed like Makoto entered this building, but I,\nintimidated by the man in sunglasses, ran away without doing\nanything."
                             ]
                         },
                         {
@@ -8691,21 +8320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "正直、この近くに道場があるなんて聞いたことがなかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっと新しくできたんだと、僕は自分に言い聞かせた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だけど後から誠のことが心配になり、その日はよく眠れなかった。"
+                                "Honestly, I had never heard of a dojo being nearby, but I\nconvinced myself it must be new. However, I became worried\nabout Makoto afterwards and couldn't sleep well that night."
                             ]
                         },
                         {
@@ -8723,21 +8338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "翌日。寝不足で酷い頭痛がしたけど、学校へは行くことにした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっと昨日は見間違えたんだ。今日こそ誠と登校できるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう思い玄関の扉を開いたが、家の外に誠の姿は無かった。"
+                                "The next day. I had a terrible headache from lack of sleep,\nbut I decided to go to school. Surely I must have been\nmistaken yesterday. I should be able to go to school with\nMakoto today. With that thought, I opened the front door,\nbut Makoto was nowhere to be seen outside my house."
                             ]
                         },
                         {
@@ -9041,21 +8642,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's find another place to break in.\""
                             ]
                         },
                         {
@@ -9148,14 +8742,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………ここに用はない」"
+                                "\"...I have no business here.\""
                             ]
                         },
                         {
@@ -9257,21 +8851,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's find another place to break in.\""
                             ]
                         },
                         {
@@ -9364,14 +8951,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………ここに用はない」"
+                                "\"...I have no business here.\""
                             ]
                         },
                         {
@@ -9473,21 +9060,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's find another place to break in.\""
                             ]
                         },
                         {
@@ -9580,14 +9160,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………ここに用はない」"
+                                "\"...I have no business here.\""
                             ]
                         },
                         {
@@ -9689,21 +9269,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's try to enter from a different location.\""
                             ]
                         },
                         {
@@ -9796,14 +9369,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………ここに用はない」"
+                                "\"...I have no business here.\""
                             ]
                         },
                         {
@@ -9905,21 +9478,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's find another place to break in.\""
                             ]
                         },
                         {
@@ -10021,21 +9587,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's find another place to break in.\""
                             ]
                         },
                         {
@@ -10137,21 +9696,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's find another place to break in.\""
                             ]
                         },
                         {
@@ -10253,21 +9805,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここからだとサングラスの男に見つかっちゃうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何処か別の場所から侵入しよう」"
+                                "\"We'll be spotted by the man with sunglasses from here.\nLet's try to enter from a different location.\""
                             ]
                         },
                         {
@@ -10413,14 +9958,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだか怖いし、やっぱり家に帰ろうかな…………」"
+                                "\"It's kind of scary, maybe I should just go home...\""
                             ]
                         },
                         {
@@ -10466,14 +10011,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　\\c[10]赤文字\\c[0]を選択した場合、\\c[10]攻略失敗\\c[0]となります。"
+                                "*Note: Choosing \\c[10]red text\\c[0] will result in a\n\\c[10]failed conquest\\c[0]."
                             ]
                         },
                         {
@@ -10491,8 +10029,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[10]怖いから帰ろう！\\c[0]",
-                                    "誠が心配で帰れない！"
+                                    "\\c[10]Let's go back because I'm scared!\\c[0]",
+                                    "I can't go back because I'm worried about Makoto!"
                                 ],
                                 1,
                                 0,
@@ -10544,21 +10082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠がこの建物の中に入ったように見えたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サングラスの男に気圧されてしまった僕は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何もせずに逃げ帰ってしまった。"
+                                "It seemed like Makoto entered this building, but I,\noverwhelmed by the man in sunglasses, fled back home without\ndoing anything."
                             ]
                         },
                         {
@@ -10576,21 +10100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "正直、この近くに道場があるなんて聞いたことがなかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっと新しくできたんだと、僕は自分に言い聞かせた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だけど後から誠のことが心配になり、その日はよく眠れなかった。"
+                                "Honestly, I had never heard of a dojo being nearby, but I\nconvinced myself it must be new. However, I became worried\nabout Makoto afterwards and couldn't sleep well that night."
                             ]
                         },
                         {
@@ -10608,21 +10118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "翌日。寝不足で酷い頭痛がしたけど、学校へは行くことにした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっと昨日は見間違えたんだ。今日こそ誠と登校できるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう思い玄関の扉を開いたが、家の外に誠の姿は無かった。"
+                                "The next day. I had a terrible headache from lack of sleep,\nbut I decided to go to school. Surely I must have been\nmistaken yesterday. I should be able to go to school with\nMakoto today. With that thought, I opened the front door,\nbut Makoto was nowhere to be seen outside the house."
                             ]
                         },
                         {
@@ -10970,14 +10466,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだか怖いし、やっぱり家に帰ろうかな…………」"
+                                "\"It's kind of scary, maybe I should just go home...\""
                             ]
                         },
                         {
@@ -11023,14 +10519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　\\c[10]赤文字\\c[0]を選択した場合、\\c[10]攻略失敗\\c[0]となります。"
+                                "*Note: Choosing \\c[10]red text\\c[0] will result in a\n\\c[10]failed conquest\\c[0]."
                             ]
                         },
                         {
@@ -11048,8 +10537,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[10]怖いから帰ろう！\\c[0]",
-                                    "誠が心配で帰れない！"
+                                    "\\c[10]Let's go back because I'm scared!\\c[0]",
+                                    "I can't go back because I'm worried about Makoto!"
                                 ],
                                 1,
                                 0,
@@ -11101,21 +10590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠がこの建物の中に入ったように見えたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サングラスの男に気圧されてしまった僕は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何もせずに逃げ帰ってしまった。"
+                                "It looked like Makoto entered this building, but I,\nintimidated by the man in sunglasses, ran away without doing\nanything."
                             ]
                         },
                         {
@@ -11133,21 +10608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "正直、この近くに道場があるなんて聞いたことがなかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっと新しくできたんだと、僕は自分に言い聞かせた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だけど後から誠のことが心配になり、その日はよく眠れなかった。"
+                                "Honestly, I had never heard of a dojo being nearby, but I\nconvinced myself it must be something new. However, I became\nworried about Makoto afterwards and couldn't sleep well that\nnight."
                             ]
                         },
                         {
@@ -11165,21 +10626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "翌日。寝不足で酷い頭痛がしたけど、学校へは行くことにした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっと昨日は見間違えたんだ。今日こそ誠と登校できるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう思い玄関の扉を開いたが、家の外に誠の姿は無かった。"
+                                "The next day. I had a terrible headache from lack of sleep,\nbut I decided to go to school. Surely I must have been\nmistaken yesterday. I should be able to go to school with\nMakoto today. With that thought, I opened the front door,\nbut Makoto was nowhere to be seen outside the house."
                             ]
                         },
                         {
@@ -11645,14 +11092,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………ここに用はない」"
+                                "\"...I have no business here.\""
                             ]
                         },
                         {
@@ -11754,14 +11201,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………ここに用はない」"
+                                "\"...I have no business here.\""
                             ]
                         },
                         {
@@ -11863,14 +11310,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………ここに用はない」"
+                                "\"...I have no business here.\""
                             ]
                         },
                         {

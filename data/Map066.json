@@ -1250,7 +1250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パソコンの電源を落としますか？"
+                                "Do you want to turn off the computer?"
                             ]
                         },
                         {
@@ -1258,8 +1258,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1464,7 +1464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パソコンの電源を落としますか？"
+                                "Do you want to turn off the computer?"
                             ]
                         },
                         {
@@ -1472,8 +1472,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1642,14 +1642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{4月8日 金曜日"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}\\c[10]（理不尽なレイプ）\\c[0]を再生しますか？"
+                                "April 8th, Friday \\c[10](Unreasonable Rape)\\c[0] Would you\nlike to play?"
                             ]
                         },
                         {
@@ -1753,14 +1746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　 　\\{\\{～チュートリアル（PC編）～"
+                                "~Tutorial (PC Edition)~"
                             ]
                         },
                         {
@@ -1778,28 +1764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらは回想部屋となっております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中央のカレンダー風パネルを調べることで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒロインの身に何が起きていたのか、詳しく知ることができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部屋に戻りたい場合は、左上のパネルに触れてください。"
+                                "This is the Recollection Room. By examining the central\ncalendar-style panel, you can find out in detail what\nhappened to the heroine. If you want to return to the room,\nplease touch the panel in the upper left corner."
                             ]
                         },
                         {
@@ -1954,28 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームクリアおめでとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリア特典として、以下の機能が解放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・\\c[10]回想の全開放スイッチ\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・\\c[10]やり直しスイッチ\\c[0]"
+                                "Congratulations on clearing the game. As a clear bonus, the\nfollowing features have been unlocked: \\c[10]Recollection\nFull Unlock Switch\\c[0], \\c[10]Redo Switch\\c[0]."
                             ]
                         },
                         {
@@ -1993,28 +1937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全開放スイッチは、全ての回想シーンが閲覧可能になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やり直しスイッチは、現在の回想状況を引き継いだまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒頭部分から再度ゲームをリスタートできます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お好みで二つの機能をご利用くださいませ。"
+                                "The Full Unlock Switch allows you to view all recollection\nscenes. The Redo Switch allows you to restart the game from\nthe beginning while carrying over your current recollection\nprogress. Please feel free to use both features as you like."
                             ]
                         },
                         {
@@ -2032,21 +1955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディングを迎えたデータは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回想用としてセーブすることをオススメいたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは、引き続き本ゲームをお楽しみくださいませ。"
+                                "We recommend saving your data at the ending for recollection\npurposes. Please continue to enjoy the game."
                             ]
                         },
                         {
@@ -2150,28 +2059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームクリアおめでとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリア特典として、以下の機能が解放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・\\c[10]回想の全開放スイッチ\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・\\c[10]やり直しスイッチ\\c[0]"
+                                "Congratulations on clearing the game. As a clear bonus, the\nfollowing features have been unlocked: \\c[10]Full\nRecollection Switch\\c[0], \\c[10]Redo Switch\\c[0]."
                             ]
                         },
                         {
@@ -2189,28 +2077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全開放スイッチは、全ての回想シーンが閲覧可能になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やり直しスイッチは、現在の回想状況を引き継いだまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒頭部分から再度ゲームをリスタートできます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お好みで二つの機能をご利用くださいませ。"
+                                "The Full Recollection Switch allows you to view all\nrecollection scenes. The Redo Switch allows you to restart\nthe game from the beginning while carrying over your current\nrecollection progress. Please feel free to use both features\nas you like."
                             ]
                         },
                         {
@@ -2228,21 +2095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディングを迎えたデータは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回想用としてセーブすることをオススメいたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは、引き続き本ゲームをお楽しみくださいませ。"
+                                "We recommend saving your data at the ending for recollection\npurposes. Please continue to enjoy the game."
                             ]
                         },
                         {
@@ -2560,14 +2413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{4月7日 木曜日"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}\\c[10]（平和な幸せエンド）\\c[0]を再生しますか？"
+                                "April 7th, Thursday \\c[10](Peaceful Happy Ending)\\c[0] Would\nyou like to play?"
                             ]
                         },
                         {

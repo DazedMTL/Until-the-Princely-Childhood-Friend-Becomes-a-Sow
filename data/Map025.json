@@ -2526,21 +2526,14 @@
                                 0,
                                 0,
                                 2,
-                                "体育教師"
+                                "Pe Teacher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よ～し。チャイムも鳴ったことだし出席をとるぞ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　え～っとまずは…………朝火～。あれ？朝火 誠～？」"
+                                "\"Alright, the bell has rung, so let's take attendance. First\nup... Asahi... Huh? Asahi Makoto?\""
                             ]
                         },
                         {
@@ -2595,14 +2588,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません！遅れました！」"
+                                "\"I'm sorry! I'm late!\""
                             ]
                         },
                         {
@@ -2660,21 +2653,14 @@
                                 0,
                                 0,
                                 2,
-                                "体育教師"
+                                "Pe Teacher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ、朝火が遅刻とは珍しいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁ出席を取り始めたばかりだし、今回は大目に見よう」"
+                                "\"Oh, it's rare for Asahi to be late. Well, I've just started\ntaking attendance, so I'll let it slide this time.\""
                             ]
                         },
                         {
@@ -2701,14 +2687,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません。ありがとうございます」"
+                                "\"I'm sorry. Thank you very much.\""
                             ]
                         },
                         {
@@ -3082,14 +3068,14 @@
                                 0,
                                 0,
                                 2,
-                                "体育教師"
+                                "Pe Teacher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よーし、次。伊崎～」"
+                                "\"Okay, next. Izaki—\""
                             ]
                         },
                         {
@@ -3187,21 +3173,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（誠が遅刻するなんて珍しいな。でも風邪じゃなくてよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日こそは…………今日こそは誠に謝るぞ）"
+                                "(It's rare for Makoto to be late. But I'm glad it's not a\ncold. Today's the day... Today's the day I'll apologize to\nher.)"
                             ]
                         },
                         {
@@ -3212,14 +3191,14 @@
                                 0,
                                 0,
                                 2,
-                                "体育教師"
+                                "Pe Teacher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「次、佐藤～。佐藤はいないのか？」"
+                                "\"Next, Sato—. Is Sato not here?\""
                             ]
                         },
                         {
@@ -3239,14 +3218,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっはい！佐藤います！」"
+                                "\"Ah, yes! Sato is here!\""
                             ]
                         },
                         {
@@ -3257,21 +3236,14 @@
                                 0,
                                 0,
                                 2,
-                                "体育教師"
+                                "Pe Teacher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、朝からボーっとするな。今日1日持たないぞ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よし、次～。清水～」"
+                                "\"Hey, hey, don't space out this early in the morning. You\nwon't last the day—? Alright, next—. Shimizu—\""
                             ]
                         },
                         {
@@ -3282,14 +3254,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒A"
+                                "Male Student A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい！」"
+                                "\"Here!\""
                             ]
                         },
                         {
@@ -3300,21 +3272,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（いけないいけない。先生の話をまるで聞いてなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠に謝る前に、まずはちゃんと授業を受けないとな）"
+                                "(That's not good, I wasn't listening to the teacher at all.\nBefore I apologize to Makoto, I need to pay attention in\nclass first.)"
                             ]
                         },
                         {
@@ -3349,21 +3314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし誠と話す機会は思ったように訪れず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気がつけば今日もまた、何もできずに放課後を迎えてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど僕は諦めず、帰宅する誠を追いかけることにした。"
+                                "However, the chance to talk to Makoto didn't come as\nexpected, and before I knew it, the day was over and I\nhadn't accomplished anything. But I didn't give up, and\ndecided to follow Makoto on her way home."
                             ]
                         },
                         {
@@ -3519,14 +3470,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒G"
+                                "Male Student G"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え～っと。XがZでYがドラゴンと…………」"
+                                "\"Uh, if X is Z and Y is the dragon and...\""
                             ]
                         },
                         {
@@ -3537,14 +3488,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（な、何の問題を解いているんだ？）"
+                                "(What kind of problem is he solving?)"
                             ]
                         },
                         {

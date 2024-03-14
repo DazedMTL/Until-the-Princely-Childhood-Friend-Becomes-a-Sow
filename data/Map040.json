@@ -3318,14 +3318,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃいませ～。空いてるお席にどうぞ～」"
+                                "\"Welcome~ Please take any open seat~\""
                             ]
                         },
                         {
@@ -3521,21 +3521,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この店、安くて美味いって評判なんだよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　和食から洋食まで何でもあるらしいし、何を食べようかな？」"
+                                "\"This place is known for being cheap and delicious. They\nseem to have everything from Japanese to Western cuisine,\nwhat should I eat?\""
                             ]
                         },
                         {
@@ -3546,14 +3539,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………お？これなんて良さそうだ。早速注文しようっと」"
+                                "\"...Oh? This looks good. I'll order this right away.\""
                             ]
                         },
                         {
@@ -3576,14 +3569,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お待たせいたしました。ご注文のビーフシチューです」"
+                                "\"Thank you for waiting. Here is your beef stew.\""
                             ]
                         },
                         {
@@ -3608,21 +3601,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（凄くいい匂いだ。量も丁度いいし、これは大当たりかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　冷めないうちに早く食べちゃおう）"
+                                "(It smells amazing. The portion is just right too, this\nmight be a jackpot. I should eat it before it gets cold.)"
                             ]
                         },
                         {
@@ -3731,21 +3717,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふぅ…………美味しかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このレストランは評判通り、とっても良い店だな）"
+                                "(Phew... That was delicious. This restaurant really lives up\nto its reputation, it's a great place.)"
                             ]
                         },
                         {
@@ -3787,21 +3766,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こんなに美味しいと通っちゃいそうだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さて、食べ終わったし帰るか）"
+                                "(It's so good I might become a regular. Well, I've finished\neating, time to head back.)"
                             ]
                         },
                         {
@@ -3812,21 +3784,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラA"
+                                "Thug A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}「なぁ、お前知ってるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日の夜、あの有名投稿者がエロ配信するんだってよ！」"
+                                "\"Hey, do you know? Tonight, that famous uploader is doing an\nerotic live stream!\""
                             ]
                         },
                         {
@@ -3913,21 +3878,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラB"
+                                "Thug B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ま、まさか…………。先月までほぼ毎日動画を更新してた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの投稿者のことを言ってんのか！？」"
+                                "\"No way... Are you talking about the uploader who was\nupdating almost daily until last month!?\""
                             ]
                         },
                         {
@@ -3938,21 +3896,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラA"
+                                "Thug A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そのまさかだよ！あの\\C[10]KIZUSU\\C[0]がエロ配信するんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　最近手に入れた女をさ！身内で輪姦すんだとよ！」"
+                                "\"Exactly! That \\C[10]KIZUSU\\C[0] is going to do an erotic\nlive stream! He's going to gangbang the new girl he got with\nhis crew!\""
                             ]
                         },
                         {
@@ -3963,21 +3914,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラB"
+                                "Thug B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおいマジかよ！？最高じゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺あの人の動画、何本も見てんだよ！こりゃ見逃せねぇな！」"
+                                "\"Dude, seriously!? That's awesome! I've watched so many of\nhis videos! I can't miss this!\""
                             ]
                         },
                         {
@@ -3988,21 +3932,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラA"
+                                "Thug A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日の夜から日曜まで、ぶっ続けでやるらしいぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺あの人フォローしてるからさ！ついさっき知れたわけよ！」"
+                                "\"He's going to do it non-stop from tonight until Sunday! I'm\nfollowing him, so I just found out a little while ago!\""
                             ]
                         },
                         {
@@ -4013,21 +3950,14 @@
                                 0,
                                 0,
                                 2,
-                                "チンピラB"
+                                "Thug B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それなら今日はさっさと切り上げて、家でライブ見るか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　滅茶苦茶楽しみだぜ！早く始まらねぇかな！」"
+                                "\"Then let's wrap up here quickly today and watch the live at\nhome! I'm super excited! Can't wait for it to start!\""
                             ]
                         },
                         {
@@ -4256,21 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "投稿者KIZUSUの名前は、僕もよく知っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "去年の春から活動を始め、毎日のように動画を投稿していた人だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内容は素人もので、かなりハードなプレイだった。"
+                                "I was well aware of the uploader KIZUSU's name. He started\nhis activities last spring and had been posting videos\ndaily. The content was amateur stuff, and the play was quite\nhardcore."
                             ]
                         },
                         {
@@ -4288,21 +4204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕は性欲が強い方だから、週に1度は必ずオナニーをしてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからKIZUSUの動画には何度もお世話になっていたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生配信だけはいつも見逃していた。"
+                                "I have a strong sex drive, so I masturbate at least once a\nweek. I've been helped by KIZUSU's videos many times, but I\nalways missed the live streams."
                             ]
                         },
                         {
@@ -4320,21 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それがまさか、偶然入ったレストランで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "配信日を知ることになるとは…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近不幸続きだから、運が回ってきたのかな？"
+                                "And now, by chance, in a restaurant I happened to enter, I\nlearned of the broadcast date... Maybe my luck is turning\naround after a series of misfortunes?"
                             ]
                         },
                         {
@@ -4352,21 +4240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は家に親はいないし、心置きなく見ることができる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はレストランから帰宅すると、早速自室のPCを起動し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ネットで検索してKIZUSUが配信しているサイトを開いた。"
+                                "My parents aren't home today, so I can watch it without any\nworries. When I returned home from the restaurant, I\nimmediately booted up my PC in my room, searched the net,\nand opened the site where KIZUSU was streaming."
                             ]
                         },
                         {
@@ -5032,21 +4906,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ～美味しかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あのレストラン、安いのにとても美味しいお店だったね！」"
+                                "\"Ah~ That was delicious! That restaurant was really good\ndespite being so cheap!\""
                             ]
                         },
                         {
@@ -5057,21 +4924,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「カラオケとゲームセンターも、とっても面白かったね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなに思いっきり遊んだのは、本当に久しぶりだよ！」"
+                                "\"Karaoke and the game center were so much fun too! It's been\nreally long since I've had this much fun!\""
                             ]
                         },
                         {
@@ -5089,21 +4949,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（良かった。楽しんでもらえたみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…………よし、そろそろいい時間だし、あの場所に行くぞ）"
+                                "(Good. It seems she had fun... Alright, it's about time.\nLet's head to that place.)"
                             ]
                         },
                         {
@@ -5114,21 +4967,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠。最後に行きたい場所があるんだけど、いいかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっと遠くなんだけど…………」"
+                                "\"Makoto, there's one last place I want to go, is that okay?\nIt's a bit far though...\""
                             ]
                         },
                         {
@@ -5155,21 +5001,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「行きたい場所？私は別に構わないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこに連れて行ってくれるんだい？」"
+                                "\"A place you want to go? I don't mind, but where are you\ntaking me?\""
                             ]
                         },
                         {
@@ -5187,21 +5026,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「驚かせたいから、それはちょっと言えないかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それじゃ早速、バスに乗って行こうか」"
+                                "\"I want to surprise you, so I can't really say. Let's hop on\nthe bus and head over now.\""
                             ]
                         },
                         {
@@ -5496,21 +5328,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ～美味しかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あのレストラン、安いのにとても美味しいお店だったね！」"
+                                "\"Ah~ That was delicious! That restaurant was really good\ndespite being so cheap!\""
                             ]
                         },
                         {
@@ -5521,21 +5346,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「カラオケとゲームセンターも、とっても面白かったね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなに思いっきり遊んだのは、本当に久しぶりだよ！」"
+                                "\"Karaoke and the game center were so much fun too! It's been\nreally long since I've had this much fun!\""
                             ]
                         },
                         {
@@ -5553,21 +5371,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（良かった。楽しんでもらえたみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…………よし、そろそろいい時間だし、あの場所に行くぞ）"
+                                "(Good. It seems she had fun... Alright, it's about time.\nLet's head to that place.)"
                             ]
                         },
                         {
@@ -5578,21 +5389,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠。最後に行きたい場所があるんだけど、いいかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっと遠くなんだけど…………」"
+                                "\"Makoto, there's one last place I want to take you to, is\nthat okay? It's a bit far though...\""
                             ]
                         },
                         {
@@ -5619,21 +5423,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「行きたい場所？私は別に構わないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこに連れて行ってくれるんだい？」"
+                                "\"A place you want to take me? I don't mind, but where are\nyou planning to take me?\""
                             ]
                         },
                         {
@@ -5651,21 +5448,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「驚かせたいから、それはちょっと言えないかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それじゃ早速、バスに乗って行こうか」"
+                                "\"I want to surprise you, so I can't really say. Let's hop on\nthe bus and head over now.\""
                             ]
                         },
                         {

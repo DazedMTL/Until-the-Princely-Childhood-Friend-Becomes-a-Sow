@@ -3691,14 +3691,14 @@
                                 0,
                                 0,
                                 2,
-                                "男の子"
+                                "Boy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたの～？お兄さんも一緒に遊ぶ～？」"
+                                "\"What's wrong~? Do you want to play with me too~?\""
                             ]
                         },
                         {
@@ -3709,14 +3709,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、いや。遠慮しておくよ」"
+                                "\"N-No, I'll pass.\""
                             ]
                         },
                         {
@@ -3787,14 +3787,14 @@
                                 0,
                                 0,
                                 2,
-                                "女の子"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わ～いわ～い！」"
+                                "\"Yay, yay!\""
                             ]
                         },
                         {
@@ -3805,21 +3805,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（犯罪者と思われたくないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　小さい女の子には無暗に近づかない方がいいよな）"
+                                "(I don't want to be thought of as a criminal, so it's better\nnot to approach little girls carelessly.)"
                             ]
                         },
                         {
@@ -4610,21 +4603,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅ…………寝不足のせいか眠気がヤバいな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このベンチでちょっとだけ仮眠していこうかな…………」"
+                                "\"Ugh... I'm seriously sleepy from the lack of sleep... Maybe\nI'll take a quick nap on this bench...\""
                             ]
                         },
                         {
@@ -4632,8 +4618,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仮眠する",
-                                    "さっさと家に帰る"
+                                    "Take a nap",
+                                    "Hurry home"
                                 ],
                                 1,
                                 0,
@@ -4657,21 +4643,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ちょっとだけ寝ていくか…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　スマホの目覚ましをセットしてっと…………」"
+                                "\"Maybe I'll sleep for a bit... Let's set the alarm on my\nphone...\""
                             ]
                         },
                         {
@@ -4794,21 +4773,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハァ…………なんだか体調が悪いな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このベンチで少し休憩しようかな…………」"
+                                "\"Haa... I'm not feeling well... Maybe I should rest on this\nbench for a bit...\""
                             ]
                         },
                         {
@@ -4816,8 +4788,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "休憩する",
-                                    "さっさと家に帰る"
+                                    "Take a break",
+                                    "Hurry home"
                                 ],
                                 1,
                                 0,
@@ -4841,21 +4813,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「少し休んでから家に帰るか…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　身体を壊してるみたいだし、今日は早めに寝ないとなぁ」"
+                                "\"I'll go home after I rest a little... It seems like I'm\nwearing myself out, I need to go to bed early tonight.\""
                             ]
                         },
                         {
@@ -5031,21 +4996,14 @@
                                 0,
                                 0,
                                 2,
-                                "サラリーマン"
+                                "Salaryman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハァ。なんだか無性に疲れたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く家に帰りたい……………………」"
+                                "\"Haa... I'm feeling inexplicably tired. I just want to get\nhome...\""
                             ]
                         },
                         {
@@ -5056,21 +5014,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（僕もいつか、こんな風になるのかなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　嫌だなぁ。いつまでも学生でいたいよ…………）"
+                                "\"(Will I end up like this someday? I don't like that\nthought. I wish I could be a student forever...)\""
                             ]
                         },
                         {
@@ -5392,21 +5343,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（げっ…………鈴木だ…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさか公園でこいつと出くわすなんて…………）"
+                                "(Ugh... It's Suzuki...! To think I'd run into him at the\npark...)"
                             ]
                         },
                         {
@@ -5417,21 +5361,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おう！酒も薬もタップリ用意しておくから楽しみにしとけ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日からゴールデンウィーク中、ずっとパーティーだからな！」"
+                                "\"Hey! I've got plenty of booze and drugs ready, so look\nforward to it! From today until the end of Golden Week, it's\nparty time all the way!\""
                             ]
                         },
                         {
@@ -5442,21 +5379,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（誰かと電話をしてるみたいだけど…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　酒に薬って…………一体、何の話してるんだ…………？）"
+                                "(He seems to be on the phone with someone... Booze and\ndrugs... What on earth is he talking about...?)"
                             ]
                         },
                         {
@@ -5464,8 +5394,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "少しだけ聞き耳を立てる",
-                                    "急いで離れる"
+                                    "Listen in for a bit",
+                                    "Hurry away"
                                 ],
                                 1,
                                 0,
@@ -5508,21 +5438,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それにしてもまさかお前が自分から言い出すとはな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　すっかりセックスの味を覚えたみたいだな！」"
+                                "\"And to think you'd be the one to suggest it! Looks like\nyou've really gotten a taste for sex!\""
                             ]
                         },
                         {
@@ -5533,21 +5456,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あん？生放送はまたするのかって？当たり前だろうがよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　また俺の\\c[10]KIZUSUチャンネル\\c[0]でお前の痴態を晒してやるよ！」"
+                                "\"Huh? You're asking if we're doing a live broadcast again?\nOf course, we are! I'll expose your lewdness once more on my\n\\c[10]KIZUSU Channel\\c[0]!\""
                             ]
                         },
                         {
@@ -5558,21 +5474,14 @@
                                 0,
                                 0,
                                 2,
-                                "鈴木　剛"
+                                "Suzuki Go"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「時間は今日の夜からだ！場所は言わなくてもわかるな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　それじゃあ股を濡らして待ってろよ！また後でな！クククク！」"
+                                "\"The time is tonight! You know the place, right? So wait\nwith your crotch soaking wet! See you later! Kukukuku!\""
                             ]
                         },
                         {
@@ -5666,21 +5575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鈴木が電話を切ったのを見て、僕は慌てて逃げ出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺のKIZUSUチャンネルだって鈴木はハッキリ言っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさかあの有名投稿者の正体が、あいつだったとはな…………。"
+                                "Seeing Suzuki hang up the phone, I hurriedly ran away. He\nclearly mentioned his KIZUSU Channel. I never would have\nguessed that he was the identity behind that famous\nuploader..."
                             ]
                         },
                         {
@@ -5698,21 +5593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "詳しい時間までは聞けなかったけど、今夜配信するみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕は公園から帰った後、しばらく視聴するか悩み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "結局、鈴木の生放送を視聴することにした。"
+                                "I didn't catch the exact time, but it seems like he's\nbroadcasting tonight. After returning from the park, I\ndebated whether to watch it for a while and eventually\ndecided to tune into Suzuki's live broadcast."
                             ]
                         },
                         {
@@ -5762,21 +5643,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「多分、いつも通りエロエロ動画で配信してるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　KIZUSUの名前で検索をかければ…………」"
+                                "\"Probably, as usual, he'll be streaming some erotic videos.\nIf I search for KIZUSU's name...\""
                             ]
                         },
                         {
@@ -5818,21 +5692,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ライブはもう…………始まってるな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　このリンクを押して…………よし、視聴開始だ」"
+                                "\"The live... has already started... Clicking this link...\nAlright, viewing starts now.\""
                             ]
                         },
                         {
@@ -5964,21 +5831,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪の女"
+                                "Blonde Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んおおおおおおおおおおおおおおおおおおおおおお！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　おぉぉ！♡♡♡おんっ！♡♡♡んあぁぁぁぁぁぁぁ！！♡♡♡」"
+                                "\"Noooooo!♡♡♡ Ohhh!♡♡♡ Ahnn!♡♡♡ Naaaahhhhh!!♡♡♡\""
                             ]
                         },
                         {
@@ -6126,21 +5986,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……………………凄いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…………動物みたいに…………喘いでる）"
+                                "(...Incredible... She's panting... like an animal.)"
                             ]
                         },
                         {
@@ -6151,21 +6004,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（なんか…………感じ方が異常じゃないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　動画に映ってる人、目が血走ってる…………）"
+                                "(Something's... not normal about the way she's feeling it,\nright? The person in the video, her eyes are bloodshot...)"
                             ]
                         },
                         {
@@ -6176,21 +6022,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪の女"
+                                "Blonde Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まんこ！♡♡♡まんこ！♡♡♡まんこぉぉぉぉぉぉぉ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　まんこをゴリゴリ気持ちィィィィィィィィィィィィィ！♡♡♡」"
+                                "\"Pussy!♡♡♡ Pussy!♡♡♡ My pussy!♡♡♡ Grind it, it feels so\ngooood!♡♡♡\""
                             ]
                         },
                         {
@@ -6224,21 +6063,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪の女"
+                                "Blonde Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「奥、擦られるの気持ちィィィィィィィィィィィィィィ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　波がひかない！♡♡♡ずっとイクゥゥゥゥゥゥゥゥゥ！♡♡♡」"
+                                "\"It feels so good when you rub me deep inside!♡♡♡ The waves\nwon't stop!♡♡♡ I'm coming non-stop!♡♡♡\""
                             ]
                         },
                         {
@@ -6386,21 +6218,14 @@
                                 0,
                                 0,
                                 2,
-                                "裸の男A"
+                                "Naked Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ハハハハハハ！滅茶苦茶感じてるねiseちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　潮でベッドがびしょ濡れだ！ハハハハハハハハ！」"
+                                "\"Hahahahaha! You're feeling it so much, Ise-chan! The bed's\nsoaked with your squirt! Hahahahaha!\""
                             ]
                         },
                         {
@@ -6411,21 +6236,14 @@
                                 0,
                                 0,
                                 2,
-                                "裸の男A"
+                                "Naked Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ほら、何処が気持ちいいか言ってみてよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　Gスポ？ポルチオ？それとも子宮かな？ハハハハハハハハ！」"
+                                "\"Hey, tell me where it feels good! G-spot? P-spot? Or maybe\nyour womb? Hahahahaha!\""
                             ]
                         },
                         {
@@ -6436,21 +6254,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪の女"
+                                "Blonde Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぜ、全部ぅぅぅ！♡♡♡全部ですぅぅぅぅ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　全部全部、気持ちィィィィィィィィィィィィィ！♡♡♡」"
+                                "\"E-everything!♡♡♡ All of it!♡♡♡ Everything feels so\ngoooood!♡♡♡\""
                             ]
                         },
                         {
@@ -6484,21 +6295,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪の女"
+                                "Blonde Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まんこをズコズコ気持ちいぃぃぃ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　マンコ全部で感じちゃうぅぅぅぅ！♡♡♡」"
+                                "\"Pounding my pussy feels so good!♡♡♡ My whole pussy is\nfeeling it!♡♡♡\""
                             ]
                         },
                         {
@@ -6509,21 +6313,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪の女"
+                                "Blonde Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「乳首揺れるとイキそうになるぅぅぅぅぅ！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　クリ触られたら潮吹いちゃうぅぅぅぅぅ！♡♡♡」"
+                                "\"My nipples sway and I feel like I'm going to come!♡♡♡ When\nyou touch my clit, I squirt!♡♡♡\""
                             ]
                         },
                         {
@@ -6534,21 +6331,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪の女"
+                                "Blonde Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「気持ちいい！♡♡♡気持ちいい！♡♡♡もう最高！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ずっとイクのさいこぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉ！♡♡♡」"
+                                "\"It feels good!♡♡♡ It feels good!♡♡♡ It's the best!♡♡♡ I'm\ncoming forever!♡♡♡\""
                             ]
                         },
                         {
@@ -6696,21 +6486,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（…………演技なんかじゃない。この人は本当に感じてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　はは、こんなに下品な人…………AVでも見たことないよ）"
+                                "(...This isn't acting. This woman is truly feeling it. Haha,\nI've never seen someone so vulgar... not even in AV.)"
                             ]
                         },
                         {
@@ -6721,21 +6504,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（犯してくれるなら誰でもいいんだろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　見るからに変態そうだしな…………）"
+                                "(She probably wouldn't care who does her. She looks like\nsuch a pervert...)"
                             ]
                         },
                         {
@@ -6746,21 +6522,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪の女"
+                                "Blonde Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んひィィィィィィィィィィィィィィィィィィィィィ！！♡♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　イクイクイクイク！♡♡♡またイクゥゥゥゥゥゥゥ！！♡♡♡」"
+                                "\"Nnhiiiiiiiiiiii!!♡♡♡ I'm coming, I'm coming!♡♡♡ I'm coming\nagain!♡♡♡\""
                             ]
                         },
                         {
@@ -6908,21 +6677,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（…………………………………………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　………………………………………………………………）"
+                                "(......)"
                             ]
                         },
                         {
@@ -6981,21 +6743,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鈴木のことは嫌いだけど、あいつの放送は最高にエロかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激しく犯されて感じまくる女の人の姿に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕はこれまでにないくらい、とてつもなく興奮していた。"
+                                "I hate Suzuki, but his broadcast was incredibly erotic.\nWatching a woman being fucked senseless and feeling it so\nintensely, I was more turned on than I had ever been before."
                             ]
                         },
                         {
@@ -7013,21 +6761,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だけど僕はサイトを閉じた。股間にも触らなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "痛いほど勃起していたにも関わらずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最高のオカズだったのに、何故か全くする気になれなかった。"
+                                "But I closed the site. I didn't even touch my groin. Despite\nbeing painfully erect. It was the best material, yet for\nsome reason, I just couldn't bring myself to do it."
                             ]
                         },
                         {
@@ -7045,21 +6779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "視聴をやめた今は、むしろ悲しい気持ちになっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "理由は自分でもわからない。だけど涙が勝手に出てきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕はベッドで横になり、何かから逃げるように眠りについた。"
+                                "Now that I've stopped watching, I feel rather sad. I don't\nknow why. But tears just started flowing. I lay down on my\nbed and fell asleep as if running away from something."
                             ]
                         },
                         {
@@ -7197,21 +6917,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（いや、そんなことはどうでもいいか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　気づかれる前に、早くこいつから離れよう）"
+                                "(No, maybe none of that matters. I should get away from this\nguy before he notices me.)"
                             ]
                         },
                         {
@@ -7323,14 +7036,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「別にトイレに行きたくないな」"
+                                "\"I don't particularly need to go to the bathroom.\""
                             ]
                         },
                         {
@@ -7432,14 +7145,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「別にトイレに行きたくないな」"
+                                "\"I don't particularly need to go to the bathroom.\""
                             ]
                         },
                         {

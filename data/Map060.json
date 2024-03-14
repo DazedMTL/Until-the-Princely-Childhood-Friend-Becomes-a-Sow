@@ -1237,21 +1237,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「水道管のバルブがあるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確か、これを閉めれば全ての水道が止まるんだよな」"
+                                "\"There's the water pipe valve. If I remember correctly,\nclosing this should stop all the water supply.\""
                             ]
                         },
                         {

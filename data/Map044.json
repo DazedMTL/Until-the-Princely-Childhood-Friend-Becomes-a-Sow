@@ -1602,21 +1602,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これ、どう見ても地下に行くための階段だよな…………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠はここを下りていったのか…………？」"
+                                "\"This definitely looks like stairs going underground... Did\nMakoto go down here...?\""
                             ]
                         },
                         {
@@ -1627,21 +1620,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何があるか分からないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これは慎重に進んだ方がよさそうだぞ…………」"
+                                "\"We don't know what's down there, so it's probably best to\nproceed with caution...\""
                             ]
                         },
                         {
@@ -1652,14 +1638,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（待っててね、誠…………。今、助けに行くからね…………）"
+                                "(Wait for me, Makoto... I'm coming to save you now...)"
                             ]
                         },
                         {
@@ -1818,21 +1804,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なんだここ…………本当に地下なのか…………！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなに広い空間があったなんて…………」"
+                                "\"What is this place... Is it really underground...!? I can't\nbelieve there's such a vast space down here...\""
                             ]
                         },
                         {
@@ -1862,14 +1841,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「遠くで扉が開く音がしたな。僕も奥に進んでみよう…………」"
+                                "\"I heard a door opening in the distance. I should try going\ndeeper inside...\""
                             ]
                         },
                         {
@@ -1932,14 +1911,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                " 　\\{\\{～チュートリアル（妨害編）～"
+                                " ~Tutorial (Interference Edition)~"
                             ]
                         },
                         {
@@ -1957,28 +1929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妨害イベントの目標は、ヒロインの救出です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成功すれば、その週に発生するNTRイベントを回避できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逆に1度でも失敗すれば、悲惨な結末が訪れるでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全ては貴方次第です。貴方の手で物語の末路をお決めください。"
+                                "The goal of the interference event is to rescue the heroine.\nIf you succeed, you can avoid the NTR event that would occur\nthat week. On the other hand, if you fail even once, a\ntragic ending awaits. Everything depends on you. Please\ndecide the story's ending with your own hands."
                             ]
                         },
                         {

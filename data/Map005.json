@@ -4009,21 +4009,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ホームルームまで、まだ少し時間があるけど…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう席に座っておこうかな？）"
+                                "(There's still some time before homeroom... Maybe I should\ntake my seat already?)"
                             ]
                         },
                         {
@@ -4031,8 +4024,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "席に座る",
-                                    "まだいいかな"
+                                    "Sit in the seat",
+                                    "Maybe not yet"
                                 ],
                                 1,
                                 0,
@@ -4247,21 +4240,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ホームルームまで、まだ少し時間があるけど…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう席に座っておこうかな？）"
+                                "(There's still some time until homeroom... Maybe I should\ntake my seat already?)"
                             ]
                         },
                         {
@@ -4269,8 +4255,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "席に座る",
-                                    "まだいいかな"
+                                    "Sit in the seat",
+                                    "Maybe not yet"
                                 ],
                                 1,
                                 0,
@@ -4494,14 +4480,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒F"
+                                "Male Student F"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ZZZZZ」"
+                                "\"ZZZZZ\""
                             ]
                         },
                         {
@@ -4512,14 +4498,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（眠っているみたいだ。起こしたら悪い、そっとしておこう）"
+                                "(He seems to be sleeping. It'd be bad to wake him up, let's\nleave him be quietly.)"
                             ]
                         },
                         {
@@ -4581,14 +4567,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒F"
+                                "Male Student F"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふわぁぁ、よく寝た。さ～て家に帰って寝るか」"
+                                "\"Huuuah, I slept well. Now, should I go home and sleep some\nmore?\""
                             ]
                         },
                         {
@@ -4599,21 +4585,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（授業中もずっと居眠りしていたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まだ寝るつもりなのか…………）"
+                                "(He's been dozing off during class too, and he still plans\nto sleep more...)"
                             ]
                         },
                         {
@@ -4675,14 +4654,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒F"
+                                "Male Student F"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ZZZZZ」"
+                                "\"ZZZZZ\""
                             ]
                         },
                         {
@@ -4693,14 +4672,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（相変わらず寝ているな。夜更かしでもしているのかな）"
+                                "\"(He's always sleeping. I wonder if he stays up late at\nnight.)\""
                             ]
                         },
                         {
@@ -4762,21 +4741,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒F"
+                                "Male Student F"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふわぁぁ、よく寝た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日は新しい快眠枕が届くし、早く帰ろうっと♪」"
+                                "\"Ahh, I slept well. My new comfy pillow is arriving today,\nso I better head home early♪\""
                             ]
                         },
                         {
@@ -4787,14 +4759,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（本当に寝るのが好きなんだなぁ）"
+                                "\"(He really does love sleeping, huh.)\""
                             ]
                         },
                         {
@@ -4865,14 +4837,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒G"
+                                "Male Student G"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え～っと。この問題は……………………」"
+                                "\"Uh, this problem is...\""
                             ]
                         },
                         {
@@ -4883,14 +4855,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こんなに沢山プリントを広げて、塾の宿題でもやってるのかな）"
+                                "(Spreading out so many printouts, I wonder if she's doing\ncram school homework.)"
                             ]
                         },
                         {
@@ -4952,14 +4924,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒G"
+                                "Male Student G"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え～っと。この問題は……………………」"
+                                "\"Umm, this problem is...\""
                             ]
                         },
                         {
@@ -4970,21 +4942,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ノートを開いてまた勉強してるみたいだ。凄く勉強熱心だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とても真似できないや）"
+                                "(He's opening his notebook and studying again. He's really\ndedicated to his studies. I could never imitate that.)"
                             ]
                         },
                         {
@@ -5046,14 +5011,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒G"
+                                "Male Student G"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「次の問題はこうなって…………こうだから…………」"
+                                "\"The next problem goes like this... and then like this...\""
                             ]
                         },
                         {
@@ -5064,21 +5029,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（毎朝、熱心に勉強してるなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもこの人、あんまり成績よくないんだよな）"
+                                "(He studies so diligently every morning. But his grades\naren't that great, are they?)"
                             ]
                         },
                         {
@@ -5140,21 +5098,14 @@
                                 0,
                                 0,
                                 2,
-                                "男子生徒G"
+                                "Male Student G"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日は先に宿題を片づけよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　え～っと。この問題は～なんだこれは」"
+                                "\"I'll get my homework done first today. Let's see... What is\nthis problem...\""
                             ]
                         },
                         {
@@ -5165,21 +5116,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（やっぱり勉強の成果が出ていない感じがするな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもあれだけ努力しているんだし、いつか報われるよな）"
+                                "(It feels like my study efforts aren't paying off. But I've\nbeen working so hard, it's got to pay off someday.)"
                             ]
                         },
                         {
@@ -5494,21 +5438,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（取り巻きが邪魔で誠に近づけない…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠と話がしたいのに…………）"
+                                "(The crowd is in the way, I can't get close to Makoto... I\nwant to talk to her...)"
                             ]
                         },
                         {
@@ -5670,21 +5607,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（取り巻きが邪魔で誠に近づけない…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠と話がしたいのに…………）"
+                                "(The crowd is in the way, I can't get close to Makoto... I\nwant to talk to her...)"
                             ]
                         },
                         {
@@ -5846,21 +5776,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（取り巻きが邪魔で誠に近づけない…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠と話がしたいのに…………）"
+                                "(The crowd is in the way, I can't get close to Makoto... I\nwant to talk to her...)"
                             ]
                         },
                         {
@@ -6022,21 +5945,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（取り巻きが邪魔で誠に近づけない…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誠と話がしたいのに…………）"
+                                "(The crowd is in the way, I can't get close to Makoto... I\nwant to talk to her...)"
                             ]
                         },
                         {
@@ -6167,21 +6083,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きA"
+                                "Lackey A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠様、今日は来るのが遅いですわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一体どうなさったのかしら？」"
+                                "\"Lady Makoto, you're late today. I wonder what could have\nhappened?\""
                             ]
                         },
                         {
@@ -6192,21 +6101,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きB"
+                                "Lackey B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当は校門の前で待っていたかったのですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうすぐチャイムがなってしまいますしね」"
+                                "\"I really wanted to wait for you at the school gates, but\nthe bell is about to ring.\""
                             ]
                         },
                         {
@@ -6217,21 +6119,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きC"
+                                "Lackey C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この時間になってもいらっしゃらないなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おかしいですわ！何かあったんですわ！」"
+                                "\"It's strange that you haven't arrived by this time!\nSomething must have happened!\""
                             ]
                         },
                         {
@@ -6242,21 +6137,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きD"
+                                "Lackey D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「風邪でもひかれたのかしら…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　不安ですわ…………心配ですわ…………」"
+                                "\"Perhaps you've caught a cold... I'm anxious... I'm\nworried...\""
                             ]
                         },
                         {
@@ -6267,21 +6155,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（一体どうしたんだろう、誠。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　取り巻きの言う通り、風邪でもひいたのかな…………）"
+                                "(What could have happened to Makoto? Just like her entourage\nsays, maybe she caught a cold...)"
                             ]
                         },
                         {
@@ -6403,21 +6284,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きA"
+                                "Lackey A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠様、今日は来るのが遅いですわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一体どうなさったのかしら？」"
+                                "\"Lady Makoto, you're late today. I wonder what could have\nhappened?\""
                             ]
                         },
                         {
@@ -6428,21 +6302,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きB"
+                                "Lackey B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当は校門の前で待っていたかったのですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうすぐチャイムがなってしまいますしね」"
+                                "\"I really wanted to wait at the school gates, but the bell\nis about to ring.\""
                             ]
                         },
                         {
@@ -6453,21 +6320,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きC"
+                                "Lackey C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この時間になってもいらっしゃらないなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おかしいですわ！何かあったんですわ！」"
+                                "\"It's strange that she hasn't arrived at this time!\nSomething must have happened!\""
                             ]
                         },
                         {
@@ -6478,21 +6338,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きD"
+                                "Lackey D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「風邪でもひかれたのかしら…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　不安ですわ…………心配ですわ…………」"
+                                "\"Perhaps she has caught a cold... I'm anxious... I'm\nworried...\""
                             ]
                         },
                         {
@@ -6503,21 +6356,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（一体どうしたんだろう、誠。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　取り巻きの言う通り、風邪でもひいたのかな…………）"
+                                "\"(What could have happened to Makoto? Just as her entourage\nsays, maybe she caught a cold...)\""
                             ]
                         },
                         {
@@ -6639,21 +6485,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きA"
+                                "Lackey A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠様、今日は来るのが遅いですわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一体どうなさったのかしら？」"
+                                "\"Lady Makoto, you're late today. I wonder what could have\nhappened?\""
                             ]
                         },
                         {
@@ -6664,21 +6503,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きB"
+                                "Lackey B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当は校門の前で待っていたかったのですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうすぐチャイムがなってしまいますしね」"
+                                "\"I really wanted to wait at the school gates, but the bell\nis about to ring.\""
                             ]
                         },
                         {
@@ -6689,21 +6521,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きC"
+                                "Lackey C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この時間になってもいらっしゃらないなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おかしいですわ！何かあったんですわ！」"
+                                "\"It's strange that she hasn't arrived at this time!\nSomething must have happened!\""
                             ]
                         },
                         {
@@ -6714,21 +6539,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きD"
+                                "Lackey D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「風邪でもひかれたのかしら…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　不安ですわ…………心配ですわ…………」"
+                                "\"Perhaps she has caught a cold... I'm anxious... I'm\nworried...\""
                             ]
                         },
                         {
@@ -6739,21 +6557,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（一体どうしたんだろう、誠。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　取り巻きの言う通り、風邪でもひいたのかな…………）"
+                                "(What could have happened to Makoto? Just like her entourage\nsays, maybe she caught a cold...)"
                             ]
                         },
                         {
@@ -6875,21 +6686,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きA"
+                                "Lackey A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠様、今日は来るのが遅いですわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一体どうなさったのかしら？」"
+                                "\"Lady Makoto, you're late today. I wonder what could have\nhappened?\""
                             ]
                         },
                         {
@@ -6900,21 +6704,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きB"
+                                "Lackey B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当は校門の前で待っていたかったのですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうすぐチャイムがなってしまいますしね」"
+                                "\"I really wanted to wait for you at the school gates, but\nthe bell is about to ring.\""
                             ]
                         },
                         {
@@ -6925,21 +6722,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きC"
+                                "Lackey C"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この時間になってもいらっしゃらないなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おかしいですわ！何かあったんですわ！」"
+                                "\"It's strange that she hasn't arrived by this time!\nSomething must have happened!\""
                             ]
                         },
                         {
@@ -6950,21 +6740,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きD"
+                                "Lackey D"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「風邪でもひかれたのかしら…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　不安ですわ…………心配ですわ…………」"
+                                "\"Perhaps she has caught a cold... I'm anxious... I'm\nworried...\""
                             ]
                         },
                         {
@@ -6975,21 +6758,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（一体どうしたんだろう、誠。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　取り巻きの言う通り、風邪でもひいたのかな…………）"
+                                "\"(What could have happened to Makoto? Just like her\nentourage says, maybe she caught a cold...)\""
                             ]
                         },
                         {
@@ -7127,7 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{　　 4月26日（火曜日）"
+                                "April 26th (Tuesday)"
                             ]
                         },
                         {
@@ -7173,21 +6949,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（歩くたびに殴られたところが痛むな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しばらく激しい運動はできそうにないな…………）"
+                                "(Every step I take, the place where I got hit hurts... Looks\nlike I won't be able to do any intense exercise for a\nwhile...)"
                             ]
                         },
                         {
@@ -7498,21 +7267,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（誠は…………ちゃんと来てるな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見た感じ、いつも通り元気そうだけど…………）"
+                                "(Makoto is... definitely here... She seems to be her usual\ncheerful self from what I can see...)"
                             ]
                         },
                         {
@@ -7523,21 +7285,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（昨日のこと、ちゃんと確かめるべきだよな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　取り巻き達がいるけど、聞くなら今しかないな…………）"
+                                "(I should definitely confirm what happened yesterday... Her\nentourage is around, but now might be the only chance to\nask...)"
                             ]
                         },
                         {
@@ -7647,21 +7402,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの…………話してるところ悪いんだけどさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっとだけ誠を借りてもいいかな？」"
+                                "\"Excuse me... I hate to interrupt, but could I borrow Makoto\nfor a moment?\""
                             ]
                         },
                         {
@@ -7785,14 +7533,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きA"
+                                "Lackey A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「急になんですの？誠様は今、私達とお話をして…………」"
+                                "\"What's the rush? Makoto-sama is currently speaking with\nus...\""
                             ]
                         },
                         {
@@ -7819,21 +7567,14 @@
                                 0,
                                 0,
                                 2,
-                                "朝火　誠"
+                                "Asahi Makoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………衛から話しかけてくるなんて珍しいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうやら大事な用みたいだ。ごめん皆、席を外すね」"
+                                "\"...It's rare for Mamoru to approach me. It seems like it's\nsomething important. Sorry everyone, I'll be stepping away\nfor a bit.\""
                             ]
                         },
                         {
@@ -7849,14 +7590,14 @@
                                 0,
                                 0,
                                 2,
-                                "取り巻きA"
+                                "Lackey A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんな～！誠様～！」"
+                                "\"Wha- No way~! Makoto-sama~!\""
                             ]
                         },
                         {
@@ -8349,21 +8090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴールデンウィークが明けると共に鈴木の停学も終わったのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれから鈴木は誠とよく喋るようになり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今では取り巻き達ですら、鈴木に心を許すようになっていた。"
+                                "As Golden Week came to an end, so did Suzuki's suspension.\nSince then, Suzuki has become quite chatty with Makoto, and\nnow even his entourage seems to have warmed up to him."
                             ]
                         },
                         {
@@ -8381,21 +8108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鈴木は間違いなく、誠に何か酷いことをしていたはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なのに今となっては鈴木の方が、僕より誠と仲が良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがどうしても許せなかったし、見ていてとても苦しかった。"
+                                "There's no doubt in my mind that Suzuki must have done\nsomething terrible to Makoto. Yet now, he seems to be closer\nto her than I am. I just couldn't stand it, and it was very\npainful to watch."
                             ]
                         },
                         {
@@ -8413,21 +8126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて僕はその光景に耐えられなくなり、学校を辞めてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傷つかないために薄暗い部屋に閉じこもり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただボーっと毎日を過ごすようになった。"
+                                "Eventually, I couldn't bear the sight any longer and quit\nschool. To avoid getting hurt, I shut myself away in a dimly\nlit room and began to spend my days in a daze."
                             ]
                         },
                         {
@@ -8445,21 +8144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういえば、最近僕が通っていた学校で放火事件が起きたらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでも女子生徒の様子が、日に日におかしくなっているそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど学校を辞めた僕には、関係のないことだった。"
+                                "By the way, I heard there was an arson incident at the\nschool I used to attend. Apparently, the behavior of one of\nthe female students has been getting stranger by the day.\nBut since I quit school, it's none of my business anymore."
                             ]
                         },
                         {

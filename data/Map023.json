@@ -2503,14 +2503,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤンキーA"
+                                "Yankee A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだテメェ！！やんのかオラァ！！」"
+                                "\"What the hell do you want?! You wanna go, huh?!\""
                             ]
                         },
                         {
@@ -2521,14 +2521,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤンキーB"
+                                "Yankee B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「上等じゃねぇか！！やってやんぞオラァ！！」"
+                                "\"Bring it on! I'll take you on, come at me!\""
                             ]
                         },
                         {
@@ -2539,14 +2539,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（うわっ、ヤンキーが喧嘩してる。近づかない方がいいな）"
+                                "(Whoa, those delinquents are fighting. Better not get\nclose.)"
                             ]
                         },
                         {
@@ -2648,14 +2648,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤンキーA"
+                                "Yankee A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだテメェ！！やんのかオラァ！！」"
+                                "\"What the hell do you want?! You wanna go, huh?!\""
                             ]
                         },
                         {
@@ -2666,14 +2666,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤンキーB"
+                                "Yankee B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「上等じゃねぇか！！やってやんぞオラァ！！」"
+                                "\"Bring it on! I'll take you on, come at me!\""
                             ]
                         },
                         {
@@ -2684,14 +2684,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（うわっ、ヤンキーが喧嘩してる。近づかない方がいいな）"
+                                "\"(Whoa, those delinquents are fighting. Better not get\nclose.)\""
                             ]
                         },
                         {
@@ -2793,14 +2793,14 @@
                                 0,
                                 0,
                                 2,
-                                "酔っ払い"
+                                "Drunkard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「げへへへ。もう飲めねぇ」"
+                                "\"Heheheh. Can't drink anymore.\""
                             ]
                         },
                         {
@@ -2811,14 +2811,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（路上で寝てるよこの人…………噂通りヤバいな、ここ）"
+                                "(This person is sleeping on the street... Just as the rumors\nsaid, this place is dangerous.)"
                             ]
                         },
                         {
@@ -2920,14 +2920,14 @@
                                 0,
                                 0,
                                 2,
-                                "狂信者"
+                                "Zealot"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「皆さん神を信じましょう！！信じる者は救われます！！」"
+                                "\"Let us all believe in God!! Those who believe shall be\nsaved!!\""
                             ]
                         },
                         {
@@ -2938,21 +2938,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんだあの人、宗教の勧誘をしてるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絡まれたら面倒だぞ…………。早くここから離れよう）"
+                                "(What's with that person, are they soliciting for a\nreligion? It'll be a hassle if they get entangled with me...\nI better get away from here quickly.)"
                             ]
                         },
                         {

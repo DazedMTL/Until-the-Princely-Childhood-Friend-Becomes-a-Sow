@@ -3003,7 +3003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パソコンを起動しますか？"
+                                "Do you want to start the computer?"
                             ]
                         },
                         {
@@ -3011,8 +3011,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3404,21 +3404,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ようやく起きたの？全く！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何時まで立っても自分で起きられないんだから！」"
+                                "\"Finally awake, are you? Honestly! You can never get up on\nyour own, no matter how late it is!\""
                             ]
                         },
                         {
@@ -3469,14 +3462,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ、母さん…………？今日って休日じゃ…………」"
+                                "\"Huh, Mom...? Isn't today a holiday...?\""
                             ]
                         },
                         {
@@ -3487,14 +3480,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何言ってるの！今日からまた学校でしょうが！」"
+                                "\"What are you talking about! School starts again today!\""
                             ]
                         },
                         {
@@ -3505,21 +3498,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら、朝ごはん出来てるから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっさと顔、洗ってきなさい！」"
+                                "\"Come on, breakfast is ready! Hurry up and wash your face!\""
                             ]
                         },
                         {
@@ -3569,21 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "母の怒号で目を覚まし、僕は急いで洗面所へと向かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冷たい水で何度も顔を洗い、なんとか眠気を追い払った後、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タオルで顔を拭きながら、目の前の鏡を覗き込んだ。"
+                                "Awakened by my mother's scolding, I rushed to the washroom.\nI washed my face several times with cold water to fully wake\nup, and after wiping my face with a towel, I peered into the\nmirror in front of me."
                             ]
                         },
                         {
@@ -3601,21 +3573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕の名前は\\c[10]佐藤　衛（さとう　まもる）\\c[0]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成績は中の中。運動神経も平凡的。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これといった取柄のない、ごく普通の学生だ。"
+                                "My name is \\c[10]Sato Mamoru\\c[0]. My grades are average,\nand so is my athletic ability. I'm just an ordinary student\nwith nothing particularly notable about me."
                             ]
                         },
                         {
@@ -3633,21 +3591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つい昨日入学したと思ったら、時間はあっという間に過ぎていき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気づけば今日から2年生だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来年は忙しいし、思いっきり遊べるのは多分、今年までだろう。"
+                                "It feels like I just entered school yesterday, but time\nflies by so quickly, and before I knew it, today marks the\nstart of my second year. Next year will be busy, so\nprobably, this year will be my last chance to really enjoy\nmyself."
                             ]
                         },
                         {
@@ -3665,21 +3609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつまでも休みが続いたらいいのにな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことを考えながら僕は眼鏡をかけ直すと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用意されていた朝食を平らげ、スクールバックを手に取った。"
+                                "I wish the holidays could go on forever. While thinking such\nthoughts, I adjusted my glasses, devoured the breakfast that\nwas prepared, and grabbed my school bag."
                             ]
                         },
                         {
@@ -3726,14 +3656,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「忘れ物はない？鍵とかちゃんと持ってる？」"
+                                "\"Do you have everything? Do you have your keys and\neverything?\""
                             ]
                         },
                         {
@@ -3775,21 +3705,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっき机の上の物を、全部カバンに詰め込んだから」"
+                                "\"I'm all good, all good. I just stuffed everything on my\ndesk into my bag.\""
                             ]
                         },
                         {
@@ -3809,21 +3732,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それって本当に大丈夫なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう一度カバンの中をよく確認して……………………」"
+                                "\"Are you really sure that's okay? Check inside your bag one\nmore time...\""
                             ]
                         },
                         {
@@ -3865,14 +3781,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「行ってきまーす」"
+                                "\"I'm off then!\""
                             ]
                         },
                         {
@@ -4000,14 +3916,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、コラ！……全くあの子ったら」"
+                                "\"Hey, wait! ...Honestly, that child...\""
                             ]
                         },
                         {
@@ -4224,7 +4140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "PCを起動しますか？"
+                                "Would you like to start the PC?"
                             ]
                         },
                         {
@@ -4232,8 +4148,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4674,14 +4590,14 @@
                                 0,
                                 0,
                                 2,
-                                "父"
+                                "Father"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん、どうした？もういい時間だ。早く学校に行きなさい」"
+                                "\"Hmm, what's wrong? It's getting late. Hurry up and go to\nschool.\""
                             ]
                         },
                         {
@@ -4794,21 +4710,14 @@
                                 0,
                                 0,
                                 2,
-                                "父"
+                                "Father"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まさかお前と朝火財閥のお嬢さんがなぁ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お嬢さんに見合う男になれよ、息子よ…………」"
+                                "\"I can't believe you and the young lady of the Asahi\nZaibatsu... Become a man worthy of her, my son...\""
                             ]
                         },
                         {
@@ -4999,21 +4908,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたの？忘れ物？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからあれほど前の日に準備をしなさいって…………ｺﾞﾆｮｺﾞﾆｮ」"
+                                "\"What's wrong? Did you forget something? That's why I always\ntell you to prepare the day before...mumble mumble\""
                             ]
                         },
                         {
@@ -5135,21 +5037,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？衛、まだ家にいたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く学校に行かないと遅刻するわよ」"
+                                "\"Oh? Mamoru, you're still at home? You need to hurry to\nschool or you'll be late.\""
                             ]
                         },
                         {
@@ -5262,21 +5157,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんふふ～ん♪…………あら？何してるの衛。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　折角の連休なんだから、遊ばないと勿体ないわよ？」"
+                                "\"Hum hum hum~♪... Oh? What are you doing, Mamoru? It's a\nwaste not to go out and have fun during this precious\nconsecutive holiday, you know?\""
                             ]
                         },
                         {
@@ -5347,21 +5235,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら衛、どこかに出かけるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかしてデートかしら？フフフ」"
+                                "\"Oh Mamoru, are you going out somewhere? Could it be a date?\nFufufu\""
                             ]
                         },
                         {
@@ -5441,14 +5322,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何処に行こうかな」"
+                                "\"Where should I go?\""
                             ]
                         },
                         {
@@ -5456,9 +5337,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通学路",
-                                    "ワールドマップ",
-                                    "やっぱりやめる"
+                                    "Commute Route",
+                                    "World Map",
+                                    "On second thought, never mind"
                                 ],
                                 2,
                                 0,
@@ -5643,14 +5524,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんふふ～ん♪」"
+                                "\"Hmhmhm~♪\""
                             ]
                         },
                         {
@@ -5718,14 +5599,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただいま母さん。今帰ったよ」"
+                                "\"I'm home, Mom. Just got back.\""
                             ]
                         },
                         {
@@ -5736,21 +5617,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あらお帰り！夕飯ができるまで、まだまだ時間かかるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　部屋でゲームでもしてて～！」"
+                                "\"Oh, welcome back! Dinner will take a while to prepare, so\nwhy don't you play some games in your room in the\nmeantime~!\""
                             ]
                         },
                         {
@@ -5761,14 +5635,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はーい」"
+                                "\"Okay~\""
                             ]
                         },
                         {
@@ -5779,21 +5653,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（母さんは夕飯の支度で忙しそうだし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　邪魔にならないように、部屋で待つとするか）"
+                                "(Mom seems busy with dinner preparations. I'll stay out of\nthe way and wait in my room.)"
                             ]
                         },
                         {
@@ -5988,14 +5855,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんふふ～ん♪」"
+                                "\"Hum hum hum~♪\""
                             ]
                         },
                         {
@@ -6063,14 +5930,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただいま母さん…………」"
+                                "\"I'm home, Mom...\""
                             ]
                         },
                         {
@@ -6126,14 +5993,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あらお帰り！どうしたの？ちょっと元気ないじゃない？」"
+                                "\"Oh, welcome back! What's the matter? You don't seem very\ncheerful?\""
                             ]
                         },
                         {
@@ -6144,21 +6011,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「寝不足だからかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その…………あんまりよく眠れなくって…………」"
+                                "\"Maybe it's because I didn't get enough sleep. I... haven't\nbeen sleeping well...\""
                             ]
                         },
                         {
@@ -6169,14 +6029,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしても眠れないなら、薬箱の睡眠薬使ってもいいからね？」"
+                                "\"If you really can't sleep, you can use the sleeping pills\nin the medicine box, okay?\""
                             ]
                         },
                         {
@@ -6187,14 +6047,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、ありがとう…………。後で使ってみるよ…………」"
+                                "\"Yeah, thanks... I'll try using them later...\""
                             ]
                         },
                         {
@@ -6362,14 +6222,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（特に用事もないし、夕飯まで部屋で時間を潰そうかな？）"
+                                "(I don't have anything particular to do, so maybe I'll kill\nsome time in my room until dinner?)"
                             ]
                         },
                         {
@@ -6377,8 +6237,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "部屋にいる",
-                                    "もう少し外を歩く"
+                                    "In the room",
+                                    "Walk outside a bit more"
                                 ],
                                 1,
                                 0,
@@ -6527,14 +6387,14 @@
                                 0,
                                 0,
                                 2,
-                                "母"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「衛～！そろそろ御飯できるわよ～！」"
+                                "\"Mamoru~! Dinner's ready soon~!\""
                             ]
                         },
                         {
@@ -6576,14 +6436,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は～い！」"
+                                "\"Okay~!\""
                             ]
                         },
                         {
@@ -6835,21 +6695,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…………そういえば、誠にまだ電話してないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　まぁ、焦らなくても後で電話すればいいか」"
+                                "\"...Come to think of it, I haven't called Makoto yet. Well,\nthere's no rush; I can call her later.\""
                             ]
                         },
                         {
@@ -6879,21 +6732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、夕食を食べたり風呂に入ったりと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何だかんだで時間は過ぎていき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "結局、誠に電話をしたのは夜の10時くらいだった。"
+                                "After that, time passed with dinner and a bath, and before I\nknew it, it was around 10 PM when I finally called Makoto."
                             ]
                         },
                         {
@@ -6911,21 +6750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だけどその日、誠が僕の電話に出ることはなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かわりに次の日の朝、誠から（電話に出られなくてごめん）と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "謝罪のメッセージが入っていた。"
+                                "But that day, Makoto didn't answer my call. Instead, the\nnext morning, I received an apology message from her saying\n(Sorry I couldn't answer your call)."
                             ]
                         },
                         {
@@ -6943,21 +6768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "僕は（気にしていない）と返信し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ついでに保健室のことをメッセージで謝った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "文章だけのやり取りだったけど、誠は僕を許してくれた。"
+                                "I replied (Don't worry about it) and took the opportunity to\napologize for the incident in the infirmary through the\nmessage. It was just a text exchange, but Makoto forgave me."
                             ]
                         },
                         {
@@ -6975,21 +6786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "仲直りは済んだし、これでまたいつも通り誠と登校できるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう考え、楽しく休日を過ごしたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "週明けの月曜日、家の前に誠の姿は見当たらなかった。"
+                                "Now that we've made up, I should be able to go to school\nwith Makoto as usual. With that thought, I enjoyed my\nweekend, but on Monday morning, I couldn't find Makoto in\nfront of my house."
                             ]
                         },
                         {
@@ -7049,7 +6846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{\\{　　 4月11日（月曜日）"
+                                "April 11th (Monday)"
                             ]
                         },
                         {
@@ -7076,21 +6873,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「誠、いないなぁ…………。やっぱりまだ怒ってるのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　メッセージでは許すって言ってたんだけどな…………」"
+                                "\"Makoto's not here... Maybe she's still mad? But she said\nshe forgave me in the message...\""
                             ]
                         },
                         {
@@ -7101,21 +6891,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…………やっぱり、ちゃんと言葉で謝らないと駄目だよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　よし！誠に会いに、学校に行こう！」"
+                                "\"...I guess I really need to apologize in person. Alright!\nI'm going to school to see Makoto!\""
                             ]
                         },
                         {
@@ -7280,21 +7063,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えーっと…………サイト名は…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よし、これでいけるはず…………」"
+                                "\"Uh... the site name is... alright, this should work...\""
                             ]
                         },
                         {
@@ -7345,21 +7121,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、もうライブが始まってるじゃないか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イヤホンをつけてっと…………さ～て、早速見るぞ～！」"
+                                "\"Oh, the live stream has already started! Let me put on my\nearphones... Alright, let's watch it right away!\""
                             ]
                         },
                         {
@@ -7616,21 +7385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はPCの電源を落とし、ベッドに横たわった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまたまホクロの位置が一緒だっただけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの女優が誠だなんて、そんなことあるわけがない。"
+                                "I turned off my PC and lay down on the bed. It was just a\ncoincidence that the mole was in the same place. There's no\nway that actress could be Makoto."
                             ]
                         },
                         {
@@ -7648,21 +7403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの配信の女の人は金髪で、誠は赤みがかった髪色だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけでも別人だってハッキリとわかる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なのにどうしても誠の姿が頭によぎり、それ以上見られなかった。"
+                                "The woman in that stream had blonde hair, while Makoto has a\nreddish hair color. Just that alone makes it clear they're\ndifferent people. Yet, I couldn't help but picture Makoto,\nand I couldn't watch any more of it."
                             ]
                         },
                         {
@@ -7680,21 +7421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誠は今、何をしているんだろう。誠の声が無性に聞きたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう思って僕は誠の番号に電話をかけようとしたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし出なかったらと怖くなり、スマホを投げて眠りについた。"
+                                "I wonder what Makoto is doing right now. I really want to\nhear her voice. With that thought, I almost called her\nnumber, but the fear of her not answering scared me, so I\nthrew my smartphone and went to sleep."
                             ]
                         },
                         {
@@ -8051,21 +7778,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「今日の配信で犯される人、先週と同じ人なのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でもKIZUSUの動画って毎回女の人変わるから違うかもな」"
+                                "\"I wonder if the person getting screwed in today's stream is\nthe same as last week? But KIZUSU's videos always feature\ndifferent girls, so maybe not.\""
                             ]
                         },
                         {
@@ -8107,21 +7827,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ライブは…………始まってるな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　よし、見るぞ……………………ゴクッ」"
+                                "\"The live stream... has started... Alright, I'm going to\nwatch it... *gulp*\""
                             ]
                         },
                         {
@@ -8218,21 +7931,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そういえば、KIZUSUの生配信って初めて見るなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　きっと凄くエロいんだろうなぁ…………」"
+                                "\"Come to think of it, this is the first time I'm watching a\nlive stream by KIZUSU. It's bound to be super erotic...\""
                             ]
                         },
                         {
@@ -8243,21 +7949,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「え～っと、サイトにKIZUSUの名前を入力してっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　よし、これで配信を見れるはずだ！」"
+                                "\"Let's see, I'll just enter KIZUSU's name on the site.\nThere, that should let me watch the stream!\""
                             ]
                         },
                         {
@@ -8299,21 +7998,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「お、ライブはもう始まってるな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　今日は親がいるけど…………ちょっとだけ見てみよっと」"
+                                "\"Oh, the live stream has already started... My parents are\nhome today, but... I'll just take a quick peek.\""
                             ]
                         },
                         {
@@ -8425,14 +8117,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（特に用事もないし、今日はもう部屋でくつろごうかな？）"
+                                "(I don't have anything in particular to do, so maybe I'll\njust relax in my room today?)"
                             ]
                         },
                         {
@@ -8440,8 +8132,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "くつろぐ",
-                                    "もう少し外を歩く"
+                                    "Relax",
+                                    "Walk outside a bit more"
                                 ],
                                 1,
                                 0,
@@ -8626,14 +8318,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（特に用事もないし、今日はもう部屋でくつろごうかな？）"
+                                "(I don't have anything in particular to do, so maybe I'll\njust relax in my room today?)"
                             ]
                         },
                         {
@@ -8641,8 +8333,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "くつろぐ",
-                                    "もう少し外を歩く"
+                                    "Relax",
+                                    "Walk outside a bit more"
                                 ],
                                 1,
                                 0,
@@ -8787,14 +8479,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（特に用事もないし、今日はもう部屋でくつろごうかな？）"
+                                "(I don't have anything in particular to do, so maybe I'll\njust relax in my room today?)"
                             ]
                         },
                         {
@@ -8802,8 +8494,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "くつろぐ",
-                                    "もう少し外を歩く"
+                                    "Relax",
+                                    "Walk outside a bit more"
                                 ],
                                 1,
                                 0,
@@ -8977,14 +8669,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "（特に用事もないし、今日はもう部屋でくつろごうかな？）"
+                                "(I don't have anything in particular to do, so maybe I'll\njust relax in my room today?)"
                             ]
                         },
                         {
@@ -8992,8 +8684,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "くつろぐ",
-                                    "もう少し外を歩く"
+                                    "Relax",
+                                    "Walk outside a bit more"
                                 ],
                                 1,
                                 0,
@@ -9145,14 +8837,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "（特に用事もないし、今日はもう部屋でくつろごうかな？）"
+                                "(I don't have anything in particular to do, so maybe I'll\njust relax in my room today?)"
                             ]
                         },
                         {
@@ -9160,8 +8852,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "くつろぐ",
-                                    "もう少し外を歩く"
+                                    "Relax",
+                                    "Walk outside a bit more"
                                 ],
                                 1,
                                 0,

@@ -5515,21 +5515,14 @@
                                 0,
                                 0,
                                 2,
-                                "サラリーマン"
+                                "Salaryman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい…………！今からそちらの方に伺います！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　えぇ、前回の企画と合わせて計画を…………はい！」"
+                                "\"Yes...! I'll be heading over there now! Yes, I'll plan it\ntogether with the previous project... Right!\""
                             ]
                         },
                         {
@@ -5540,21 +5533,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（忙しそうに働いてるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　営業のサラリーマンって大変な仕事なんだろうなぁ）"
+                                "(He seems to be working hard. Being a sales salaryman must\nbe a tough job.)"
                             ]
                         },
                         {
@@ -5625,21 +5611,14 @@
                                 0,
                                 0,
                                 2,
-                                "他校の女子生徒A"
+                                "Female Student A From Another School"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日は歌いたい気分なんだけどさ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カラオケ～。カラオケいかね～？」"
+                                "\"I'm in the mood to sing today~ Karaoke~. Wanna go to\nkaraoke?\""
                             ]
                         },
                         {
@@ -5650,21 +5629,14 @@
                                 0,
                                 0,
                                 2,
-                                "他校の女子生徒B"
+                                "Female Student B From Another School"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ～いいねカラオケ。いいねいいね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ繁華街の方、今すぐゴーでしょ～」"
+                                "\"Ah~ karaoke sounds good. Sounds great~. Then let's head to\nthe downtown area right now, go-go~\""
                             ]
                         },
                         {
@@ -5675,21 +5647,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（繁華街はここを抜けた場所にあるんだよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大抵の学生はあそこで遊んでいるよな）"
+                                "(The downtown area is just past here. Most students hang out\nthere.)"
                             ]
                         },
                         {
@@ -5760,21 +5725,14 @@
                                 0,
                                 0,
                                 2,
-                                "身なりの良い男"
+                                "Well-Dressed Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むぅ…………中々タクシーが掴まらんなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これならバスの方が…………しかし人が多いとなぁ」"
+                                "\"Hmm... It's quite difficult to catch a taxi. Maybe the bus\nwould be better... but then again, it's crowded.\""
                             ]
                         },
                         {
@@ -5785,21 +5743,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（確かに、この時間帯だとバスって人が多いんだよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　長距離を立って移動するの辛いよな）"
+                                "(Indeed, buses tend to be crowded around this time. It's\ntough to stand for a long trip.)"
                             ]
                         },
                         {
@@ -5870,21 +5821,14 @@
                                 0,
                                 0,
                                 2,
-                                "他校の女子生徒A"
+                                "Female Student A From Another School"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日は歌いたい気分なんだけどさ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カラオケ～。カラオケいかね～？」"
+                                "\"I'm in the mood to sing today~ Karaoke~. Wanna go to\nkaraoke?\""
                             ]
                         },
                         {
@@ -5895,21 +5839,14 @@
                                 0,
                                 0,
                                 2,
-                                "他校の女子生徒B"
+                                "Female Student B From Another School"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ～いいねカラオケ。いいねいいね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ繁華街の方、今すぐゴーでしょ～」"
+                                "\"Ah~ karaoke sounds good. Sounds great~. Then let's head to\nthe downtown area right now, go-go!\""
                             ]
                         },
                         {
@@ -5920,21 +5857,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（繁華街はここを抜けた場所にあるんだよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大抵の学生はあそこで遊んでいるよな）"
+                                "(The downtown area is just past here. Most students hang out\nthere.)"
                             ]
                         },
                         {

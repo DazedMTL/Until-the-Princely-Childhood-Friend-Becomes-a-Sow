@@ -2569,21 +2569,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんでよ～俺がアイツの尻拭いをする羽目になってよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…………ん？なんか臭くねぇか？」"
+                                "\"And so, I ended up having to clean up his mess... Huh? Does\nit smell weird in here?\""
                             ]
                         },
                         {
@@ -2625,21 +2618,14 @@
                                 0,
                                 0,
                                 2,
-                                "客B"
+                                "Customer B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あん？…………言われてみれば確かにくせぇな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おいマスター。厨房でなんか燃えてんじゃねぇのか？」"
+                                "\"Huh?... Now that you mention it, it does stink. Hey,\nMaster. Is something burning in the kitchen?\""
                             ]
                         },
                         {
@@ -2650,21 +2636,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁん？この店のコンロはぶっ壊れてんだぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何が燃えるって言うんだよ」"
+                                "\"Huh? The stove in this place is broken, you know? What's\nthere to burn?\""
                             ]
                         },
                         {
@@ -2748,21 +2727,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい！警報なってんじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり厨房で何か燃えてるぞ！」"
+                                "\"Hey, hey! Isn't that the alarm going off? There really is\nsomething burning in the kitchen!\""
                             ]
                         },
                         {
@@ -2804,14 +2776,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな馬鹿な！？何がどうなって…………あ、やべぇ」"
+                                "\"That's ridiculous! How could anything be... Oh, crap.\""
                             ]
                         },
                         {
@@ -2853,21 +2825,14 @@
                                 0,
                                 0,
                                 2,
-                                "客A"
+                                "Customer A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「げぇ！？スプリンクラーが作動しやがった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くそ！服が濡れちまったじゃねぇか！」"
+                                "\"Geez!? The sprinklers went off! Damn it! My clothes are all\nwet now!\""
                             ]
                         },
                         {
@@ -2878,14 +2843,14 @@
                                 0,
                                 0,
                                 2,
-                                "客B"
+                                "Customer B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「折角の酒が台無しだ！どうしてくれるんだよ、おい！」"
+                                "\"There goes my good drink! What are you gonna do about this,\nhuh?\""
                             ]
                         },
                         {
@@ -2896,21 +2861,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うるせぇ！！俺だって何が何だかさっぱりなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とりあえず全員外に出ろ！オラ！そっちのお嬢ちゃんもだ！」"
+                                "\"Shut up!! I have no idea what's going on either! Everyone\nget out, now! You too, missy, move it!\""
                             ]
                         },
                         {

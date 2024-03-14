@@ -84,9 +84,9 @@
                 "indent": 4,
                 "parameters": [
                     [
-                        "調教1週間目",
-                        "調教2週間目",
-                        "戻る"
+                        "Training Week 1",
+                        "Training Week 2",
+                        "Go Back"
                     ],
                     2,
                     0,
@@ -178,10 +178,10 @@
                 "indent": 4,
                 "parameters": [
                     [
-                        "調教1週間目",
-                        "調教2週間目",
-                        "調教3週間目",
-                        "戻る"
+                        "Training Week 1",
+                        "Training Week 2",
+                        "Training Week 3",
+                        "Go Back"
                     ],
                     3,
                     0,
@@ -340,9 +340,9 @@
                 "indent": 5,
                 "parameters": [
                     [
-                        "調教1週間目",
-                        "調教2週間目",
-                        "戻る"
+                        "Training Week 1",
+                        "Training Week 2",
+                        "Go Back"
                     ],
                     2,
                     0,
@@ -434,10 +434,10 @@
                 "indent": 5,
                 "parameters": [
                     [
-                        "調教1週間目",
-                        "調教2週間目",
-                        "調教3週間目",
-                        "戻る"
+                        "Training Week 1",
+                        "Training Week 2",
+                        "Training Week 3",
+                        "Go Back"
                     ],
                     3,
                     0,
@@ -548,10 +548,10 @@
                 "indent": 4,
                 "parameters": [
                     [
-                        "タクシー",
-                        "エロエロ動画(回想)",
-                        "俺の肉便器コレクション",
-                        "スマホをしまう"
+                        "Taxi",
+                        "Ero Ero Video (Recollection)",
+                        "My Meat Toilet Collection",
+                        "Put away the smartphone"
                     ],
                     3,
                     0,
@@ -575,14 +575,14 @@
                     0,
                     0,
                     2,
-                    "佐藤　衛"
+                    "Sato Mamoru"
                 ]
             },
             {
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "「何処に行こうかな？」"
+                    "\"Where should I go?\""
                 ]
             },
             {
@@ -590,11 +590,11 @@
                 "indent": 5,
                 "parameters": [
                     [
-                        "自宅",
-                        "繁華街",
-                        "隣町",
-                        "学校",
-                        "やっぱりやめる"
+                        "Home",
+                        "Downtown",
+                        "Neighboring Town",
+                        "School",
+                        "Actually, never mind"
                     ],
                     4,
                     0,
@@ -1074,9 +1074,9 @@
                 "indent": 6,
                 "parameters": [
                     [
-                        "調教1週間目",
-                        "調教2週間目",
-                        "戻る"
+                        "Training Week 1",
+                        "Training Week 2",
+                        "Return"
                     ],
                     2,
                     0,
@@ -1168,10 +1168,10 @@
                 "indent": 6,
                 "parameters": [
                     [
-                        "調教1週間目",
-                        "調教2週間目",
-                        "調教3週間目",
-                        "戻る"
+                        "Training Week 1",
+                        "Training Week 2",
+                        "Training Week 3",
+                        "Return"
                     ],
                     3,
                     0,
@@ -1328,14 +1328,14 @@
                     0,
                     0,
                     2,
-                    "佐藤　衛"
+                    "Sato Mamoru"
                 ]
             },
             {
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "「しまった、バッテリー切れだ。充電するの忘れてた…………」"
+                    "\"Shoot, the battery's dead. I forgot to charge it...\""
                 ]
             },
             {
@@ -9362,21 +9362,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "\\{　　　　　　 4月12日（火曜日）"
+                    "April 12th (Tuesday)"
                 ]
             },
             {
@@ -9415,21 +9401,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "\\{　　　　　　 4月13日（水曜日）"
+                    "April 13th (Wednesday)"
                 ]
             },
             {
@@ -9468,21 +9440,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "\\{　　　　　　 4月14日（木曜日）"
+                    "April 14th (Thursday)"
                 ]
             },
             {
@@ -9521,21 +9479,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "\\{　　　　　　 4月15日（金曜日）"
+                    "April 15th (Friday)"
                 ]
             },
             {
@@ -9574,21 +9518,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "\\{　　　　　　 4月19日（火曜日）"
+                    "April 19th (Tuesday)"
                 ]
             },
             {
@@ -9617,21 +9547,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "\\{　　　　　　 4月20日（水曜日）"
+                    "April 20th (Wednesday)"
                 ]
             },
             {
@@ -9670,21 +9586,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "\\{　　　　　　 4月21日（木曜日）"
+                    "April 21st (Thursday)"
                 ]
             },
             {
@@ -9723,21 +9625,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "\\{　　　　　　 4月22日（金曜日）"
+                    "April 22nd (Friday)"
                 ]
             },
             {
@@ -9776,21 +9664,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "\\{　　　　　　 4月26日（火曜日）"
+                    "April 26th (Tuesday)"
                 ]
             },
             {
@@ -9819,21 +9693,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "\\{　　　　　　 4月27日（水曜日）"
+                    "April 27th (Wednesday)"
                 ]
             },
             {
@@ -9872,21 +9732,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "\\{　　　　　　 4月28日（木曜日）"
+                    "April 28th (Thursday)"
                 ]
             },
             {
@@ -9925,21 +9771,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "\\{　　　　　　 4月29日（金曜日）"
+                    "April 29th (Friday)"
                 ]
             },
             {
@@ -9977,10 +9809,10 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "タクシー",
-                        "エロエロ動画",
-                        "俺の肉便器コレクション",
-                        "スマホをしまう"
+                        "Taxi",
+                        "Ero-ero video",
+                        "My meat toilet collection",
+                        "Put away the smartphone"
                     ],
                     3,
                     0,
@@ -10004,14 +9836,14 @@
                     0,
                     0,
                     2,
-                    "佐藤　衛"
+                    "Sato Mamoru"
                 ]
             },
             {
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "「何処に行こうかな？」"
+                    "\"Where should I go?\""
                 ]
             },
             {
@@ -10019,11 +9851,11 @@
                 "indent": 3,
                 "parameters": [
                     [
-                        "自宅",
-                        "繁華街",
-                        "隣町",
-                        "学校",
-                        "やっぱりやめる"
+                        "Home",
+                        "Downtown",
+                        "Neighboring Town",
+                        "School",
+                        "On second thought, never mind"
                     ],
                     4,
                     0,
@@ -10460,14 +10292,14 @@
                     0,
                     0,
                     2,
-                    "佐藤　衛"
+                    "Sato Mamoru"
                 ]
             },
             {
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "「しまった、バッテリー切れだ。充電するの忘れてた…………」"
+                    "\"Shoot, the battery's dead. I forgot to charge it...\""
                 ]
             },
             {

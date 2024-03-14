@@ -1263,21 +1263,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「扉に鍵がかかっていて開かないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　え～っと、この部屋は…………控室って書いてあるな」"
+                                "\"The door is locked and won't open. Hmm, this room is... it\nsays 'Waiting Room'.\""
                             ]
                         },
                         {
@@ -1288,21 +1281,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（中から物音が聞こえてくるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰かいるみたいだし、この部屋には入らないようにしよう）"
+                                "(I can hear noises from inside. It seems like someone is in\nthere, so I should avoid entering this room.)"
                             ]
                         },
                         {

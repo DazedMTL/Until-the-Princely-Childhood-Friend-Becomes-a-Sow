@@ -5032,21 +5032,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この町…………噂以上にヤバイところだぞ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くここから離れないと、事件に巻き込まれそうだ…………」"
+                                "\"This town... it's even more dangerous than the rumors\nsuggest... We need to get away quickly, or we might get\ncaught up in an incident...\""
                             ]
                         },
                         {
@@ -5092,14 +5085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　\\c[10]赤文字\\c[0]を選択した場合、\\c[10]攻略失敗\\c[0]となります。"
+                                "*Note: If you select the text in \\c[10]red\\c[0], it will\nresult in a \\c[10]failed conquest\\c[0]."
                             ]
                         },
                         {
@@ -5117,8 +5103,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[10]危ないし帰ろう！\\c[0]",
-                                    "それでも誠を探す"
+                                    "\\c[10]It's dangerous, let's go back!\\c[0]",
+                                    "Still, I'll search for Makoto"
                                 ],
                                 1,
                                 0,
@@ -5170,21 +5156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠が心配で後を追ってはみたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この隣町の治安は、想像以上に最悪だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕みたいな学生が長居をすれば、格好の餌食になるだろう。"
+                                "I was worried about Makoto and followed her, but the public\norder in this neighboring town was worse than I imagined. A\nstudent like me staying here for long would be easy prey."
                             ]
                         },
                         {
@@ -5202,21 +5174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "僕自身が事件に巻き込まれては本末転倒だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにより、あの誠がこんな町に来るなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とてもじゃないけど考えられなかった。"
+                                "Getting involved in an incident myself would be\ncounterproductive, and above all, I couldn't imagine that\nMakoto would ever come to such a town."
                             ]
                         },
                         {
@@ -5234,21 +5192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠はこの町にはいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう判断した僕は、逃げるように家に帰り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠の安否を確認するべく彼女のスマホで電話をかけた。"
+                                "Makoto isn't in this town. With that judgment, I hurried\nback home and called her on her smartphone to check on her\nsafety."
                             ]
                         },
                         {
@@ -5266,21 +5210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意外なことに、電話はすぐに繋がった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠は騒がしい所にいるようで、やけに雑音がうるさかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "声を聞く限りでは、とても元気そうだった。"
+                                "To my surprise, the call connected immediately. Makoto\nseemed to be in a noisy place, and there was quite a bit of\nstatic, but from the sound of her voice, she seemed to be\nvery energetic."
                             ]
                         },
                         {
@@ -5298,21 +5228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "念のためにどこにいるのか聞いてみると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠は隣町の先にある、別の町にいるとのことだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんでも昔の友人達と、久しぶりに食事をしているらしい。"
+                                "Just to be sure, I asked where she was, and she said she was\nin a different town beyond the neighboring one, apparently\nhaving dinner with some old friends after a long time."
                             ]
                         },
                         {
@@ -5330,21 +5246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隣町にいないとわかったことで、僕はすっかり安心してしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それ以上言及することなく、誠との通話を切り上げてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小さな違和感は幾つもあったのに、僕は最後まで気づけなかった。"
+                                "Knowing she wasn't in the neighboring town, I was completely\nrelieved and ended the call with Makoto without further\nmention. Despite several small inconsistencies, I failed to\nnotice them until the end."
                             ]
                         },
                         {
@@ -5730,21 +5632,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この町…………噂以上にヤバイところだぞ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くここから離れないと、事件に巻き込まれそうだ…………」"
+                                "\"This town... it's even more dangerous than the rumors\nsuggested... We need to get out of here quickly before we\nget caught up in some incident...\""
                             ]
                         },
                         {
@@ -5790,14 +5685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　\\c[10]赤文字\\c[0]を選択した場合、\\c[10]攻略失敗\\c[0]となります。"
+                                "*Note: If you select the text in \\c[10]red[/Color_1], it\nwill result in a \\c[10]game over[/Color_1]."
                             ]
                         },
                         {
@@ -5815,8 +5703,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[10]危ないし帰ろう！\\c[0]",
-                                    "それでも誠を探す"
+                                    "\\c[10]It's dangerous, let's go back!\\c[0]",
+                                    "Still, I'll search for Makoto"
                                 ],
                                 1,
                                 0,
@@ -5868,21 +5756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠が心配で後を追ってはみたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この隣町の治安は、想像以上に最悪だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕みたいな学生が長居をすれば、格好の餌食になるだろう。"
+                                "I was worried about Makoto and followed her, but the public\norder in this neighboring town was worse than I imagined. A\nstudent like me lingering around would be easy prey."
                             ]
                         },
                         {
@@ -5900,21 +5774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "僕自身が事件に巻き込まれては本末転倒だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにより、あの誠がこんな町に来るなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とてもじゃないけど考えられなかった。"
+                                "It would be counterproductive if I got involved in an\nincident myself, and more importantly, I couldn't imagine\nMakoto coming to such a town at all."
                             ]
                         },
                         {
@@ -5932,21 +5792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠はこの町にはいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう判断した僕は、逃げるように家に帰り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠の安否を確認するべく彼女のスマホで電話をかけた。"
+                                "Makoto wasn't in this town. With that judgment, I hurried\nback home and called her on her smartphone to check on her\nsafety."
                             ]
                         },
                         {
@@ -5964,21 +5810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意外なことに、電話はすぐに繋がった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠は騒がしい所にいるようで、やけに雑音がうるさかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "声を聞く限りでは、とても元気そうだった。"
+                                "To my surprise, the call connected immediately. Makoto\nseemed to be in a noisy place, and there was quite a bit of\nstatic, but from the sound of her voice, she seemed to be\ndoing very well."
                             ]
                         },
                         {
@@ -5996,21 +5828,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "念のためにどこにいるのか聞いてみると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠は隣町の先にある、別の町にいるとのことだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんでも昔の友人達と、久しぶりに食事をしているらしい。"
+                                "Just to be sure, I asked where she was, and she said she was\nin a different town beyond the neighboring one, apparently\nhaving dinner with some old friends after a long time."
                             ]
                         },
                         {
@@ -6028,21 +5846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隣町にいないとわかったことで、僕はすっかり安心してしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それ以上言及することなく、誠との通話を切り上げてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小さな違和感は幾つもあったのに、僕は最後まで気づけなかった。"
+                                "Knowing she wasn't in the neighboring town, I was completely\nrelieved and ended the call with Makoto without further\nmention. Despite the small inconsistencies, I failed to\nnotice them until the end."
                             ]
                         },
                         {
@@ -6428,21 +6232,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この町…………噂以上にヤバイところだぞ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くここから離れないと、事件に巻き込まれそうだ…………」"
+                                "\"This town... it's more dangerous than the rumors suggest...\nWe need to get away quickly, or we might get caught up in an\nincident...\""
                             ]
                         },
                         {
@@ -6488,14 +6285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　\\c[10]赤文字\\c[0]を選択した場合、\\c[10]攻略失敗\\c[0]となります。"
+                                "*Note: Choosing \\c[10]red text\\c[0] will result in a\n\\c[10]failed conquest\\c[0]."
                             ]
                         },
                         {
@@ -6513,8 +6303,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\c[10]危ないし帰ろう！\\c[0]",
-                                    "それでも誠を探す"
+                                    "\\c[10]It's dangerous, let's go back!\\c[0]",
+                                    "Still, I'll search for Makoto"
                                 ],
                                 1,
                                 0,
@@ -6566,21 +6356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠が心配で後を追ってはみたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この隣町の治安は、想像以上に最悪だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕みたいな学生が長居をすれば、格好の餌食になるだろう。"
+                                "I was worried about Makoto and followed her, but the public\norder in this neighboring town was worse than I imagined. A\nstudent like me staying too long would be easy prey."
                             ]
                         },
                         {
@@ -6598,21 +6374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "僕自身が事件に巻き込まれては本末転倒だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにより、あの誠がこんな町に来るなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とてもじゃないけど考えられなかった。"
+                                "Getting involved in an incident myself would be\ncounterproductive, and above all, I couldn't imagine that\nMakoto would come to such a town."
                             ]
                         },
                         {
@@ -6630,21 +6392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誠はこの町にはいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう判断した僕は、逃げるように家に帰り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠の安否を確認するべく彼女のスマホで電話をかけた。"
+                                "Makoto wasn't in this town. With that judgment, I hurried\nhome as if fleeing, and called her on her smartphone to\ncheck on her safety."
                             ]
                         },
                         {
@@ -6662,21 +6410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意外なことに、電話はすぐに繋がった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠は騒がしい所にいるようで、やけに雑音がうるさかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "声を聞く限りでは、とても元気そうだった。"
+                                "To my surprise, the call connected immediately. Makoto\nseemed to be in a noisy place, and there was quite a bit of\nstatic, but from the sound of her voice, she seemed very\nlively."
                             ]
                         },
                         {
@@ -6694,21 +6428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "念のためにどこにいるのか聞いてみると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠は隣町の先にある、別の町にいるとのことだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんでも昔の友人達と、久しぶりに食事をしているらしい。"
+                                "Just to be sure, I asked where she was, and she said she was\nin a different town beyond the neighboring one, apparently\nhaving dinner with some old friends after a long time."
                             ]
                         },
                         {
@@ -6726,21 +6446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隣町にいないとわかったことで、僕はすっかり安心してしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それ以上言及することなく、誠との通話を切り上げてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小さな違和感は幾つもあったのに、僕は最後まで気づけなかった。"
+                                "Knowing she wasn't in the neighboring town, I was completely\nrelieved and ended the call with Makoto without further\nmention. Despite several small inconsistencies, I failed to\nnotice them until the end."
                             ]
                         },
                         {
@@ -7051,21 +6757,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男A"
+                                "Thuggish Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんでよ！！その女に借金押し付けてよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのまま風俗に落としたってわけ！！」"
+                                "\"And then, man!! I pushed the debt onto that chick!! And\njust like that, dropped her into the sex industry!!\""
                             ]
                         },
                         {
@@ -7076,21 +6775,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男B"
+                                "Thuggish Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ギャハハハハ！！その女マジで馬鹿だな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騙されてるってわかんねぇのかよ！！ギャハハハハ！！」"
+                                "\"Gyahahaha!! That girl's seriously stupid!! Can't she see\nshe's being scammed!! Gyahahaha!!\""
                             ]
                         },
                         {
@@ -7101,14 +6793,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけちゃ駄目だ！急いでこの人から離れよう！）"
+                                "(I absolutely must not talk to them! I need to get away from\nthis person quickly!)"
                             ]
                         },
                         {
@@ -7201,21 +6893,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男A"
+                                "Thuggish Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なぁ聞いたかよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　KIZUSUがまた3日連続でエロ配信するんだってよ！！」"
+                                "\"Hey, have you heard?! KIZUSU is going to do another erotic\nstream for three days straight!!\""
                             ]
                         },
                         {
@@ -7226,21 +6911,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男B"
+                                "Thuggish Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「知ってるぜ！！一人の女を輪姦すんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　最高だよな！！ギャハハハハ！！」"
+                                "\"I know, right?! They're gonna gangbang a girl, aren't they?\nIt's the best!! GYAHHAHAHAHA!!\""
                             ]
                         },
                         {
@@ -7260,21 +6938,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（KIZUSU、また配信するんだ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どうしよう…………もう一度見てみようかな…………）"
+                                "(KIZUSU is streaming again... What should I do... Maybe I'll\ntake another look...)"
                             ]
                         },
                         {
@@ -7282,8 +6953,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ライブを視聴する",
-                                    "やめておく"
+                                    "Watch the live performance",
+                                    "Decide not to"
                                 ],
                                 1,
                                 0,
@@ -7389,21 +7060,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（まさかこんなところでKIZUSUの名前を聞くなんて…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　しかし生配信かぁ。せっかくだし見てみようかな？）"
+                                "(I never expected to hear KIZUSU's name in a place like\nthis... But a live broadcast, huh. Since it's happening,\nmaybe I should check it out?)"
                             ]
                         },
                         {
@@ -7411,8 +7075,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ライブを視聴する",
-                                    "やめておく"
+                                    "Watch the live performance",
+                                    "Decide not to"
                                 ],
                                 1,
                                 0,
@@ -7562,21 +7226,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男A"
+                                "Thuggish Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんでよ！！その女に借金押し付けてよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのまま風俗に落としたってわけ！！」"
+                                "\"And then, man!! I pushed the debt onto that chick!! And\njust like that, dropped her into the sex industry!!\""
                             ]
                         },
                         {
@@ -7587,21 +7244,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男B"
+                                "Thuggish Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ギャハハハハ！！その女マジで馬鹿だな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騙されてるってわかんねぇのかよ！！ギャハハハハ！！」"
+                                "\"Gyahahaha!! That girl's seriously stupid!! Can't she see\nshe's being scammed!! Gyahahaha!!\""
                             ]
                         },
                         {
@@ -7612,14 +7262,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけちゃ駄目だ！急いでこの人から離れよう！）"
+                                "(I absolutely must not talk to them! I need to get away from\nthis person quickly!)"
                             ]
                         },
                         {
@@ -7712,21 +7362,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男A"
+                                "Thuggish Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「KIZUSUの動画、最高だったな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相変わらずの鬼畜っぷりだったぜ！！」"
+                                "\"That KIZUSU video was the best!! As always, the brutality\nwas off the charts!!\""
                             ]
                         },
                         {
@@ -7737,21 +7380,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男B"
+                                "Thuggish Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女の方も変態でヤバかったよな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんなら俺も混ざりたかったぜ！！ギャハハハハ！！」"
+                                "\"The girl was a total freak too, right?! I would've loved to\njoin in!! Gyahahahaha!!\""
                             ]
                         },
                         {
@@ -7862,21 +7498,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男A"
+                                "Thuggish Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんでよ！！その女に借金押し付けてよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのまま風俗に落としたってわけ！！」"
+                                "\"And then, man!! I pushed the debt onto that chick!! And\njust like that, dropped her into the sex industry!!\""
                             ]
                         },
                         {
@@ -7887,21 +7516,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男B"
+                                "Thuggish Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ギャハハハハ！！その女マジで馬鹿だな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騙されてるってわかんねぇのかよ！！ギャハハハハ！！」"
+                                "\"GYAHAHAHAHA!! That girl's seriously stupid!! Doesn't she\nrealize she's being scammed!! GYAHAHAHAHA!!\""
                             ]
                         },
                         {
@@ -7912,14 +7534,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけちゃ駄目だ！急いでこの人から離れよう！）"
+                                "(I must not talk to them! I need to get away from this\nperson quickly!)"
                             ]
                         },
                         {
@@ -8012,21 +7634,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男A"
+                                "Thuggish Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なぁ聞いたかよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　KIZUSUがまた3日連続でエロ配信するんだってよ！！」"
+                                "\"Hey, have you heard?! KIZUSU is going to do another erotic\nlivestream for three days straight!!\""
                             ]
                         },
                         {
@@ -8037,21 +7652,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男B"
+                                "Thuggish Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「知ってるぜ！！一人の女を輪姦すんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　最高だよな！！ギャハハハハ！！」"
+                                "\"I know, right?! They're gonna gang-bang a single girl,\naren't they? It's the best!! GYAHHAHAHAHA!!\""
                             ]
                         },
                         {
@@ -8071,21 +7679,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（KIZUSU、また配信するんだ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　どうしよう…………もう一度見てみようかな…………）"
+                                "(KIZUSU is streaming again... What should I do... Maybe I'll\ntake another look...)"
                             ]
                         },
                         {
@@ -8093,8 +7694,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ライブを視聴する",
-                                    "やめておく"
+                                    "Watch the live performance",
+                                    "Decide not to"
                                 ],
                                 1,
                                 0,
@@ -8200,21 +7801,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（まさかこんなところでKIZUSUの名前を聞くなんて…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　しかし生配信かぁ。せっかくだし見てみようかな？）"
+                                "(I never expected to hear KIZUSU's name in a place like\nthis... But a live broadcast, huh. Since it's happening,\nmaybe I should check it out?)"
                             ]
                         },
                         {
@@ -8222,8 +7816,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ライブを視聴する",
-                                    "やめておく"
+                                    "Watch the live performance",
+                                    "Decide not to"
                                 ],
                                 1,
                                 0,
@@ -8373,21 +7967,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男A"
+                                "Thuggish Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんでよ！！その女に借金押し付けてよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのまま風俗に落としたってわけ！！」"
+                                "\"And then, man!! I pushed the debt onto that chick!! And\njust like that, dropped her into the sex industry!!\""
                             ]
                         },
                         {
@@ -8398,21 +7985,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男B"
+                                "Thuggish Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ギャハハハハ！！その女マジで馬鹿だな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騙されてるってわかんねぇのかよ！！ギャハハハハ！！」"
+                                "\"GYAHAHAHAHA!! That girl's seriously stupid!! Can't she see\nshe's being scammed!! GYAHAHAHAHA!!\""
                             ]
                         },
                         {
@@ -8423,14 +8003,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけちゃ駄目だ！急いでこの人から離れよう！）"
+                                "(I must not talk to him! I need to get away from this person\nquickly!)"
                             ]
                         },
                         {
@@ -8523,21 +8103,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男A"
+                                "Thuggish Man A"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「KIZUSUの動画、最高だったな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相変わらずの鬼畜っぷりだったぜ！！」"
+                                "\"That KIZUSU video was the best!! As always, such a devilish\nbrutality!!\""
                             ]
                         },
                         {
@@ -8548,21 +8121,14 @@
                                 0,
                                 0,
                                 2,
-                                "ガラの悪い男B"
+                                "Thuggish Man B"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女の方も変態でヤバかったよな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんなら俺も混ざりたかったぜ！！ギャハハハハ！！」"
+                                "\"The girl was a total pervert too, it was insane!! I wish I\ncould have joined in!! Gyahahahaha!!\""
                             ]
                         },
                         {
@@ -8673,21 +8239,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤク中"
+                                "Junkie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ヒヒッ…………ヒヒヒヒヒッ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　世界って回ってんだぜ…………ぐるぐるぐるぐる…………」"
+                                "\"Heheh... Heheheheheh... The world's spinning round and\nround...\""
                             ]
                         },
                         {
@@ -8698,14 +8257,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけちゃ駄目だ！急いでこの人から離れよう！）"
+                                "(I must absolutely not talk to him! I need to get away from\nthis person quickly!)"
                             ]
                         },
                         {
@@ -8807,21 +8366,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の女"
+                                "Zombie-Faced Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Wanna buy me? Right now, for just 10,000 yen,\nI'll take you to heaven~\""
                             ]
                         },
                         {
@@ -8832,21 +8384,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前みたいなブスを買うわけねぇだろ！！ふざけんな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大体お前、人間かどうかも怪しいじゃねぇか！！」"
+                                "\"Like hell I'd buy someone as ugly as you!! Don't joke with\nme!! Besides, it's even questionable if you're human!!\""
                             ]
                         },
                         {
@@ -8857,21 +8402,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんて醜い顔なんだ…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　というか、そもそも女の人なのか…………？）"
+                                "(What an ugly face...! But first of all, is that even a\nwoman...?)"
                             ]
                         },
                         {
@@ -8964,21 +8502,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の女"
+                                "Zombie-Faced Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Won't you buy me? Right now, for just 10,000\nyen, I'll take you to heaven~\""
                             ]
                         },
                         {
@@ -8989,21 +8520,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでわざわざ金払って、お前とやらなきゃいけねぇんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今から俺はアナル専門の女を犯しに行くんだ！どっか行けよ！」"
+                                "\"Why the hell should I pay to do it with you! I'm off to\nscrew a woman who specializes in anal! Get lost!\""
                             ]
                         },
                         {
@@ -9014,21 +8538,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あ、アナル専門？本番はしないのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナルか…………ちょっとだけ気になるな…………）"
+                                "(Anal specialist? Does she not do regular sex? Anal... I'm a\nbit curious...)"
                             ]
                         },
                         {
@@ -9036,8 +8553,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見に行ってみようかな",
-                                    "アナルはちょっと…………"
+                                    "I wonder if I should go take a look.",
+                                    "Anal is a bit............"
                                 ],
                                 1,
                                 0,
@@ -9174,21 +8691,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の女"
+                                "Zombie-Faced Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Won't you buy me? Right now, for just 10,000\nyen, I'll take you to heaven~\""
                             ]
                         },
                         {
@@ -9199,21 +8709,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前みたいなブスを買うわけねぇだろ！！ふざけんな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大体お前、人間かどうかも怪しいじゃねぇか！！」"
+                                "\"Like hell I'd buy someone as ugly as you!! Don't joke with\nme!! Besides, it's even questionable whether you're human or\nnot!!\""
                             ]
                         },
                         {
@@ -9224,21 +8727,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんて醜い顔なんだ…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　というか、そもそも女の人なのか…………？）"
+                                "(What an ugly face...! But first of all, is that even a\nwoman...?)"
                             ]
                         },
                         {
@@ -9331,21 +8827,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の女"
+                                "Zombie-Faced Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Won't you buy me? Right now, for just 10,000\nyen, I'll take you to heaven~\""
                             ]
                         },
                         {
@@ -9356,21 +8845,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今更お前みたいなブス買うわけねぇだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あ～！またあの変態女のアナルを犯してぇな～！」"
+                                "\"Like hell I'd buy someone as ugly as you now! Ahh! I want\nto violate that perverted woman's ass again~!\""
                             ]
                         },
                         {
@@ -9381,21 +8863,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そ、そんなに気持ち良かったんだ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くそ、僕も犯してみたかったな…………）"
+                                "(So, it felt that good... Damn, I wanted to violate her\ntoo...)"
                             ]
                         },
                         {
@@ -9466,21 +8941,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の人"
+                                "Zombie-Faced Person"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Won't you buy me? Right now, for just 10,000\nyen, I'll take you to heaven~\""
                             ]
                         },
                         {
@@ -9491,21 +8959,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前みたいなブスを買うわけねぇだろ！！ふざけんな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大体お前、人間かどうかも怪しいじゃねぇか！！」"
+                                "\"Like hell I'd buy someone as ugly as you!! Don't mess with\nme!! Besides, it's even questionable whether you're human or\nnot!!\""
                             ]
                         },
                         {
@@ -9516,21 +8977,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんて醜い顔なんだ…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　というか、そもそも女の人なのか…………？）"
+                                "(What an ugly face...! But first of all, is that even a\nwoman...?)"
                             ]
                         },
                         {
@@ -9623,21 +9077,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の人"
+                                "Zombie-Faced Person"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Won't you buy me? Right now, for just 10,000\nyen, I'll take you to heaven~\""
                             ]
                         },
                         {
@@ -9648,21 +9095,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでわざわざ金払って、お前とやらなきゃいけねぇんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今から俺はアナル専門の女を犯しに行くんだ！どっか行けよ！」"
+                                "\"Why the hell should I pay to do it with you! I'm off to\nscrew a woman who specializes in anal! Get lost!\""
                             ]
                         },
                         {
@@ -9673,21 +9113,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あ、アナル専門？本番はしないのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナルか…………ちょっとだけ気になるな…………）"
+                                "(Anal specialist? Does that mean no vaginal? Anal... I'm a\nbit curious...)"
                             ]
                         },
                         {
@@ -9695,8 +9128,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見に行ってみようかな",
-                                    "アナルはちょっと…………"
+                                    "Maybe I should go take a look.",
+                                    "Anal is a bit............"
                                 ],
                                 1,
                                 0,
@@ -9833,21 +9266,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の人"
+                                "Zombie-Faced Person"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Won't you buy me? Right now, for just 10,000\nyen, I'll take you to heaven~\""
                             ]
                         },
                         {
@@ -9858,21 +9284,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前みたいなブスを買うわけねぇだろ！！ふざけんな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大体お前、人間かどうかも怪しいじゃねぇか！！」"
+                                "\"Like hell I'd buy someone as ugly as you!! Don't joke with\nme!! Besides, it's even questionable whether you're human or\nnot!!\""
                             ]
                         },
                         {
@@ -9883,21 +9302,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんて醜い顔なんだ…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　というか、そもそも女の人なのか…………？）"
+                                "(What an ugly face...! But first of all, is that even a\nwoman...?)"
                             ]
                         },
                         {
@@ -9990,21 +9402,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゾンビ顔の人"
+                                "Zombie-Faced Person"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇおじさ～ん。あたしを買わな～い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今なら1万ぽっきりで天国に連れてってあげるよ～」"
+                                "\"Hey mister~ Won't you buy me? Right now, for just 10,000\nyen, I'll take you to heaven~\""
                             ]
                         },
                         {
@@ -10015,21 +9420,14 @@
                                 0,
                                 0,
                                 2,
-                                "ひげ面の男"
+                                "Bearded Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今更お前みたいなブス買うわけねぇだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あ～！またあの変態女のアナルを犯してぇな～！」"
+                                "\"Like hell I'd buy an ugly chick like you now! Ah~! I want\nto violate that perverted woman's ass again~!\""
                             ]
                         },
                         {
@@ -10040,21 +9438,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そ、そんなに気持ち良かったんだ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くそ、僕も犯してみたかったな…………）"
+                                "(So, it felt that good... Damn, I wanted to violate her\ntoo...)"
                             ]
                         },
                         {
@@ -10125,21 +9516,14 @@
                                 0,
                                 0,
                                 2,
-                                "異常者"
+                                "Deviant"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アハハハハハハハハハハハ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アハハハハハハハハハハハハハハハハハハハハハハハハハ！！」"
+                                "\"Ahahahahahahaha!! Ahahahahahahahahahahahahahahahaha!!\""
                             ]
                         },
                         {
@@ -10150,14 +9534,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけちゃ駄目だ！急いでこの人から離れよう！）"
+                                "(I must absolutely not talk to them! I need to get away from\nthis person quickly!)"
                             ]
                         },
                         {
@@ -10259,21 +9643,14 @@
                                 0,
                                 0,
                                 2,
-                                "売人"
+                                "Dealer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………おい、あんちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良い薬があるんだけど買っていかねぇか」"
+                                "\"...Hey, young man. I've got some good stuff here, wanna buy\nsome?\""
                             ]
                         },
                         {
@@ -10284,14 +9661,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、いえ！！遠慮しておきます！！さようなら！！」"
+                                "\"N-No!! I'll pass!! Goodbye!!\""
                             ]
                         },
                         {
@@ -10393,21 +9770,14 @@
                                 0,
                                 0,
                                 2,
-                                "ホームレス"
+                                "Homeless"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この町は屑ばかりだ…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どいつもこいつも屑野郎だ…………ヒック」"
+                                "\"This town is full of trash... Every single one of them is a\nscumbag... *hic*\""
                             ]
                         },
                         {
@@ -10894,21 +10264,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここ、トイレか？…………うっ！？酷い臭いだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　流石にここでトイレはできないかな…………）"
+                                "(Is this the bathroom?... Ugh!? What a terrible smell! I\nguess I can't really use the toilet here...)"
                             ]
                         },
                         {
@@ -11199,21 +10562,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ハァ…………ハァ…………ここまでくれば大丈夫かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　警報は…………まだ聞こえてこないな…………）"
+                                "(Haa... Haa... I should be safe here, right? The alarm... I\nstill can't hear it...)"
                             ]
                         },
                         {
@@ -11268,21 +10624,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（や、やった！警報が鳴ってるぞ！作戦は成功だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これで誠は逃げられるはず！僕も早く、この町から離れよう！）"
+                                "(Ye-yes! The alarm is sounding! The operation was a success!\nThis means Makoto can escape! I need to get out of this town\nquickly too!)"
                             ]
                         },
                         {
@@ -11501,21 +10850,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだこの警報、まさか酒場から鳴ってんじゃねぇだろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　坊ちゃんの身に何もなけりゃいいけどな…………」"
+                                "\"What's with this alarm, it better not be coming from the\ntavern. I hope the young master is unharmed...\""
                             ]
                         },
                         {
@@ -11659,21 +11001,14 @@
                                 0,
                                 0,
                                 2,
-                                "サングラスの男"
+                                "Man With Sunglasses"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっきのガキ、どこかで見たような気が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…………いや、考え事は後回しだ。早く酒場に行かねぇと」"
+                                "\"That kid from earlier, I feel like I've seen him\nsomewhere... No, I'll think about it later. I need to get to\nthe tavern quickly.\""
                             ]
                         },
                         {
@@ -11877,21 +11212,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここ、トイレか？…………うっ！？酷い臭いだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　流石にここでトイレはできないかな…………）"
+                                "(Is this the bathroom?... Ugh!? What a terrible smell! I\nguess I can't really use the toilet here...)"
                             ]
                         },
                         {
@@ -12015,21 +11343,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここ、トイレか？…………うっ！？酷い臭いだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　流石にここでトイレはできないかな…………）"
+                                "(Is this the bathroom?... Ugh!? What a terrible smell! I\nguess I can't really use the toilet here...)"
                             ]
                         },
                         {
@@ -12153,21 +11474,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここ、トイレか？…………うっ！？酷い臭いだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　流石にここでトイレはできないかな…………）"
+                                "(Is this a bathroom?... Ugh!? What a terrible smell! I guess\nI can't really use the toilet here...)"
                             ]
                         },
                         {
@@ -12178,21 +11492,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………でも、さっきからお腹の調子が悪いんだよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今から家に帰っても間に合うか怪しいし、どうしようかな）"
+                                "(...But my stomach has been feeling off for a while now. I\nwonder if I can make it home in time, what should I do?)"
                             ]
                         },
                         {
@@ -12200,8 +11507,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仕方ないからここでする",
-                                    "家まで何とか我慢しよう"
+                                    "Can't help it, let's do it here.",
+                                    "Let's try to hold on until we get home."
                                 ],
                                 1,
                                 0,
@@ -12225,21 +11532,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（本当は嫌だけど…………漏らすよりはマシだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　手早く済ませて早く出ようっと…………）"
+                                "(I really don't want to... but it's better than having an\naccident. I'll just get this over with quickly and get out\nof here...)"
                             ]
                         },
                         {
@@ -12398,21 +11698,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここ、トイレか？…………うっ！？酷い臭いだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　流石にここでトイレはできないかな…………）"
+                                "(Is this the bathroom?... Ugh!? What a terrible smell! I\nguess I can't really use the toilet here...)"
                             ]
                         },
                         {
@@ -12536,21 +11829,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もうこのトイレには入りたくないな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　臭いし…………汚いし…………）"
+                                "(I really don't want to enter this bathroom again... It\nstinks... and it's dirty...)"
                             ]
                         },
                         {
@@ -12690,21 +11976,14 @@
                                 0,
                                 0,
                                 2,
-                                "酔っ払い"
+                                "Drunkard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「チクショー！！俺にも金さえあれば！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　色んな女をとっかえひっかえ出来んのによぉぉ！！」"
+                                "\"Damn it!! If only I had money!! I could be swapping out\ndifferent women all the time!!\""
                             ]
                         },
                         {
@@ -12715,14 +11994,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけちゃ駄目だ！急いでこの人から離れよう！）"
+                                "(I absolutely must not talk to him! I need to get away from\nthis person quickly!)"
                             ]
                         },
                         {
@@ -12815,21 +12094,14 @@
                                 0,
                                 0,
                                 2,
-                                "酔っ払い"
+                                "Drunkard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ヒヒヒ！すげぇな、あの女！馬鹿みたいに吸い付いてやがる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ク～！金があればなぁ～！俺も中に入れたの～！」"
+                                "\"Hehehe! That girl is amazing! She's clinging on like an\nidiot! Ahh, if only I had the money, I'd be inside her too!\""
                             ]
                         },
                         {
@@ -12840,21 +12112,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここって何の建物なんだ…………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それにさっきから聞こえてくる、この音は一体…………）"
+                                "(What kind of building is this...? And what's this sound\nthat I've been hearing...)"
                             ]
                         },
                         {
@@ -12862,8 +12127,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ちょっとだけ覗いてみる",
-                                    "興味ない"
+                                    "Just take a little peek.",
+                                    "Not interested."
                                 ],
                                 1,
                                 0,
@@ -13048,21 +12313,14 @@
                                 0,
                                 0,
                                 2,
-                                "酔っ払い"
+                                "Drunkard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「チクショー！！俺にも金さえあれば！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　色んな女をとっかえひっかえ出来んのによぉぉ！！」"
+                                "\"Damn it!! If only I had money!! I could be swapping out\ndifferent women all the time!!\""
                             ]
                         },
                         {
@@ -13073,14 +12331,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対に話しかけちゃ駄目だ！急いでこの人から離れよう！）"
+                                "(I absolutely must not talk to him! I need to get away from\nthis person quickly!)"
                             ]
                         },
                         {
@@ -13211,21 +12469,14 @@
                                 0,
                                 0,
                                 2,
-                                "酔っ払い"
+                                "Drunkard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「チクショー！！俺にも金さえあれば！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　色んな女をとっかえひっかえ出来んのによぉぉ！！」"
+                                "\"Damn it!! If only I had money!! I could be swapping out\ndifferent women all the time!!\""
                             ]
                         },
                         {
@@ -13236,21 +12487,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あの女の人、今日はいないのかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっとだけ残念だな…………なんてね）"
+                                "(I wonder if that woman isn't here today. I'm a little\ndisappointed... just kidding.)"
                             ]
                         },
                         {
@@ -13458,14 +12702,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あまりうろつかない方がいいよな」"
+                                "\"It's better not to wander around too much.\""
                             ]
                         },
                         {
@@ -13527,21 +12771,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あのボヤ騒ぎのこと、実はニュースになったんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　警官がボヤの原因を探していたら、危ない薬が見つかったって）"
+                                "(That commotion actually made the news. When the police were\ninvestigating the cause of the fire, they found dangerous\ndrugs.)"
                             ]
                         },
                         {
@@ -13552,21 +12789,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（誠を助けるために火をつけた時は申し訳なかったけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり危ない店だったんだな。店主が捕まってよかった）"
+                                "(I felt guilty for starting the fire to save Makoto, but it\nturns out it was a dangerous place after all. It's good that\nthe owner got arrested.)"
                             ]
                         },
                         {
@@ -13743,14 +12973,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あまりうろつかない方がいいよな」"
+                                "\"It's better not to wander around too much.\""
                             ]
                         },
                         {
@@ -13812,21 +13042,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あのボヤ騒ぎのこと、実はニュースになったんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　警官がボヤの原因を探していたら、危ない薬が見つかったって）"
+                                "(That commotion actually made the news. When the police were\ninvestigating the cause of the fire, they found dangerous\ndrugs.)"
                             ]
                         },
                         {
@@ -13837,21 +13060,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（誠を助けるために火をつけた時は申し訳なかったけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり危ない店だったんだな。店主が捕まってよかった）"
+                                "(I felt guilty for starting the fire to save Makoto, but it\nturns out it was a dangerous place after all. I'm glad the\nowner got arrested.)"
                             ]
                         },
                         {

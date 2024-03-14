@@ -2881,21 +2881,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「パフェが食べられるのはこの店かな？結構レトロな感じだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よ～し早速パフェを注文するぞ～！」"
+                                "\"Is this the place where I can get a parfait? It has quite a\nretro vibe. Alright, I'm going to order a parfait right\naway!\""
                             ]
                         },
                         {
@@ -3103,21 +3096,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お待たせいたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こちらが特製フルーツパフェになります」"
+                                "\"Thank you for waiting. Here is our special fruit parfait.\""
                             ]
                         },
                         {
@@ -3128,14 +3114,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（お～！来た来た！って……………………えぇ！？）"
+                                "(Wow! Here it comes! But... what!? )"
                             ]
                         },
                         {
@@ -3191,21 +3177,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（な、なんて大きさだ…………！明らかに量が多すぎる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これで1人前なのか？僕一人で食べられるかな…………）"
+                                "(Wh-What size is this...! It's clearly too much. Is this\nreally a single serving? Can I eat it all by myself...)"
                             ]
                         },
                         {
@@ -3216,21 +3195,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、せっかく頼んだんだ。残すわけにはいかないよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頑張って食べてやるぞ！うおおおおおおおおお！」"
+                                "\"No, I ordered it after all. I can't just leave it. I'll do\nmy best to eat it all! Uoooooooh!\""
                             ]
                         },
                         {
@@ -3367,21 +3339,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんとか食べきったぞ！だけど、ちょっとお腹が…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　や、ヤバイ。トイレに行かないと…………！）"
+                                "(Somehow I managed to finish it! But, my stomach is... oh\nno, this is bad. I need to go to the bathroom...!)"
                             ]
                         },
                         {
@@ -3535,14 +3500,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「す、すいません…………お会計を、お願いします！」"
+                                "\"Excuse me... could I have the check, please?\""
                             ]
                         },
                         {
@@ -3553,14 +3518,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お会計ですね～。パフェ1点で1000円となりま～す」"
+                                "\"The check, right. That will be 1000 yen for the parfait.\""
                             ]
                         },
                         {
@@ -3590,21 +3555,14 @@
                                 0,
                                 0,
                                 2,
-                                "店員"
+                                "Clerk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい、丁度ですね～。こちらがレシートです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご来店ありがとうございました～！」"
+                                "\"Here you go, exact change. Here's your receipt. Thank you\nfor coming!\""
                             ]
                         },
                         {

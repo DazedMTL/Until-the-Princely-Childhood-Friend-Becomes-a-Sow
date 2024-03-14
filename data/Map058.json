@@ -1304,21 +1304,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うわ、酷いな。物が散乱して足の踏み場がないじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奥の方を調べるには、床の箱を押して進むしかないな」"
+                                "\"Wow, this is terrible. There's stuff scattered everywhere,\nno place to step. To check the back, I'll have to push the\nboxes on the floor and make my way through.\""
                             ]
                         },
                         {
@@ -1355,21 +1348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　倉庫内でのセーブは禁止されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　積み防止のため、予めセーブすることをお勧めします。"
+                                "*Note: Saving inside the warehouse is prohibited. To prevent\ndata corruption, it is recommended to save in advance."
                             ]
                         },
                         {
@@ -1385,14 +1364,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、頑張ろう」"
+                                "\"Alright, let's do this.\""
                             ]
                         },
                         {
@@ -1554,21 +1533,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何か役に立つものはないかな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ん？これは…………?」"
+                                "\"I wonder if there's anything useful around... Hm? What's\nthis...?\""
                             ]
                         },
                         {
@@ -1608,7 +1580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ライターを手に入れた！"
+                                "Obtained a lighter!"
                             ]
                         },
                         {
@@ -1619,21 +1591,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、これで火種は確保できたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後は燃やせるものを探すだけだ！」"
+                                "\"Alright, now I've secured a source of fire. All that's left\nis to find something to burn!\""
                             ]
                         },
                         {
@@ -1704,21 +1669,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何か役に立つものはないかな…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ん？これは…………！」"
+                                "\"Is there anything useful here... Hm? What's this...!\""
                             ]
                         },
                         {
@@ -1765,7 +1723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ライターを手に入れた！"
+                                "Obtained a lighter!"
                             ]
                         },
                         {
@@ -1776,21 +1734,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、これで火種は確保できたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後は火を起こすだけだ、急いで火を起こそう！」"
+                                "\"Alright, with this I've secured a source of fire. Now all\nthat's left is to start the fire, let's hurry and get it\nlit!\""
                             ]
                         },
                         {

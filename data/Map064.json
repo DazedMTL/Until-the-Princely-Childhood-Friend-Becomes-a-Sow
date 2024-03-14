@@ -1149,21 +1149,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「う～ん…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　このケーキ、何か意味があってここに置いてあるのかな」"
+                                "\"Hmm... I wonder if there's a reason this cake is placed\nhere.\""
                             ]
                         },
                         {
@@ -1184,21 +1177,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本物のケーキかと思ったけど、食品サンプルみたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でも、何でこんな場所にこんな物が置いてあるんだろう？」"
+                                "\"I thought it was a real cake, but it looks like a food\nsample. But why is something like this placed here?\""
                             ]
                         },
                         {
@@ -1279,14 +1265,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まさかこれがパスワードのヒントだったとはなぁ…………」"
+                                "\"I can't believe this was a hint for the password...\""
                             ]
                         },
                         {
@@ -1377,21 +1363,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うーん…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　このアルファベット表、何故か気になるんだよな…………」"
+                                "\"Hmm... I'm somehow intrigued by this alphabet chart...\""
                             ]
                         },
                         {
@@ -1423,21 +1402,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「カレンダーかと思ったけど、アルファベット表みたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　僕の家にも似たようなものがあったんだよな。懐かしいな」"
+                                "\"I thought it was a calendar, but it looks like an alphabet\nchart. I had something similar at my house. Brings back\nmemories.\""
                             ]
                         },
                         {
@@ -1509,14 +1481,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まさかこれがパスワードのヒントだったとはなぁ…………」"
+                                "\"I can't believe this was a hint for the password...\""
                             ]
                         },
                         {
@@ -1707,21 +1679,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「上に何か置いてあるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…………そうだ、さっきの脚立を足場にすれば」"
+                                "\"There seems to be something placed up there... Ah, if I use\nthe stepladder from earlier as a foothold.\""
                             ]
                         },
                         {
@@ -1829,21 +1794,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「なんだろう、この箱。中身は…………工具みたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何かに使えそうだし、持っていくとしよう」"
+                                "\"What's this, a box? The contents look like tools. They\nmight come in handy, so I'll take them with me.\""
                             ]
                         },
                         {
@@ -1873,7 +1831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "工具箱を手に入れた！"
+                                "Gained a toolbox!"
                             ]
                         },
                         {
@@ -1914,21 +1872,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「上に何か置いてあるみたいだけど、この高さだと届かないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　足場になりそうなものを探してみよう」"
+                                "\"It looks like there's something placed up there, but I\ncan't reach it at this height. I should look for something\nthat could serve as a foothold.\""
                             ]
                         },
                         {
@@ -2138,21 +2089,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「上に何か置いてあるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…………そうだ、さっきの脚立を足場にすれば」"
+                                "\"There seems to be something placed up there... Ah, if I use\nthe ladder from earlier as a foothold.\""
                             ]
                         },
                         {
@@ -2260,21 +2204,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「なんだろう、この箱。中身は…………工具みたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何かに使えそうだし、持っていくとしよう」"
+                                "\"What's this, a box? The contents look like tools. They seem\nuseful, so I'll take them with me.\""
                             ]
                         },
                         {
@@ -2304,7 +2241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "工具箱を手に入れた！"
+                                "Gained a toolbox!"
                             ]
                         },
                         {
@@ -2345,21 +2282,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「上に何か置いてあるみたいだけど、この高さだと届かないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　足場になりそうなものを探してみよう」"
+                                "\"It looks like there's something placed up there, but I\ncan't reach it at this height. I should look for something\nthat can be used as a foothold.\""
                             ]
                         },
                         {

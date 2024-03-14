@@ -2323,21 +2323,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「脚立が置いてあるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かに使えるかもしれないし、一応持っていこうかな」"
+                                "\"There's a stepladder here. It might be useful for\nsomething, so I guess I'll take it with me just in case.\""
                             ]
                         },
                         {
@@ -2376,7 +2369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "脚立を手に入れた！"
+                                "You've obtained a stepladder!"
                             ]
                         },
                         {
@@ -2695,21 +2688,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「や、やった！金庫の鍵を開けられたぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　中に何が入って…………こ、これは！」"
+                                "\"Yes, I did it! I managed to open the safe's lock! What's\ninside... Wh-what is this!\""
                             ]
                         },
                         {
@@ -2739,7 +2725,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "マスターキーを手に入れた！"
+                                "Obtained the Master Key!"
                             ]
                         },
                         {
@@ -2750,21 +2736,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「どうやらカードキーみたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　これがあれば、鍵のかかった扉を開けられるかもしれないぞ」"
+                                "\"It seems to be some kind of card key. With this, I might be\nable to open locked doors.\""
                             ]
                         },
                         {
@@ -2775,14 +2754,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「よし、早速このカードキーを使える場所を探そう！」"
+                                "\"Alright, let's quickly find a place to use this card key!\""
                             ]
                         },
                         {
@@ -2822,21 +2801,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うーん、やっぱり無理か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　どこかでこの金庫のパスワードが分かればいいんだけどなぁ」"
+                                "\"Hmm, no good after all. If only I could find the password\nfor this safe somewhere...\""
                             ]
                         },
                         {
@@ -2867,21 +2839,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（こんなところに金庫が置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何か重要なものでも入ってるのかな？）"
+                                "\"(There's a safe here. I wonder if it contains something\nimportant?)\""
                             ]
                         },
                         {
@@ -2939,21 +2904,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「や、やった！金庫の鍵を開けられたぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　中に何が入って…………こ、これは！」"
+                                "\"Yes, I did it! I managed to open the safe's lock! What's\ninside... Wh-what is this!\""
                             ]
                         },
                         {
@@ -2983,7 +2941,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "マスターキーを手に入れた！"
+                                "Obtained the Master Key!"
                             ]
                         },
                         {
@@ -3004,21 +2962,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「どうやらカードキーみたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　これがあれば、鍵のかかった扉を開けられるかもしれないぞ」"
+                                "\"It seems to be some kind of card key. With this, I might be\nable to open locked doors.\""
                             ]
                         },
                         {
@@ -3029,14 +2980,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「よし、早速このカードキーを使える場所を探そう！」"
+                                "\"Alright, let's quickly find a place to use this card key!\""
                             ]
                         },
                         {
@@ -3076,21 +3027,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うーん、やっぱり無理か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　どこかでこの金庫のパスワードが分かればいいんだけどなぁ」"
+                                "\"Hmm, no good after all. If only I could find the password\nfor this safe somewhere...\""
                             ]
                         },
                         {
@@ -3181,21 +3125,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「カードキーの他には何も入っていないみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうこの金庫に用はないかな」"
+                                "\"It seems like there's nothing else in the safe besides the\ncard key. I guess there's no more use for this safe.\""
                             ]
                         },
                         {
@@ -3273,21 +3210,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここは…………どうやら物置みたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やけに散らかってるし、箱をどけながら進むしかないな」"
+                                "\"This place... seems to be a storeroom. It's quite messy,\nand I have no choice but to move the boxes as I go.\""
                             ]
                         },
                         {
@@ -3324,21 +3254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　物置内でのセーブは禁止されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　積み防止のため、予めセーブすることをお勧めします。"
+                                "*Note: Saving is prohibited inside the storeroom. To prevent\nstacking issues, it is recommended to save beforehand."
                             ]
                         },
                         {
@@ -3354,14 +3270,14 @@
                                 0,
                                 0,
                                 2,
-                                "佐藤　衛"
+                                "Sato Mamoru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、頑張ろう」"
+                                "\"Alright, let's do this.\""
                             ]
                         },
                         {

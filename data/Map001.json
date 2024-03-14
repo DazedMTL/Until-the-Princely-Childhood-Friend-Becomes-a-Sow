@@ -1411,7 +1411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………さい。"
+                                "..."
                             ]
                         },
                         {
@@ -1429,7 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………起きな…………さい。"
+                                "...wake up..."
                             ]
                         },
                         {
@@ -1447,7 +1447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………起きなさい…………起きなさい！"
+                                "...wake up...wake up!"
                             ]
                         },
                         {
@@ -1477,14 +1477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{何時まで寝てるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起きなさい！衛！"
+                                "How long are you going to sleep! Wake up, Mamoru!"
                             ]
                         },
                         {
@@ -1582,21 +1575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "4月29日（金曜日）。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日からいよいよゴールデンウィークのスタートだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は連休を誠と過ごすために、誠のスマホに連絡した。"
+                                "April 29th (Friday). Today marks the start of Golden Week. I\ncontacted Makoto's smartphone to spend the holidays with\nher."
                             ]
                         },
                         {
